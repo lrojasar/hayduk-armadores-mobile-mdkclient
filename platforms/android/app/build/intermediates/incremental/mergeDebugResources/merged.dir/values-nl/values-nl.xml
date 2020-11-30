@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="attachment_long_press_options">
+        <item name="remove" translatable="true">"Bijlage verwijderen"</item>
+    </string-array>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"UIT"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"AAN"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Functie +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"spatie"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string name="abc_searchview_description_scan" translatable="true">"Scan zoeken"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"Gebied voor Help-berichten"</string>
+    <string name="action_cell_icon_desc">"Actiepictogram"</string>
+    <string name="activation_action_next">"Volgende"</string>
+    <string name="activation_action_scan">"Scan"</string>
+    <string name="activation_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="activation_detail_label">"Als u een welkomstmail hebt ontvangen, volgt u de activeringslink in de e-mail. U kunt de activering ook starten door uw e-mailadres in te voeren of de QR-code te scannen."</string>
+    <string name="activation_headline_label">"Activering"</string>
+    <string name="activation_subheadline_label">"Of"</string>
+    <string name="activationscreen_discovery_button">"Start"</string>
+    <string name="activationscreen_discovery_title">"E-mail gebruiken"</string>
+    <string name="activationscreen_email_hint">"Uw e-mail"</string>
+    <string name="activationscreen_instruction"/>
+    <string name="activationscreen_instruction_barcode">"Scan de beveiligde QR-code om het activeringsproces te starten."</string>
+    <string name="activationscreen_instruction_choose_an_option">"Voer uw e-mailadres in om het activeringsproces te starten.\n\nU kunt ook gebruikmaken van QR-codescan."</string>
+    <string name="activationscreen_instruction_discovery_service">"Voer uw e-mailadres in om het activeringsproces te starten."</string>
+    <string name="activationscreen_instruction_mail">"Controleer uw e-mail en meld u aan via de activeringslink die we u hebben gestuurd."</string>
+    <string name="activationscreen_instruction_mail_email">"Controleer uw e-mail en meld u aan via de activeringslink die we u hebben gestuurd.\n\nEr is een e-mail verzonden aan:\n"<b>"%s"</b></string>
+    <string name="activationscreen_qrcode_title">"QR-codescan gebruiken"</string>
+    <string name="activationscreen_scan_button">"QR-codescan"</string>
+    <string name="activationscreen_title">"Activering"</string>
+    <string name="activationscreen_title_mail">"Wij hebben u een e-mail gestuurd"</string>
+    <string name="add_photo">"Foto toevoegen"</string>
+    <string name="attachment_action_icon_desc" translatable="true">"Pictogram voor bijlageactie"</string>
+    <string name="attachment_action_message" translatable="true">"Bijvoegen van"</string>
+    <string name="attachment_action_title_desc" translatable="true">"Naam van bijlageactie"</string>
+    <string name="attachment_add_btn_txt" translatable="true">"Toevoegen"</string>
+    <string name="attachment_default_key" translatable="true">"Bijlagen (%1$d)"</string>
+    <string name="attachment_item_content_desc" translatable="true">"Bijlage-item"</string>
+    <string name="attachment_item_detail_title" translatable="true">"Naam en andere details"</string>
+    <string name="attachment_item_fail_dialog_bottom_title" translatable="true">"OK"</string>
+    <string name="attachment_item_fail_message" translatable="true">"Openen van bijlage mislukt"</string>
+    <string name="attachment_item_icon_desc" translatable="true">"Pictogram van bijlage"</string>
+    <string name="attachment_item_open_message" translatable="true">"Bijlage wordt geopend"</string>
+    <string name="attachment_remove_icon_desc" translatable="true">"Bijlage verwijderen"</string>
+    <string name="attempts">"U hebt nog 1 poging"</string>
+    <string name="attempts_left_message">"U hebt nog {0,number,#} pogingen"</string>
+    <string name="authentication_failed_key">"Onboarding is mislukt."</string>
+    <string name="authentication_required">"Verificatie vereist"</string>
+    <string name="auto_focus" translatable="true">"Automatische focus"</string>
+    <string name="barcode_error" translatable="true">"Fout bij lezen van barcode: %1$s"</string>
+    <string name="barcode_failure" translatable="true">"Geen barcode ingevoerd"</string>
+    <string name="barcode_header" translatable="true">"Klik op Barcode lezen om een barcode te lezen"</string>
+    <string name="barcode_success" translatable="true">"Barcode gelezen"</string>
+    <string name="basic_auth_instruction">"Verificatie vereist"</string>
+    <string name="basic_auth_message">"Voor de server %1$s zijn een gebruikersnaam en een wachtwoord vereist."</string>
+    <string name="basic_auth_password">"Wachtwoord"</string>
+    <string name="basic_auth_title">"Aanmelden"</string>
+    <string name="basic_auth_user_name">"Gebruikersnaam"</string>
+    <string name="cancel">"Annuleren"</string>
+    <string name="cancel_button">@android:string/cancel</string>
+    <string name="cancel_onboarding_action_cancel">"Nee"</string>
+    <string name="cancel_onboarding_action_ok">"Ja"</string>
+    <string name="cancel_onboarding_msg">"Weet u zeker dat u het onboardingproces wilt annuleren?"</string>
+    <string name="clear">"Wissen"</string>
+    <string name="collapse" translatable="true">"Verbergen"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Inschakelen"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt niet, tenzij je Google Play-services inschakelt."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-services inschakelen"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installeren"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-services ophalen"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Beschikbaarheid van Google Play-services"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fout met Google Play-services"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Probeer het opnieuw."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Updaten"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd, tenzij je Google Play-services updatet."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-services updaten"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Openen op telefoon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Inloggen"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Inloggen met Google"</string>
+    <string name="confirm_biometric_description_label">"Meld u aan met behulp van biometrie.\nU kunt ook een toegangscode gebruiken om u aan te melden."</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"Wachtwoord gebruiken"</string>
+    <string name="confirm_fingerprint_detail_label">"Contactsensor voor aanmelding met vingerafdruk.\nDaarnaast is aanmelden via een toegangscode mogelijk."</string>
+    <string name="confirm_fingerprint_headline_label">"Aanmelden"</string>
+    <string name="confirm_fingerprint_try_password_button">"Toegangscode gebruiken"</string>
+    <string name="confirm_no">"Nee"</string>
+    <string name="confirm_yes">"Ja"</string>
+    <string name="consent_button_confirm">"TOESTAAN"</string>
+    <string name="consent_button_reject">"AFWIJZEN"</string>
+    <string name="consent_footer_back">"VORIGE"</string>
+    <string name="consent_footer_next">"VOLGENDE"</string>
+    <string name="consent_footer_x_of_y">"Stap %d van %d"</string>
+    <string name="consent_header_skip_button">"OVERSLAAN"</string>
+    <string name="consent_title_text">"TOESTEMMING"</string>
+    <string name="contact_cell_info_action_ok">"OK"</string>
+    <string name="contact_cell_info_action_title">"Info"</string>
+    <string name="content_body">"Gedetailleerde tekst over in hoeverre gegevensbescherming betrekking heeft op deze app en waarom het belangrijk is voor de gebruiker om deze functionaliteit in te schakelen."</string>
+    <string name="content_learn_more">"Meer informatie over beveiliging"</string>
+    <string name="content_title">"Toestemming"</string>
+    <string name="continue_with_same_string">"Huidige applicatie gebruiken"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"Onbekende fout"</string>
+    <string name="detector_not_operational">"Barcodeherkenning werkt niet vanwege ontbrekende afhankelijkheden voor Google Play-services. Camera wordt niet weergegeven."</string>
+    <string name="dialog_action_retry">"Opnieuw proberen"</string>
+    <string name="done">"Gereed"</string>
+    <string name="duration_picker_form_cell_duration_text_format" translatable="true">"%d uur %d min."</string>
+    <string name="enable_fingerprint_alert_cancel_text">"Niet nu"</string>
+    <string name="enable_fingerprint_alert_message">"Om uw vingerafdruk te kunnen gebruiken, moet u minimaal één vingerafdruk registreren in de instellingen"</string>
+    <string name="enable_fingerprint_alert_settings_text">"Ga naar instellingen"</string>
+    <string name="enable_fingerprint_alert_title">"Uw vingerafdruk registreren"</string>
+    <string name="enable_fingerprint_button">"Vingerafdruk inschakelen"</string>
+    <string name="enable_fingerprint_detail_label">"Gebruik uw vingerafdruk om sneller en eenvoudiger toegang te krijgen tot uw account."</string>
+    <string name="enable_fingerprint_error_message_device_is_not_secure">"Apparaat is niet veilig"</string>
+    <string name="enable_fingerprint_error_message_no_fingerprint_added">"Registreer minimaal één vingerafdruk in de instellingen"</string>
+    <string name="enable_fingerprint_headline_label">"Uw vingerafdruk gebruiken"</string>
+    <string name="enter_credentials_message">"U hebt het maximumaantal pogingen bereikt om uw toegangscode in te voeren. Voer uw aanmeldgegevens in om u aan te melden en de toegangscode te resetten."</string>
+    <string name="eula_button_confirm">"Akkoord"</string>
+    <string name="eula_button_reject">"Niet akkoord"</string>
+    <string name="eula_title_text">"EULA"</string>
+    <string name="exit_search" translatable="true">"Zoeken afsluiten"</string>
+    <string name="expand" translatable="true">"Weergeven"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Geavanceerd"</string>
+    <string name="expandable_menu">"Pijl geeft aan dat het item kan worden uitgebreid"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Overige"</string>
+    <string name="file_provider">"com.sap.mobile.platform.SnowblindClient.fileprovider"</string>
+    <string name="filter_actionbar_title" translatable="true">"Filteren op"</string>
+    <string name="filter_all_items" translatable="true">"ALLES"</string>
+    <string name="filter_apply_filter" translatable="true">"Toepassen"</string>
+    <string name="filter_confirm_discard" translatable="true">"Afkeuren"</string>
+    <string name="filter_confirm_message" translatable="true">"Wilt u de nieuwe filters die u hebt ingesteld afkeuren?"</string>
+    <string name="filter_confirm_title" translatable="true">"Nieuwe filters niet toegepast"</string>
+    <string name="filter_reset_all" translatable="true">"Alles resetten"</string>
+    <string name="filter_selected_items" translatable="true">"GESELECTEERDE"</string>
+    <string name="fingerprint_authenticate_error_detail_label">"Voer een verificatie uit met uw vingerafdruk om de app te kunnen gebruiken. Het duurt 30 seconden totdat u de sensor opnieuw kunt gebruiken."</string>
+    <string name="fingerprint_authenticate_error_headline_label">"Verificatiefout"</string>
+    <string name="fingerprint_authenticate_error_reset_button">"Client resetten"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"Raak de vingerafdruksensor aan"</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"Hardware voor vingerafdruk niet beschikbaar."</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"Dit apparaat heeft geen vingerafdruksensor"</string>
+    <string name="fingerprint_error_label">"Niet herkend"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"Te veel pogingen. Probeer het later opnieuw."</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"Geen vingerafdrukken geregistreerd."</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"Vingerafdrukverificatie geannuleerd door gebruiker."</string>
+    <string name="fingerprint_general_error_label">"Probleem opgetreden bij verificatie"</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"Niet herkend"</string>
+    <string name="gb_size_unit">"GB"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"Verificatie geannuleerd door gebruiker."</string>
+    <string name="init_odata_downloaded_data_subtext_format">"Bezig met uploaden van gegevens… %1$,.2f%2$s"</string>
+    <string name="init_odata_downloaded_file_subtext_format">"Bezig met uploaden van bestand… %1$,.2f%2$s"</string>
+    <string name="init_odata_initial_communication">"Bezig met verbinding maken…"</string>
+    <string name="init_odata_initializing">"Bezig met verbinding maken…"</string>
+    <string name="init_odata_opened">"Voltooid"</string>
+    <string name="init_odata_opening">"Bezig met openen…"</string>
+    <string name="init_odata_prepare_download_data">"Bezig met wachten op gegevens van server…"</string>
+    <string name="init_odata_prepare_download_file">"Bezig met wachten op bestand van server…"</string>
+    <string name="init_odata_sending_store">"Bezig met uploaden…"</string>
+    <string name="init_odata_uploading">"Bezig met uploaden…"</string>
+    <string name="kb_size_unit">"KB"</string>
+    <string name="launchscreen_button_demo">"Probeer de demo"</string>
+    <string name="launchscreen_button_primary">"Aan de slag"</string>
+    <string name="launchscreen_description"/>
+    <string name="launchscreen_footnote">"Bekijk onze &lt;a href=%1$s>servicevoorwaarden&lt;/a> &amp; ons &lt;a href=%2$s>privacybeleid&lt;/a>"</string>
+    <string name="launchscreen_headline"/>
+    <string name="launchscreen_title"/>
+    <string name="loading" translatable="true">"Bezig met laden..."</string>
+    <string name="log_in">"Aanmelden"</string>
+    <string name="low_storage">"opslag bijna vol"</string>
+    <string name="low_storage_error" translatable="true">"De afhankelijkheden voor gezichtsherkenning kunnen niet worden gedownload, omdat het apparaatgeheugen bijna vol is"</string>
+    <string name="map_add_button">"Toevoegen"</string>
+    <string name="map_branch_button">"Filiaal"</string>
+    <string name="map_cluster_close">"Hiermee wordt het clusterpaneel gesloten"</string>
+    <string name="map_directions">"Richtingen"</string>
+    <string name="map_edit_add_point_button">"Punt toevoegen"</string>
+    <string name="map_edit_annotation_type">"Soort annotatie"</string>
+    <string name="map_edit_annotations">"Annotaties bewerken"</string>
+    <string name="map_edit_cancel_button">"Annuleren"</string>
+    <string name="map_edit_cancel_edit_confirm_button">"Sluiten"</string>
+    <string name="map_edit_cancel_edit_decline_button">"Doorgaan met bewerken"</string>
+    <string name="map_edit_cancel_edit_message">"Weet u zeker dat u de kaarteditor wilt sluiten?"</string>
+    <string name="map_edit_cancel_edit_title">"De kaarteditor sluiten?"</string>
+    <string name="map_edit_clear_all_button">"Alles wissen"</string>
+    <string name="map_edit_clear_points_confirm_button">"Alles wissen"</string>
+    <string name="map_edit_clear_points_message">"Alle punten wissen?"</string>
+    <string name="map_edit_close_button">"Sluiten"</string>
+    <string name="map_edit_label_address">"Adres"</string>
+    <string name="map_edit_save_button">"Opslaan"</string>
+    <string name="map_edit_switch_confirm_button">"Omschakelen"</string>
+    <string name="map_edit_switch_to_point_message">"Al uw toegevoegde punten worden verwijderd. Weet u zeker dat u wilt omschakelen?"</string>
+    <string name="map_edit_switch_to_point_title">"Wilt u naar een punt omschakelen?"</string>
+    <string name="map_edit_switch_to_polygon_message">"De door u toegevoegde punten worden niet gewijzigd. U kunt verdergaan met de aanmaak van het object."</string>
+    <string name="map_edit_switch_to_polygon_title">"Wilt u naar een polygoon omschakelen?"</string>
+    <string name="map_edit_switch_to_polyline_message">"De door u toegevoegde punten worden niet gewijzigd. U kunt verdergaan met de aanmaak van het object."</string>
+    <string name="map_edit_switch_to_polyline_title">"Wilt u naar een polylijn omschakelen?"</string>
+    <string name="map_edit_type_point">"Punt"</string>
+    <string name="map_edit_type_polygon">"Polygoon"</string>
+    <string name="map_edit_type_polyline">"Polylijn"</string>
+    <string name="map_legend">"Legenda"</string>
+    <string name="map_legend_button">"Knop Legenda"</string>
+    <string name="map_legend_item">"Legenda-item"</string>
+    <string name="map_legend_title">"Legendatitel"</string>
+    <string name="map_list_title">"%1$d objecten"</string>
+    <string name="map_location_button">"Knop Locatie"</string>
+    <string name="map_point_delete_confirm_button">"Verwijderen"</string>
+    <string name="map_point_delete_message">"Weet u zeker dat u dit punt wilt verwijderen?"</string>
+    <string name="map_preview_close">"Hiermee wordt het previewpaneel gesloten"</string>
+    <string name="map_priority_high">"Hoog"</string>
+    <string name="map_priority_low">"Laag"</string>
+    <string name="map_priority_medium">"Gemiddeld"</string>
+    <string name="map_priority_very_high">"Zeer hoog"</string>
+    <string name="map_redo_button">"Opnieuw uitvoeren"</string>
+    <string name="map_remove_button">"Verwijderen"</string>
+    <string name="map_search_cancel">"Annuleren"</string>
+    <string name="map_search_enter_an_address">"Voer een adres in"</string>
+    <string name="map_search_error_message">"Fout opgetreden tijdens zoeken naar locatie."</string>
+    <string name="map_search_error_title">"Zoekfout"</string>
+    <string name="map_search_location_search_title">"Selecteer huidige locatie"</string>
+    <string name="map_search_ok">"OK"</string>
+    <string name="map_search_your_location">"Huidige locatie"</string>
+    <string name="map_settings_button">"Knop Instellingen"</string>
+    <string name="map_settings_title">"Instellingen"</string>
+    <string name="map_show_hide_button">"Knop Weergeven/verbergen"</string>
+    <string name="map_toolbar">"Werkbalk"</string>
+    <string name="map_undo_button">"Ongedaan maken"</string>
+    <string name="map_zoom_button">"Knop Zoombereik"</string>
+    <string name="max_attempts_reached_message">"Toegangscode moet worden gereset"</string>
+    <string name="mb_size_unit">"MB"</string>
+    <string name="network_unreachable_key">"Netwerk is niet beschikbaar. Probeer het later opnieuw."</string>
+    <string name="new_activity_on_click_sign">"Pijl naar links geeft aan dat er een nieuwe activiteit wordt gecreëerd door op de view te klikken"</string>
+    <string name="no_camera_permission" translatable="true">"Deze applicatie kan niet worden uitgevoerd, omdat u geen bevoegdheid voor de camera hebt. De applicatie wordt nu afgesloten."</string>
+    <string name="null_policy_cancel_button_alert_dialog">"Annuleren"</string>
+    <string name="null_policy_desc_alert_dialog">"Er is momenteel geen toegangscodebeleid beschikbaar."</string>
+    <string name="null_policy_header_alert_dialog">"Downloadfout"</string>
+    <string name="null_policy_retry_button_alert_dialog">"Opnieuw"</string>
+    <string name="object_header_page_1" translatable="true">"Pagina 1"</string>
+    <string name="object_header_page_2" translatable="true">"Pagina 2"</string>
+    <string name="object_header_page_3" translatable="true">"Pagina 3"</string>
+    <string name="ok_button">"android:string/ok"</string>
+    <string name="ok_button_label">"OK"</string>
+    <string name="onboarding_eula_title">"Licentieovereenkomst eindgebruiker"</string>
+    <string name="onboarding_passcode_fingerprint_reset">"Toegangscode gebruiken"</string>
+    <string name="onboarding_passcode_max_attempts_reached">"Toegangscode moet opnieuw worden ingesteld"</string>
+    <string name="onboarding_passcode_reset_app">"Applicatie resetten"</string>
+    <string name="onboarding_retrieve_cpms_settings">"Bezig met laden…"</string>
+    <string name="onboarding_retrieve_cpms_settings_failed">"Ophalen van instellingen mislukt. Standaardwaarden worden gebruikt."</string>
+    <string name="one_attempt_left_message">"U hebt nog 1 poging"</string>
+    <string name="open_document_image_description">"Documentafbeelding"</string>
+    <string name="passcode_change_instruction_text">"Voer uw huidige toegangscode in."</string>
+    <string name="passcode_change_title">"Toegangscode invoeren"</string>
+    <string name="passcode_create_digits_label">"Cijfers (0-9)"</string>
+    <string name="passcode_create_done_button_text">"Volgende"</string>
+    <string name="passcode_create_group_label">"Gebruik de volgende tekens:"</string>
+    <string name="passcode_create_instruction_text">"U kunt de app ontgrendelen door een toegangscode in te stellen van minimaal {0,number,#} lang."</string>
+    <string name="passcode_create_lowercase_label">"Kleine letters (a-z)"</string>
+    <string name="passcode_create_skip_button_text">"Niet nu"</string>
+    <string name="passcode_create_symbols_label">"Symbolen (!@#…)"</string>
+    <string name="passcode_create_title">"Toegangscode creëren"</string>
+    <string name="passcode_create_uppercase_label">"Hoofdletters (A-Z)"</string>
+    <string name="passcode_default_confirm_button_cancel_text">"Annuleren"</string>
+    <string name="passcode_default_confirm_done_button_text">"Gereed"</string>
+    <string name="passcode_default_confirm_instruction_text">"Bevestig de door u gecreëerde toegangscode"</string>
+    <string name="passcode_default_confirm_mismatch_text">"Toegangscode is onjuist; probeer het later opnieuw"</string>
+    <string name="passcode_default_confirm_title">"Toegangscode bevestigen"</string>
+    <string name="passcode_default_skip_label_confirm">"Terug"</string>
+    <string name="passcode_enter_button_text">"Aanmelden"</string>
+    <string name="passcode_enter_instruction_text">"Voer uw toegangscode in om de app te ontgrendelen"</string>
+    <string name="passcode_enter_title">"Toegangscode invoeren"</string>
+    <string name="passcode_error_message_text">"Foutmelding"</string>
+    <string name="passcode_reset_button_text">"Client resetten"</string>
+    <string name="passcode_skip_hint">"Toegangscodeproces overslaan"</string>
+    <string name="passcode_skip_label">"Annuleren"</string>
+    <string name="passcode_use_default">"Standaardwaarden gebruiken"</string>
+    <string name="password">"Wachtwoord"</string>
+    <string name="permission_camera_rationale" translatable="true">"Voor herkenning is toegang tot de camera vereist"</string>
+    <string name="popover_image_description">"Pop-overafbeelding"</string>
+    <string name="progress_indicator_full_format">"%1$s (%2$s)"</string>
+    <string name="push_error">"Pushfout"</string>
+    <string name="push_invalid_push_format">"Pushbericht ontvangen, maar formaat was ongeldig. Het bericht kon daarom niet worden verwerkt."</string>
+    <string name="push_message">"Pushbericht ontvangen"</string>
+    <string name="push_text">"Melding"</string>
+    <string name="push_token_upload_failed_detail">"Pushtoken kan niet worden geüpload naar de SAP-server; pushfunctie werkt niet. U ontvangt geen pushberichten."</string>
+    <string name="qr_confirm_continue_title">"Doorgaan"</string>
+    <string name="qr_confirm_detailed_msg_label">"U wordt nu doorgestuurd naar:"</string>
+    <string name="qr_confirm_failure_detailed_message">"Registratie mislukt. Probeer een ander registratiepad of een andere registratiemethode."</string>
+    <string name="qr_confirm_failure_title">"Fout"</string>
+    <string name="qr_confirm_redirecturl_label"/>
+    <string name="qr_reader_photolibrary_contentdescription">"fotobibliotheek"</string>
+    <string name="qr_scan_succeeded_label">"Scan geslaagd."</string>
+    <string name="qr_validation_failure_detailed_message">"Registratie mislukt. Probeer een ander registratiepad of een andere registratiemethode."</string>
+    <string name="qr_validation_failure_title">"Fout"</string>
+    <string name="read_barcode" translatable="true">"Barcode lezen"</string>
+    <string name="reset_button_label_alert_dialog">"Client resetten"</string>
+    <string name="reset_client">"Client resetten"</string>
+    <string name="reset_client_cong_msg">"Hiermee wordt de MDK-client gereset. Weet u het zeker?"</string>
+    <string name="reset_client_info_action_cancel">"Annuleren"</string>
+    <string name="reset_client_info_action_ok">"Resetten"</string>
+    <string name="reset_hint">"Gebruik deze knop als u uw toegangscode niet meer weet"</string>
+    <string name="results">"RESULTATEN(%1$d)"</string>
+    <string name="retry_passcode_message">"Onjuiste toegangscode. Probeer het opnieuw"</string>
+    <string name="sap_logo">"SAP-logo"</string>
+    <string name="scan_new_qr_code_string">"Nieuwe QR-code scannen"</string>
+    <string name="scanning_started">"Bezig met scannen..."</string>
+    <string name="search_hint" translatable="true">"Zoeken"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Zoeken"</string>
+    <string name="select" translatable="true">"Selecteren"</string>
+    <string name="select_file">"Bestand selecteren"</string>
+    <string name="select_option_string">"Selecteer een optie"</string>
+    <string name="select_picture">"Afbeelding selecteren"</string>
+    <string name="signature_captured">"Handtekening is vastgelegd"</string>
+    <string name="skip_for_now_button">"Voorlopig overslaan"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="take_photo">"Foto nemen"</string>
+    <string name="timeline_empty_description">"Creëer een taak. Deze wordt vervolgens weergegeven op de tijdlijn."</string>
+    <string name="timeline_empty_headline">"Momenteel verloopt er niets"</string>
+    <string name="timeline_preview_content_description">"Afbeelding voor event"</string>
+    <string name="timeline_preview_header">"TIJDLIJN"</string>
+    <string name="timeline_preview_multiday">"%1$s (dag %2$d/%3$d)"</string>
+    <string name="timeline_preview_see_all">"ALLES WEERGEVEN (%1$d)"</string>
+    <string name="title_activity_main" translatable="true">"Voorbeeld barcodelezer"</string>
+    <string name="use_flash" translatable="true">"Flitser gebruiken"</string>
+    <string name="username">"Gebruikersnaam"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"UIT"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"AAN"</string>
+    <string name="verify_passcode_done_button">"Verifiëren"</string>
+    <string name="verify_passcode_fingerprint_detail_label">"Raak de sensor aan om te verifiëren met uw vingerafdruk.\nOf gebruik een toegangscode om te verifiëren."</string>
+    <string name="verify_passcode_fingerprint_headline">"Verifiëren"</string>
+    <string name="verify_passcode_instruction">"Voer uw toegangscode in om te verifiëren"</string>
+    <string name="welcome_action_demo">"Probeer de demo"</string>
+    <string name="welcome_action_scan">"Scan"</string>
+    <string name="welcome_action_start">"Start"</string>
+    <string name="welcome_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="welcome_demo_label">"Uitproberen?"</string>
+    <string name="welcome_detail_label">"Volg de instructies die u hebt ontvangen in de welkomstmail om het activeringsproces te starten."</string>
+    <string name="welcome_detailed_label_configured_instruction">"Beheer in realtime uw dagelijkse taken en werk eenvoudig samen aan projecten."</string>
+    <string name="welcome_detailed_label_discoveryservice_instruction">"Voer uw e-mailadres in om het activeringsproces te starten."</string>
+    <string name="welcome_detailed_label_scan_instruction">"Scan de beveiligde QR-code om het activeringsproces te starten."</string>
+    <string name="welcome_detailed_label_welcome_instruction">"Volg de instructies die u hebt ontvangen in de welkomstmail om het activeringsproces te starten."</string>
+    <string name="welcome_email_hint">"e-mail"</string>
+    <string name="welcome_headline_label">"Bedankt voor het downloaden"</string>
+</resources>

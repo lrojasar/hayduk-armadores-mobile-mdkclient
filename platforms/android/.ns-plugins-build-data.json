@@ -1,0 +1,34 @@
+{
+	"@nativescript-rtl/ui": {
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/@nativescript-rtl/ui/platforms/android/AndroidManifest.xml": "a49c6297b29f6fca5b1b61650dae089ff2181ba0",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/@nativescript-rtl/ui/platforms/android/README.md": "45f2f63427be0a461a7e2dfd5ff0ad5bab64068f",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/@nativescript-rtl/ui/platforms/android/include.gradle": "4945565d2e438104a7124474e0975db3692b0b02",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/@nativescript-rtl/ui/platforms/android/nativescript_grid_layout.aar": "f6b5bd8fa76d1b5234478a55d401ac778d3b2e42",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/@nativescript-rtl/ui/platforms/android/nativescript_gridlayout.aar": "e2650d60c5e044acde6259d9a986256ab439dc8a",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/@nativescript-rtl/ui/platforms/android/ui.aar": "f2d5030a9a3f5d103747e1193afd9a8de04ce23a"
+	},
+	"@nativescript/core": {
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/@nativescript/core/platforms/android/native-api-usage.json": "34ee0e9771ad7dd9d388c191734d71507a04565a"
+	},
+	"mdk-sap": {
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/mdk-sap/platforms/android/include.gradle": "fef91db8006672cec0350df859c3147b3ea34c44",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/mdk-sap/platforms/android/versions.gradle": "4949de436fdfc84b72ed7b0003afc4cf3d10c1f5",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/mdk-sap/platforms/android/cloud_mobile_foundation-release.aar": "94ea3d4c46bfbdcd289dd7e5f8f40480da7ec31b",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/mdk-sap/platforms/android/cloud_mobile_odata-release.aar": "3ac51d3c2a9744ef2dedd4aee49a21f89a314ca0",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/mdk-sap/platforms/android/cloud_mobile_ui-release.aar": "d61c198ab205ddd3f0040b1d623ca69fcbcbaad4"
+	},
+	"nativescript-ui-sidedrawer": {
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/nativescript-ui-sidedrawer/platforms/android/TNSSideDrawer-release.aar": "e6e4d527ff85743c270768018b9ea720ec5b9dda",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/nativescript-ui-sidedrawer/platforms/android/typings/sidedrawer.d.ts": "8256a2295125597755fe6a6faee866b0750e65f2"
+	},
+	"zip-plugin": {
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/zip-plugin/platforms/android/include.gradle": "503f4e46049c2b530b5c0a7e4312ee1790aa53ae"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "ea387e7a96a4ccb0df5c645b313c5dcf8042a0bb"
+	},
+	"nativescript-ui-core": {
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/nativescript-ui-core/platforms/android/typings/core.d.ts": "5c032652edfa1719ef8c8190fc0f66d3b1c313c2",
+		"/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/node_modules/nativescript-ui-core/platforms/android/TNSCore-release.aar": "0e2fe0b867821ad56b8f0b9c8ac4c90f4c399e3c"
+	}
+}

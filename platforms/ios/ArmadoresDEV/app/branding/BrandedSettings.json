@@ -1,0 +1,64 @@
+{
+  "ApplicationDisplayName": "Armadores",
+  "SkipEula": false,
+  "ConnectionSettings": {
+    "EnableOverrides": false,
+    "AppId": "hayduk.armadores",
+    "ClientId": "ae154d8e-6d92-48de-a4f7-bd5909ec479b",
+    "SapCloudPlatformEndpoint": "https://sd-hayduk-dev-armadores-hayduk-armadores.cfapps.us10.hana.ondemand.com",
+    "AuthorizationEndpointUrl": "https://sd-hayduk-dev-armadores-hayduk-armadores.cfapps.us10.hana.ondemand.com/oauth2/api/v1/authorize",
+    "RedirectUrl": "https://sd-hayduk-dev-armadores-hayduk-armadores.cfapps.us10.hana.ondemand.com",
+    "TokenUrl": "https://sd-hayduk-dev-armadores-hayduk-armadores.cfapps.us10.hana.ondemand.com/oauth2/api/v1/token"
+  },
+  "URLWhitelist": [
+    "<Enter any domain name that needs to be whitelisted for ConnectionSettings>"
+  ],
+  "DebugSettings": {
+    "DebugODataProvider": false,
+    "TracingEnabled": false,
+    "Categories": [
+      "mdk.trace.action",
+      "mdk.trace.api",
+      "mdk.trace.app",
+      "mdk.trace.binding",
+      "mdk.trace.branding",
+      "mdk.trace.core",
+      "mdk.trace.i18n",
+      "mdk.trace.lcms",
+      "mdk.trace.logging",
+      "mdk.trace.odata",
+      "mdk.trace.onboarding",
+      "mdk.trace.profiling",
+      "mdk.trace.push",
+      "mdk.trace.restservice",
+      "mdk.trace.settings",
+      "mdk.trace.targetpath",
+      "mdk.trace.ui"
+    ]
+  },
+  "LogSettings": {
+    "FileName": "ClientLog.txt",
+    "MaxFileSizeInMegaBytes": 1,
+    "LogLevel": "Info"
+  },
+  "Demo": {
+    "EnableOverrides": false,
+    "DemoAppLanguage": "<Specify language code (i.e. en) if the demo db can support sap-language parameter>",
+    "ConnectionSettings": {
+      "AppId": "<Enter your SAP CPms app ID here>",
+      "ClientId": "<Enter your SAP CPms Client ID here>",
+      "SapCloudPlatformEndpoint": "<Enter your SAP CPms Endpoint here>",
+      "AuthorizationEndpointUrl": "<Enter your SAP CPms Authorization Endpoint here>",
+      "RedirectUrl": "<Enter your SAP CPms Authorization Redirect URL here>",
+      "TokenUrl": "<Enter your SAP CPms Authorization Token Url here>"
+    }
+  },
+  "DetailLabelViewText": "Easily manage your jobs and notifications and track your time and material usage",
+  "DefaultAppLanguage" : "es",
+  "EncryptDatabase" : true,
+  "PasscodeTimeout": 120,
+  "SigninButtonText": "Ingresar",
+  "OnboardingCustomizations": {
+    "_comment" : "<See Branding documentation or OnboardingCustomizations.sample on how to override & customize Onboarding UI strings>"
+  }
+}

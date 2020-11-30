@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attachment_long_press_options">
+        <item name="remove" translatable="true">"Remove Attachment"</item>
+    </string-array>
+    <string name="abc_searchview_description_scan" translatable="true">"Scan search"</string>
+    <string name="action_cell_icon_desc">"Action icon"</string>
+    <string name="activation_action_next">"Next"</string>
+    <string name="activation_action_scan">"Scan"</string>
+    <string name="activation_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="activation_detail_label">"If you received a welcome email, follow the activation link in the email. Otherwise, enter your email address or scan the QR code to start onboarding."</string>
+    <string name="activation_headline_label">"Activation"</string>
+    <string name="activation_subheadline_label">"Or"</string>
+    <string name="activationscreen_discovery_button">"Start"</string>
+    <string name="activationscreen_discovery_title">"Use your email"</string>
+    <string name="activationscreen_email_hint">"Your email"</string>
+    <string name="activationscreen_instruction"/>
+    <string name="activationscreen_instruction_barcode">"Please scan the secured QR code to start the activation process."</string>
+    <string name="activationscreen_instruction_choose_an_option">"Enter your email address to start the activation process.\n\nOr, you can use QR code scan."</string>
+    <string name="activationscreen_instruction_discovery_service">"Enter your email address to start the activation process."</string>
+    <string name="activationscreen_instruction_mail">"Check your email and click activation link we just sent to sign in."</string>
+    <string name="activationscreen_instruction_mail_email">"Check your email and click activation link we just sent to sign in.\n\nWe sent to:\n"<b>"%s"</b></string>
+    <string name="activationscreen_qrcode_title">"Use QR code scan"</string>
+    <string name="activationscreen_scan_button">"QR code scan"</string>
+    <string name="activationscreen_title">"Activation"</string>
+    <string name="activationscreen_title_mail">"We sent you an email"</string>
+    <string name="add_photo">"Add Photo"</string>
+    <string name="attachment_action_icon_desc" translatable="true">"Icon for Attachment action"</string>
+    <string name="attachment_action_message" translatable="true">"Attach From"</string>
+    <string name="attachment_action_title_desc" translatable="true">"Name of the attachment action"</string>
+    <string name="attachment_add_btn_txt" translatable="true">"Add"</string>
+    <string name="attachment_default_key" translatable="true">"Attachments (%1$d)"</string>
+    <string name="attachment_item_content_desc" translatable="true">"Attachment item"</string>
+    <string name="attachment_item_detail_title" translatable="true">"Name and Other Details"</string>
+    <string name="attachment_item_fail_dialog_bottom_title" translatable="true">"OK"</string>
+    <string name="attachment_item_fail_message" translatable="true">"Opening Attachment Failed"</string>
+    <string name="attachment_item_icon_desc" translatable="true">"Icon of the Attachment"</string>
+    <string name="attachment_item_open_message" translatable="true">"Opening Attachment"</string>
+    <string name="attachment_remove_icon_desc" translatable="true">"Remove Attachment"</string>
+    <string name="attempts">"You have 1 attempt left"</string>
+    <string name="attempts_left_message">"You have {0,number,#} attempts left"</string>
+    <string name="authentication_failed_key">"Failed to onboard!"</string>
+    <string name="authentication_required">"Authentication required"</string>
+    <string name="auto_focus" translatable="true">"Auto Focus"</string>
+    <string name="barcode_error" translatable="true">"Error reading barcode: %1$s"</string>
+    <string name="barcode_failure" translatable="true">"No barcode captured"</string>
+    <string name="barcode_header" translatable="true">"Click Read Barcode to read a barcode"</string>
+    <string name="barcode_success" translatable="true">"Barcode read successfully"</string>
+    <string name="basic_auth_instruction">"Authentication Required"</string>
+    <string name="basic_auth_message">"The server %1$s requires a user name and password."</string>
+    <string name="basic_auth_password">"Password"</string>
+    <string name="basic_auth_title">"Sign-In"</string>
+    <string name="basic_auth_user_name">"User name"</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="cancel_button">@android:string/cancel</string>
+    <string name="cancel_onboarding_action_cancel">"No"</string>
+    <string name="cancel_onboarding_action_ok">"Yes"</string>
+    <string name="cancel_onboarding_msg">"Are you sure you want to cancel the onboarding process?"</string>
+    <string name="clear">"Clear"</string>
+    <string name="collapse" translatable="true">"Collapse"</string>
+    <string name="confirm_biometric_description_label">"Sign in using biometrics.\nOr, you can use a passcode to sign in."</string>
+    <string name="confirm_fingerprint_detail_label">"Touch sensor to sign in with your fingerprint.\nOr, you can use a passcode to sign in."</string>
+    <string name="confirm_fingerprint_headline_label">"Sign In"</string>
+    <string name="confirm_fingerprint_try_password_button">"Use Passcode"</string>
+    <string name="confirm_no">"No"</string>
+    <string name="confirm_yes">"Yes"</string>
+    <string name="consent_button_confirm">"ALLOW"</string>
+    <string name="consent_button_reject">"DENY"</string>
+    <string name="consent_footer_back">"PREV"</string>
+    <string name="consent_footer_next">"NEXT"</string>
+    <string name="consent_footer_x_of_y">"Step %d of %d"</string>
+    <string name="consent_header_skip_button">"SKIP"</string>
+    <string name="consent_title_text">"CONSENT"</string>
+    <string name="contact_cell_info_action_ok">"OK"</string>
+    <string name="contact_cell_info_action_title">"Info"</string>
+    <string name="content_body">"Detailed text about how data privacy pertains to this app and why it\'s important for the user to enable this functionality."</string>
+    <string name="content_learn_more">"Learn more about Security"</string>
+    <string name="content_title">"Consent"</string>
+    <string name="continue_with_same_string">"Use current application"</string>
+    <string name="detector_not_operational">"Barcode detector is not operational due to missing Google Play Services dependencies. Camera will not be shown."</string>
+    <string name="dialog_action_retry">"Retry"</string>
+    <string name="done">"Done"</string>
+    <string name="duration_picker_form_cell_duration_text_format" translatable="true">"%d Hrs %d Min"</string>
+    <string name="enable_fingerprint_alert_cancel_text">"Not Now"</string>
+    <string name="enable_fingerprint_alert_message">"In order to use your fingerprint. You need to register at least one of your fingerprint in settings"</string>
+    <string name="enable_fingerprint_alert_settings_text">"Go Settings"</string>
+    <string name="enable_fingerprint_alert_title">"Register your fingerprint"</string>
+    <string name="enable_fingerprint_button">"Enable Fingerprint"</string>
+    <string name="enable_fingerprint_detail_label">"Use your fingerprint for faster and easier access to your account."</string>
+    <string name="enable_fingerprint_error_message_device_is_not_secure">"Device is not secure"</string>
+    <string name="enable_fingerprint_error_message_no_fingerprint_added">"Register at least one fingerprint in Settings"</string>
+    <string name="enable_fingerprint_headline_label">"Use Your Fingerprint"</string>
+    <string name="enter_credentials_message">"You have reached maximum passcode attempts. Please enter your credentials to sign in and reset the passcode."</string>
+    <string name="eula_button_confirm">"Agree"</string>
+    <string name="eula_button_reject">"Disagree"</string>
+    <string name="eula_title_text">"EULA"</string>
+    <string name="exit_search" translatable="true">"Exit search"</string>
+    <string name="expand" translatable="true">"Expand"</string>
+    <string name="expandable_menu">"Arrow implying the item is expandable"</string>
+    <string name="file_provider">"com.sap.mobile.platform.SnowblindClient.fileprovider"</string>
+    <string name="filter_actionbar_title" translatable="true">"Filter by"</string>
+    <string name="filter_all_items" translatable="true">"ALL"</string>
+    <string name="filter_apply_filter" translatable="true">"Apply"</string>
+    <string name="filter_confirm_discard" translatable="true">"Discard"</string>
+    <string name="filter_confirm_message" translatable="true">"Do you want to discard the new filters you set?"</string>
+    <string name="filter_confirm_title" translatable="true">"New filters not applied"</string>
+    <string name="filter_reset_all" translatable="true">"Reset All"</string>
+    <string name="filter_selected_items" translatable="true">"SELECTED"</string>
+    <string name="fingerprint_authenticate_error_detail_label">"Please authenticate using fingerprint to use the app. You have to wait 30 sec to be able to use the sensor again."</string>
+    <string name="fingerprint_authenticate_error_headline_label">"Authentication Error"</string>
+    <string name="fingerprint_authenticate_error_reset_button">"Reset client"</string>
+    <string name="fingerprint_error_label">"Not Recognized"</string>
+    <string name="fingerprint_general_error_label">"Problem occured during authentication"</string>
+    <string name="gb_size_unit">"GB"</string>
+    <string name="init_odata_downloaded_data_subtext_format">"Downloading data… %1$,.2f%2$s"</string>
+    <string name="init_odata_downloaded_file_subtext_format">"Downloading file… %1$,.2f%2$s"</string>
+    <string name="init_odata_initial_communication">"Connecting…"</string>
+    <string name="init_odata_initializing">"Connecting…"</string>
+    <string name="init_odata_opened">"Completed"</string>
+    <string name="init_odata_opening">"Opening…"</string>
+    <string name="init_odata_prepare_download_data">"Waiting for data from server…"</string>
+    <string name="init_odata_prepare_download_file">"Waiting for file from server…"</string>
+    <string name="init_odata_sending_store">"Uploading…"</string>
+    <string name="init_odata_uploading">"Uploading…"</string>
+    <string name="kb_size_unit">"KB"</string>
+    <string name="launchscreen_button_demo">"Try the demo"</string>
+    <string name="launchscreen_button_primary">"Get started"</string>
+    <string name="launchscreen_description"/>
+    <string name="launchscreen_footnote">"View our &lt;a href=%1$s>Terms of Service&lt;/a> &amp; &lt;a href=%2$s>Privacy Policy&lt;/a>"</string>
+    <string name="launchscreen_headline"/>
+    <string name="launchscreen_title"/>
+    <string name="loading" translatable="true">"Loading…"</string>
+    <string name="log_in">"Log In"</string>
+    <string name="low_storage">"low storage"</string>
+    <string name="low_storage_error" translatable="true">"Face detector dependencies cannot be downloaded due to low device storage"</string>
+    <string name="map_add_button">"Add"</string>
+    <string name="map_branch_button">"Branch"</string>
+    <string name="map_cluster_close">"Closes the cluster panel"</string>
+    <string name="map_directions">"Directions"</string>
+    <string name="map_edit_add_point_button">"Add Point"</string>
+    <string name="map_edit_annotation_type">"Annotation Type"</string>
+    <string name="map_edit_annotations">"Edit Annotations"</string>
+    <string name="map_edit_cancel_button">"Cancel"</string>
+    <string name="map_edit_cancel_edit_confirm_button">"Exit"</string>
+    <string name="map_edit_cancel_edit_decline_button">"Keep editing"</string>
+    <string name="map_edit_cancel_edit_message">"Are you sure you want to exit the map editor?"</string>
+    <string name="map_edit_cancel_edit_title">"Exit the map editor?"</string>
+    <string name="map_edit_clear_all_button">"Clear All"</string>
+    <string name="map_edit_clear_points_confirm_button">"Clear All"</string>
+    <string name="map_edit_clear_points_message">"Clear all points?"</string>
+    <string name="map_edit_close_button">"Close"</string>
+    <string name="map_edit_label_address">"Address"</string>
+    <string name="map_edit_save_button">"Save"</string>
+    <string name="map_edit_switch_confirm_button">"Switch"</string>
+    <string name="map_edit_switch_to_point_message">"The points that you added will be deleted. Are you sure you want to switch?"</string>
+    <string name="map_edit_switch_to_point_title">"Switch to a point?"</string>
+    <string name="map_edit_switch_to_polygon_message">"The points you added will not be changed. You can continue creating the object."</string>
+    <string name="map_edit_switch_to_polygon_title">"Switch to a polygon?"</string>
+    <string name="map_edit_switch_to_polyline_message">"The points you added will not be changed. You can continue creating the object."</string>
+    <string name="map_edit_switch_to_polyline_title">"Switch to a polyline?"</string>
+    <string name="map_edit_type_point">"Point"</string>
+    <string name="map_edit_type_polygon">"Polygon"</string>
+    <string name="map_edit_type_polyline">"Polyline"</string>
+    <string name="map_legend">"Legend"</string>
+    <string name="map_legend_button">"Legend button"</string>
+    <string name="map_legend_item">"Legend item"</string>
+    <string name="map_legend_title">"Legend title"</string>
+    <string name="map_list_title">"%1$d Objects"</string>
+    <string name="map_location_button">"Location button"</string>
+    <string name="map_point_delete_confirm_button">"Delete"</string>
+    <string name="map_point_delete_message">"Are you sure you want to delete this point?"</string>
+    <string name="map_preview_close">"Closes the preview panel"</string>
+    <string name="map_priority_high">"High"</string>
+    <string name="map_priority_low">"Low"</string>
+    <string name="map_priority_medium">"Medium"</string>
+    <string name="map_priority_very_high">"Very high"</string>
+    <string name="map_redo_button">"Redo"</string>
+    <string name="map_remove_button">"Remove"</string>
+    <string name="map_search_cancel">"Cancel"</string>
+    <string name="map_search_enter_an_address">"Enter an address"</string>
+    <string name="map_search_error_message">"An error occurred during the location search."</string>
+    <string name="map_search_error_title">"Search Error"</string>
+    <string name="map_search_location_search_title">"Select Current Location"</string>
+    <string name="map_search_ok">"OK"</string>
+    <string name="map_search_your_location">"Current Location"</string>
+    <string name="map_settings_button">"Settings button"</string>
+    <string name="map_settings_title">"Settings"</string>
+    <string name="map_show_hide_button">"Show/Hide button"</string>
+    <string name="map_toolbar">"Toolbar"</string>
+    <string name="map_undo_button">"Undo"</string>
+    <string name="map_zoom_button">"Zoom extents button"</string>
+    <string name="max_attempts_reached_message">"Need to reset passcode"</string>
+    <string name="mb_size_unit">"MB"</string>
+    <string name="network_unreachable_key">"Network unavailable. Please try again later."</string>
+    <string name="new_activity_on_click_sign">"Left arrow implying a new activity will be created on clicking the view"</string>
+    <string name="no_camera_permission" translatable="true">"This application cannot run because it does not have the camera permission. The application will now exit."</string>
+    <string name="null_policy_cancel_button_alert_dialog">"Cancel"</string>
+    <string name="null_policy_desc_alert_dialog">"No passcode policy is available now."</string>
+    <string name="null_policy_header_alert_dialog">"Download Error"</string>
+    <string name="null_policy_retry_button_alert_dialog">"Retry"</string>
+    <string name="object_header_page_1" translatable="true">"Page 1"</string>
+    <string name="object_header_page_2" translatable="true">"Page 2"</string>
+    <string name="object_header_page_3" translatable="true">"Page 3"</string>
+    <string name="ok_button">"android:string/ok"</string>
+    <string name="ok_button_label">"OK"</string>
+    <string name="onboarding_eula_title">"End User License Agreement"</string>
+    <string name="onboarding_passcode_fingerprint_reset">"Use Passcode"</string>
+    <string name="onboarding_passcode_max_attempts_reached">"Need to reset passcode"</string>
+    <string name="onboarding_passcode_reset_app">"Reset Application"</string>
+    <string name="onboarding_retrieve_cpms_settings">"Loading…"</string>
+    <string name="onboarding_retrieve_cpms_settings_failed">"Settings retrieval failed. Using Defaults"</string>
+    <string name="one_attempt_left_message">"You have 1 attempt left"</string>
+    <string name="open_document_image_description">"Document Image"</string>
+    <string name="passcode_change_instruction_text">"Enter your current passcode."</string>
+    <string name="passcode_change_title">"Enter Passcode"</string>
+    <string name="passcode_create_digits_label">"Digits (0–9)"</string>
+    <string name="passcode_create_done_button_text">"Next"</string>
+    <string name="passcode_create_group_label">"Include the following:"</string>
+    <string name="passcode_create_instruction_text">"To unlock the app, set a passcode that is at least {0,number,#} characters long."</string>
+    <string name="passcode_create_lowercase_label">"Lower case (a-z)"</string>
+    <string name="passcode_create_skip_button_text">"Not now"</string>
+    <string name="passcode_create_symbols_label">"Symbols (!@#…)"</string>
+    <string name="passcode_create_title">"Create Passcode"</string>
+    <string name="passcode_create_uppercase_label">"Upper case (A-Z)"</string>
+    <string name="passcode_default_confirm_button_cancel_text">"Cancel"</string>
+    <string name="passcode_default_confirm_done_button_text">"Done"</string>
+    <string name="passcode_default_confirm_instruction_text">"Confirm the passcode you created"</string>
+    <string name="passcode_default_confirm_mismatch_text">"Passcode didn\'t match, try again"</string>
+    <string name="passcode_default_confirm_title">"Verify Passcode"</string>
+    <string name="passcode_default_skip_label_confirm">"Back"</string>
+    <string name="passcode_enter_button_text">"Sign in"</string>
+    <string name="passcode_enter_instruction_text">"To unlock the app, enter your passcode"</string>
+    <string name="passcode_enter_title">"Enter Passcode"</string>
+    <string name="passcode_error_message_text">"Error Message"</string>
+    <string name="passcode_reset_button_text">"Reset Client"</string>
+    <string name="passcode_skip_hint">"Skip passcode process"</string>
+    <string name="passcode_skip_label">"Cancel"</string>
+    <string name="passcode_use_default">"Use Default"</string>
+    <string name="password">"Password"</string>
+    <string name="permission_camera_rationale" translatable="true">"Access to the camera is needed for detection"</string>
+    <string name="popover_image_description">"Popover Image"</string>
+    <string name="progress_indicator_full_format">"%1$s (%2$s)"</string>
+    <string name="push_error">"Push error"</string>
+    <string name="push_invalid_push_format">"Push message received, but its format was invalid, so it couldn\'t be processed."</string>
+    <string name="push_message">"Push message received"</string>
+    <string name="push_text">"Notification"</string>
+    <string name="push_token_upload_failed_detail">"Push token couldn\'t be uploaded to the SAP server, the push feature won\'t work. You won\'t receive push messages."</string>
+    <string name="qr_confirm_continue_title">"Continue"</string>
+    <string name="qr_confirm_detailed_msg_label">"Now you will be redirected to:"</string>
+    <string name="qr_confirm_failure_detailed_message">"Registration failed. Please Try a different registration path or method."</string>
+    <string name="qr_confirm_failure_title">"Failure"</string>
+    <string name="qr_confirm_redirecturl_label"/>
+    <string name="qr_reader_photolibrary_contentdescription">"photo library"</string>
+    <string name="qr_scan_succeeded_label">"Scan succeeded!"</string>
+    <string name="qr_validation_failure_detailed_message">"Registration failed. Please Try a different registration path or method."</string>
+    <string name="qr_validation_failure_title">"Failure"</string>
+    <string name="read_barcode" translatable="true">"Read Barcode"</string>
+    <string name="reset_button_label_alert_dialog">"Reset client"</string>
+    <string name="reset_client">"Reset Client"</string>
+    <string name="reset_client_cong_msg">"This will reset MDK client.  Are you sure?"</string>
+    <string name="reset_client_info_action_cancel">"Cancel"</string>
+    <string name="reset_client_info_action_ok">"Reset"</string>
+    <string name="reset_hint">"Use this button if you don\'t remember your passcode"</string>
+    <string name="results">"RESULTS(%1$d)"</string>
+    <string name="retry_passcode_message">"Incorrect passcode. Try again"</string>
+    <string name="sap_logo">"SAP logo"</string>
+    <string name="scan_new_qr_code_string">"Scan new QR code"</string>
+    <string name="scanning_started">"Scanning..."</string>
+    <string name="search_hint" translatable="true">"Search"</string>
+    <string name="select" translatable="true">"Select"</string>
+    <string name="select_file">"Select File"</string>
+    <string name="select_option_string">"Please select an option"</string>
+    <string name="select_picture">"Select Picture"</string>
+    <string name="signature_captured">"Signature is captured"</string>
+    <string name="skip_for_now_button">"Skip for now"</string>
+    <string name="take_photo">"Take Photo"</string>
+    <string name="timeline_empty_description">"Create a task and it will show up in the timeline."</string>
+    <string name="timeline_empty_headline">"Nothing due at this time"</string>
+    <string name="timeline_preview_content_description">"Image for the event"</string>
+    <string name="timeline_preview_header">"TIMELINE"</string>
+    <string name="timeline_preview_multiday">"%1$s (Day %2$d/%3$d)"</string>
+    <string name="timeline_preview_see_all">"SEE ALL (%1$d)"</string>
+    <string name="title_activity_main" translatable="true">"Barcode Reader Sample"</string>
+    <string name="use_flash" translatable="true">"Use Flash"</string>
+    <string name="username">"User Name"</string>
+    <string name="verify_passcode_done_button">"Verify"</string>
+    <string name="verify_passcode_fingerprint_detail_label">"Touch sensor to verify with your fingerprint\nOr, you can use a passcode to verify"</string>
+    <string name="verify_passcode_fingerprint_headline">"Verify"</string>
+    <string name="verify_passcode_instruction">"To verify it, enter your passcode"</string>
+    <string name="welcome_action_demo">"Try the Demo"</string>
+    <string name="welcome_action_scan">"Scan"</string>
+    <string name="welcome_action_start">"Start"</string>
+    <string name="welcome_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="welcome_demo_label">"Want to explore?"</string>
+    <string name="welcome_detail_label">"Please follow the instructions you received in the welcome email to start the activation process."</string>
+    <string name="welcome_detailed_label_configured_instruction">"Stay on top of your daily tasks management and easily collaborate on projects."</string>
+    <string name="welcome_detailed_label_discoveryservice_instruction">"Please enter your email address to start the activation process."</string>
+    <string name="welcome_detailed_label_scan_instruction">"Please scan the secure QR code to start the activation process."</string>
+    <string name="welcome_detailed_label_welcome_instruction">"Please follow the instructions you received in the welcome email to start the activation process."</string>
+    <string name="welcome_email_hint">"email"</string>
+    <string name="welcome_headline_label">"Thank you for downloading"</string>
+</resources>

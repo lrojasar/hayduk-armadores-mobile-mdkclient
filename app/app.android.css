@@ -1,0 +1,194 @@
+
+/* These are the client's default styles for built-in controls in Android */
+
+/*
+This style will apply to action bar if search is enabled.
+This style is exposed.
+*/
+ActionBarForSearch {
+    background-color: #ffffff;
+}
+
+TitleStyleForSearch {
+    color: #ffffff;
+    background-color: #808080;
+}
+
+/*
+This style will apply to all Pages in the application.
+This style is exposed.
+*/
+ToolBar {
+    background-color: #ffffff;
+    border-top-color: #eeeeef;
+    border-top-width: 1;
+}
+
+ToolBar :disabled {
+    color: #808080;
+}
+
+ToolBarItemStyle {
+    color: #0A6ED1;
+    font-family: "f72_regular", "f72_bold", "f72_italic", "f72_bold_italic";
+    font-size: 14sp;
+}
+
+ToolBarItemDisabledStyle {
+    color: #0A6ED1;
+    font-family: "f72_regular", "f72_bold", "f72_italic", "f72_bold_italic";
+    font-size: 14sp;
+    opacity: 0.5;
+}
+
+ToolBarItemPressedStyle {
+    color: #e0eef6;
+}
+
+ToolBarContainedItemStyle {
+    background-color: #0A6ED1;
+    color: #ffffff;
+    border-radius: 4;
+    margin-left: 16;
+    margin-right: 16;
+}
+
+ToolBarContainedItemDisabledStyle {
+    background-color: #0A6ED1;
+    color: #ffffff;
+    border-radius: 4;
+    margin-left: 16;
+    margin-right: 16;
+    opacity: 0.5;
+}
+
+ToolBarContainedItemPressedStyle {
+    color: #2987be;
+}
+
+/*
+This style will apply to all non-clickable toolbar items (labels) by default.
+*/
+ToolBarLabelStyle {
+    color: #333333;
+    font-family: "f72_regular", "f72_bold", "f72_italic", "f72_bold_italic";
+    font-size: 16sp;
+    border-radius: 4;
+}
+
+Button{
+    color: #0a6ed1;
+}
+
+TabStrip {
+    background-color: #ffffff;
+    border-top-color: #eeeeef;
+    border-top-width: 1;
+    selected-item-color: #0A6ED1;
+    un-selected-item-color: #6A6D70;
+}
+
+.sap-icons {
+    font-family: "SAP-icons";
+    font-weight: 900;
+}
+
+.sap-icons-actionbar-x-small {
+    font-family: "SAP-icons";
+    font-weight: 900;
+    font-size: 6;
+    color: white;
+}
+
+.sap-icons-actionbar-small {
+    font-family: "SAP-icons";
+    font-weight: 900;
+    font-size: 8;
+    color: white;
+}
+
+.sap-icons-actionbar-medium {
+    font-family: "SAP-icons";
+    font-weight: 900;
+    font-size: 10;
+    color: white;
+}
+
+.drawerContent{
+    background-color: #ffffff;
+}
+.sidedrawer-header{
+    height: auto;
+    padding: 15;
+    border-bottom-width:0.5;
+    border-bottom-color: rgb(104, 103, 103);
+}
+.sidedrawer-header-icon{
+    width: 20%;
+    margin-bottom: 20;
+}
+.sidedrawer-header-icon.ltr{
+    horizontal-align: left;
+}
+.sidedrawer-header-icon.rtl{
+    horizontal-align: right;
+}
+.sidedrawer-header-headline{
+    font-size: 20;
+    font-weight: bold;
+    color: black;
+}
+.sidedrawer-header-subheadline{
+    font-size: 16;
+    font-weight: 500;
+}
+.sidedrawer-section{
+    padding-bottom: 10;
+}
+.sidedrawer-section-separator{
+    border-bottom-width:0.5;
+    border-bottom-color:rgb(104, 103, 103);
+}
+.sidedrawer-section-caption{
+    padding-bottom: 5;
+    padding-top: 5;
+    height:40;
+    font-size:16;
+    font-weight: 500;
+    color: rgb(104, 103, 103);
+    padding-top: 9;
+}
+.sidedrawer-section-caption.ltr{
+    padding-left: 15;
+}
+.sidedrawer-section-caption.rtl{
+    padding-right: 15;
+}
+.sidedrawer-list-item{
+    color: black;
+    padding-left: 20;
+    padding-right: 10;
+}
+.sidedrawer-list-item-active{
+    padding-left: 20;
+    padding-right: 10;
+    color: white;
+    background-color: #0A6ED1;
+}
+.sidedrawer-list-item-onpress{
+    background-color: rgb(235, 231, 231);
+    color: black;
+    padding-left: 20;
+    padding-right: 10;
+}
+.sidedrawer-list-item-icon{
+    height:24;
+    width: 10%;
+    margin-right: 20;
+}
+.sidedrawer-list-item-title{
+    font-size:16;
+    height:40;
+    font-weight: 500;
+    padding-top: 9;
+}

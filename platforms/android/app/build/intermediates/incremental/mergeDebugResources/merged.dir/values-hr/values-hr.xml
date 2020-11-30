@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="attachment_long_press_options">
+        <item name="remove" translatable="true">"Ukloni privitak"</item>
+    </string-array>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Natrag"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Više opcija"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"svemir"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string name="abc_searchview_description_scan" translatable="true">"Pretraživanje skeniranja"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Pretraži"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Dijeli s"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Dijeli putem aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"Područje poruke za pomoć"</string>
+    <string name="action_cell_icon_desc">"Ikona radnje"</string>
+    <string name="activation_action_next">"Dalje"</string>
+    <string name="activation_action_scan">"Skeniraj"</string>
+    <string name="activation_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="activation_detail_label">"Ako ste dobili pozdravnu e-poruku, slijedite vezu za aktiviranje u toj e-poruci. Ako niste, unesite svoju e-adresu ili skenirajte QR kod za pokretanje integriranja."</string>
+    <string name="activation_headline_label">"Aktiviranje"</string>
+    <string name="activation_subheadline_label">"Ili"</string>
+    <string name="activationscreen_discovery_button">"Pokreni"</string>
+    <string name="activationscreen_discovery_title">"S pomoću vaše e-pošte"</string>
+    <string name="activationscreen_email_hint">"Vaša e-pošta"</string>
+    <string name="activationscreen_instruction"/>
+    <string name="activationscreen_instruction_barcode">"Skenirajte sigurni QR kod kako biste pokrenuli proces aktiviranja."</string>
+    <string name="activationscreen_instruction_choose_an_option">"Unesite svoju e-adresu kako biste pokrenuli proces aktiviranja.\n\nTakođer možete upotrijebiti skeniranje QR koda."</string>
+    <string name="activationscreen_instruction_discovery_service">"Unesite svoju e-adresu kako biste pokrenuli proces aktiviranja."</string>
+    <string name="activationscreen_instruction_mail">"Kako biste se prijavili, provjerite svoju e-poštu i kliknite vezu za aktiviranje koju smo vam upravo poslali."</string>
+    <string name="activationscreen_instruction_mail_email">"Kako biste se prijavili, provjerite svoju e-poštu i kliknite vezu za aktiviranje koju smo vam upravo poslali.\n\nPoslana je na:\n"<b>"%s"</b></string>
+    <string name="activationscreen_qrcode_title">"S pomoću skeniranja QR koda"</string>
+    <string name="activationscreen_scan_button">"Skeniranje QR koda"</string>
+    <string name="activationscreen_title">"Aktiviranje"</string>
+    <string name="activationscreen_title_mail">"Poslali smo vam e-poruku"</string>
+    <string name="add_photo">"Dodaj fotografiju"</string>
+    <string name="attachment_action_icon_desc" translatable="true">"Ikona za radnju privitka"</string>
+    <string name="attachment_action_message" translatable="true">"Privij iz"</string>
+    <string name="attachment_action_title_desc" translatable="true">"Naziv radnje privitka"</string>
+    <string name="attachment_add_btn_txt" translatable="true">"Dodaj"</string>
+    <string name="attachment_default_key" translatable="true">"Privitci (%1$d)"</string>
+    <string name="attachment_item_content_desc" translatable="true">"Stavka privitka"</string>
+    <string name="attachment_item_detail_title" translatable="true">"Ime i ostali podaci"</string>
+    <string name="attachment_item_fail_dialog_bottom_title" translatable="true">"OK"</string>
+    <string name="attachment_item_fail_message" translatable="true">"Otvaranje privitka nije uspjelo"</string>
+    <string name="attachment_item_icon_desc" translatable="true">"Ikona privitka"</string>
+    <string name="attachment_item_open_message" translatable="true">"Otvaranje privitka"</string>
+    <string name="attachment_remove_icon_desc" translatable="true">"Ukloni privitak"</string>
+    <string name="attempts">"Ostao vam je jedan pokušaj"</string>
+    <string name="attempts_left_message">"Ostalo vam je još ovoliko pokušaja: {0,number,#} "</string>
+    <string name="authentication_failed_key">"Učitavanje neuspješno!"</string>
+    <string name="authentication_required">"Obvezna provjera autentičnosti"</string>
+    <string name="auto_focus" translatable="true">"Automatski fokus"</string>
+    <string name="barcode_error" translatable="true">"Pogreška pri čitanju bar koda: %1$s"</string>
+    <string name="barcode_failure" translatable="true">"Bar kod nije snimljen"</string>
+    <string name="barcode_header" translatable="true">"Kliknite Čitaj bar kod za čitanje bar koda"</string>
+    <string name="barcode_success" translatable="true">"Bar kod uspješno pročitan"</string>
+    <string name="basic_auth_instruction">"Provjera autentičnosti obavezna"</string>
+    <string name="basic_auth_message">"Na poslužitelju %1$s zahtijeva se korisničko ime i lozinka."</string>
+    <string name="basic_auth_password">"Lozinka"</string>
+    <string name="basic_auth_title">"Prijava"</string>
+    <string name="basic_auth_user_name">"Korisničko ime"</string>
+    <string name="cancel">"Odustani"</string>
+    <string name="cancel_button">@android:string/cancel</string>
+    <string name="cancel_onboarding_action_cancel">"Ne"</string>
+    <string name="cancel_onboarding_action_ok">"Da"</string>
+    <string name="cancel_onboarding_msg">"Želite li zaista otkazati proces učitavanja?"</string>
+    <string name="clear">"Očisti"</string>
+    <string name="collapse" translatable="true">"Sažmi"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Omogući"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati ako ne omogućite usluge Google Playa."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Omogućivanje usluga Google Playa"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instaliraj"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati bez usluga Google Playa koje nisu instalirane na vašem uređaju."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Preuzimanje usluga Google Playa"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Dostupnost usluga za Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Pogreška Usluga za Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ima poteškoća s uslugama Google Playa. Pokušajte ponovo."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati bez usluga Google Playa koje vaš uređaj ne podržava."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Ažuriraj"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati ako ne ažurirate Google Play usluge."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Ažuriranje usluga Google Playa"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće se pokrenuti bez usluga Google Playa koje se trenutačno ažuriraju."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Potrebna je nova verzija usluga Google Playa. Uskoro će se ažurirati."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otvori na telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prijava"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prijava putem Googlea"</string>
+    <string name="confirm_biometric_description_label">"Prijavite se s pomoću biometrije.\nIli možete upotrijebiti šifru."</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"Koristite zaporku"</string>
+    <string name="confirm_fingerprint_detail_label">"Dotaknite senzor za prijavu s pomoću otiska prsta. Također se možete prijaviti s pomoću šifre."</string>
+    <string name="confirm_fingerprint_headline_label">"Prijava"</string>
+    <string name="confirm_fingerprint_try_password_button">"Upotrijebi šifru"</string>
+    <string name="confirm_no">"Ne"</string>
+    <string name="confirm_yes">"Da"</string>
+    <string name="consent_button_confirm">"DOPUŠTAM"</string>
+    <string name="consent_button_reject">"ODBIJAM"</string>
+    <string name="consent_footer_back">"PRETHODNO"</string>
+    <string name="consent_footer_next">"SLJEDEĆE"</string>
+    <string name="consent_footer_x_of_y">"Korak %d od %d"</string>
+    <string name="consent_header_skip_button">"PRESKOČI"</string>
+    <string name="consent_title_text">"PRISTAJEM"</string>
+    <string name="contact_cell_info_action_ok">"U redu"</string>
+    <string name="contact_cell_info_action_title">"Informacije"</string>
+    <string name="content_body">"Detaljan tekst o tome kako se zaštita podataka odnosi na ovu aplikaciju i zašto je važno da korisnik omogući ovu funkcionalnost"</string>
+    <string name="content_learn_more">"Naučite više o sigurnosti"</string>
+    <string name="content_title">"Pristajem"</string>
+    <string name="continue_with_same_string">"upotrijebiti trenutačnu aplikaciju"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"Nepoznata pogreška"</string>
+    <string name="detector_not_operational">"Detektor bar koda ne radi jer nedostaju zavisnosti aplikacije Google Play Services. Kamera se neće prikazati."</string>
+    <string name="dialog_action_retry">"Pokušaj ponovo"</string>
+    <string name="done">"Gotovo"</string>
+    <string name="duration_picker_form_cell_duration_text_format" translatable="true">"%d h %d min"</string>
+    <string name="enable_fingerprint_alert_cancel_text">"Ne sada"</string>
+    <string name="enable_fingerprint_alert_message">"Za upotrebu otiska prsta morate registrirati otisak barem jednog prsta u postavkama"</string>
+    <string name="enable_fingerprint_alert_settings_text">"Idi na postavke"</string>
+    <string name="enable_fingerprint_alert_title">"Registriraj otisak prsta"</string>
+    <string name="enable_fingerprint_button">"Omogući otisak prsta"</string>
+    <string name="enable_fingerprint_detail_label">"Upotrijebite otisak prsta za brži i jednostavniji pristup svojem računu."</string>
+    <string name="enable_fingerprint_error_message_device_is_not_secure">"Uređaj nije siguran"</string>
+    <string name="enable_fingerprint_error_message_no_fingerprint_added">"Registriraj bar jedan otisak prsta u postavkama"</string>
+    <string name="enable_fingerprint_headline_label">"Upotrijebite otisak prsta"</string>
+    <string name="enter_credentials_message">"Dosegli ste maksimalan broj pokušaja unosa šifre. Prijavite se s pomoću svojih vjerodajnica i ponovo postavite šifru."</string>
+    <string name="eula_button_confirm">"Suglasan sam"</string>
+    <string name="eula_button_reject">"Nisam suglasan"</string>
+    <string name="eula_title_text">"EULA"</string>
+    <string name="exit_search" translatable="true">"Izađi iz pretraživanja"</string>
+    <string name="expand" translatable="true">"Proširi"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Napredno"</string>
+    <string name="expandable_menu">"Strelica koja pokazuje stavku može se proširiti"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Razno"</string>
+    <string name="file_provider">"com.sap.mobile.platform.SnowblindClient.fileprovider"</string>
+    <string name="filter_actionbar_title" translatable="true">"Filtriraj prema"</string>
+    <string name="filter_all_items" translatable="true">"SVE"</string>
+    <string name="filter_apply_filter" translatable="true">"Primijeni"</string>
+    <string name="filter_confirm_discard" translatable="true">"Odbaci"</string>
+    <string name="filter_confirm_message" translatable="true">"Želite li odbaciti nove filtre koje ste postavili?"</string>
+    <string name="filter_confirm_title" translatable="true">"Novi filtri nisu primijenjeni"</string>
+    <string name="filter_reset_all" translatable="true">"Ponovo sve postavi"</string>
+    <string name="filter_selected_items" translatable="true">"ODABRANO"</string>
+    <string name="fingerprint_authenticate_error_detail_label">"Za upotrebu aplikacije provjerite autentičnost s pomoću otiska prsta. Morate pričekati 30 s kako biste mogli ponovo upotrijebiti senzor."</string>
+    <string name="fingerprint_authenticate_error_headline_label">"Pogreška pri provjeri autentičnosti"</string>
+    <string name="fingerprint_authenticate_error_reset_button">"Ponovo postavi klijent"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"Dodirnite senzor otiska prsta"</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"Hardver za otisak prsta nije dostupan."</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"Ovaj uređaj nema senzor otiska prsta"</string>
+    <string name="fingerprint_error_label">"Nije prepoznat"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"Previše pokušaja. Pokušajte ponovno kasnije."</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"Nije registriran nijedan otisak prsta."</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"Radnju s otiskom prsta otkazao je korisnik."</string>
+    <string name="fingerprint_general_error_label">"Došlo je do problema tijekom provjere autentičnosti"</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"Nije prepoznat"</string>
+    <string name="gb_size_unit">"GB"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"Korisnik je otkazao autentifikaciju."</string>
+    <string name="init_odata_downloaded_data_subtext_format">"Preuzimanje podataka… %1$,.2f%2$s"</string>
+    <string name="init_odata_downloaded_file_subtext_format">"Preuzimanje datoteke… %1$,.2f%2$s"</string>
+    <string name="init_odata_initial_communication">"Povezivanje…"</string>
+    <string name="init_odata_initializing">"Povezivanje…"</string>
+    <string name="init_odata_opened">"Dovršeno"</string>
+    <string name="init_odata_opening">"Otvaranje…"</string>
+    <string name="init_odata_prepare_download_data">"Čekanje podataka s poslužitelja…"</string>
+    <string name="init_odata_prepare_download_file">"Čekanje datoteke s poslužitelja…"</string>
+    <string name="init_odata_sending_store">"Prijenos…"</string>
+    <string name="init_odata_uploading">"Prijenos…"</string>
+    <string name="kb_size_unit">"KB"</string>
+    <string name="launchscreen_button_demo">"Isprobajte demo verziju"</string>
+    <string name="launchscreen_button_primary">"Početak"</string>
+    <string name="launchscreen_description"/>
+    <string name="launchscreen_footnote">"Pregledajte naše &lt;a href=%1$s>uvjete pružanja servisa&lt;/a> &amp; &lt;a href=%2$s>politiku zaštite privatnosti&lt;/a>"</string>
+    <string name="launchscreen_headline"/>
+    <string name="launchscreen_title"/>
+    <string name="loading" translatable="true">"Učitavanje…"</string>
+    <string name="log_in">"Prijava"</string>
+    <string name="low_storage">"Nedostatna pohrana"</string>
+    <string name="low_storage_error" translatable="true">"Zavisnosti detektora lica ne mogu se prenijeti zbog nedostatne pohrane na uređaju"</string>
+    <string name="map_add_button">"Dodaj"</string>
+    <string name="map_branch_button">"Raširi"</string>
+    <string name="map_cluster_close">"Zatvara panel skupine"</string>
+    <string name="map_directions">"Smjerovi"</string>
+    <string name="map_edit_add_point_button">"Dodaj točku"</string>
+    <string name="map_edit_annotation_type">"Tip primjedbe"</string>
+    <string name="map_edit_annotations">"Uredi primjedbe"</string>
+    <string name="map_edit_cancel_button">"Odustani"</string>
+    <string name="map_edit_cancel_edit_confirm_button">"Izađi"</string>
+    <string name="map_edit_cancel_edit_decline_button">"Nastavi uređivati"</string>
+    <string name="map_edit_cancel_edit_message">"Želite li zaista izaći iz uređivača karte?"</string>
+    <string name="map_edit_cancel_edit_title">"Izaći iz uređivača karte?"</string>
+    <string name="map_edit_clear_all_button">"Poništi sve"</string>
+    <string name="map_edit_clear_points_confirm_button">"Poništi sve"</string>
+    <string name="map_edit_clear_points_message">"Poništiti sve točke?"</string>
+    <string name="map_edit_close_button">"Zatvori"</string>
+    <string name="map_edit_label_address">"Adresa"</string>
+    <string name="map_edit_save_button">"Spremi"</string>
+    <string name="map_edit_switch_confirm_button">"Prebaci"</string>
+    <string name="map_edit_switch_to_point_message">"Točke koje ste dodali bit će izbrisane. Želite li se zaista prebaciti?"</string>
+    <string name="map_edit_switch_to_point_title">"Prebaciti na točku?"</string>
+    <string name="map_edit_switch_to_polygon_message">"Točke koje ste dodali neće se promijeniti. Možete nastaviti sa stvaranjem objekta."</string>
+    <string name="map_edit_switch_to_polygon_title">"Prebaciti na poligon?"</string>
+    <string name="map_edit_switch_to_polyline_message">"Točke koje ste dodali neće se promijeniti. Možete nastaviti sa stvaranjem objekta."</string>
+    <string name="map_edit_switch_to_polyline_title">"Prebaciti na poliliniju?"</string>
+    <string name="map_edit_type_point">"Točka"</string>
+    <string name="map_edit_type_polygon">"Poligon"</string>
+    <string name="map_edit_type_polyline">"Polilinija"</string>
+    <string name="map_legend">"Legenda"</string>
+    <string name="map_legend_button">"Gumb Legenda"</string>
+    <string name="map_legend_item">"Stavka legende"</string>
+    <string name="map_legend_title">"Naslov legende"</string>
+    <string name="map_list_title">"Objekti %1$d"</string>
+    <string name="map_location_button">"Gumb Lokacija"</string>
+    <string name="map_point_delete_confirm_button">"Izbriši"</string>
+    <string name="map_point_delete_message">"Želite li zaista izbrisati ovu točku?"</string>
+    <string name="map_preview_close">"Zatvara panel pretpregleda"</string>
+    <string name="map_priority_high">"Visoko"</string>
+    <string name="map_priority_low">"Nisko"</string>
+    <string name="map_priority_medium">"Srednje"</string>
+    <string name="map_priority_very_high">"Vrlo visoko"</string>
+    <string name="map_redo_button">"Ponovi"</string>
+    <string name="map_remove_button">"Ukloni"</string>
+    <string name="map_search_cancel">"Odustani"</string>
+    <string name="map_search_enter_an_address">"Unesi adresu"</string>
+    <string name="map_search_error_message">"Došlo je do pogreške tijekom pretraživanja lokacije."</string>
+    <string name="map_search_error_title">"Pogreška pri pretraživanju"</string>
+    <string name="map_search_location_search_title">"Odaberi trenutačnu lokaciju"</string>
+    <string name="map_search_ok">"OK"</string>
+    <string name="map_search_your_location">"Trenutačna lokacija"</string>
+    <string name="map_settings_button">"Gumb Postavke"</string>
+    <string name="map_settings_title">"Postavke"</string>
+    <string name="map_show_hide_button">"Gumb Pokaži / sakrij"</string>
+    <string name="map_toolbar">"Alatna traka"</string>
+    <string name="map_undo_button">"Poništi"</string>
+    <string name="map_zoom_button">"Gumb Razine zumiranja"</string>
+    <string name="max_attempts_reached_message">"Trebate ponovo postaviti šifru"</string>
+    <string name="mb_size_unit">"MB"</string>
+    <string name="network_unreachable_key">"Mreža nije dostupna. Pokušajte ponovo kasnije."</string>
+    <string name="new_activity_on_click_sign">"Lijeva strelica koja pokazuje novu aktivnost stvorit će se ako se klikne prikaz"</string>
+    <string name="no_camera_permission" translatable="true">"Ova se aplikacija ne može izvoditi jer nema dopuštenje za kameru. Aplikacija će se sada zatvoriti."</string>
+    <string name="null_policy_cancel_button_alert_dialog">"Odustani"</string>
+    <string name="null_policy_desc_alert_dialog">"Trenutačno nema dostupnih smjernica za šifru."</string>
+    <string name="null_policy_header_alert_dialog">"Pogreška pri preuzimanju"</string>
+    <string name="null_policy_retry_button_alert_dialog">"Pokušaj ponovo"</string>
+    <string name="object_header_page_1" translatable="true">"Stranica 1"</string>
+    <string name="object_header_page_2" translatable="true">"Stranica 2"</string>
+    <string name="object_header_page_3" translatable="true">"Stranica 3"</string>
+    <string name="ok_button">"android:niz/ok"</string>
+    <string name="ok_button_label">"OK"</string>
+    <string name="onboarding_eula_title">"Ugovor o licenci za krajnjeg korisnika"</string>
+    <string name="onboarding_passcode_fingerprint_reset">"Upotrijebi lozinku"</string>
+    <string name="onboarding_passcode_max_attempts_reached">"Lozinku treba vratiti izvorno"</string>
+    <string name="onboarding_passcode_reset_app">"Vrati izvorno aplikaciju"</string>
+    <string name="onboarding_retrieve_cpms_settings">"Učitavanje…"</string>
+    <string name="onboarding_retrieve_cpms_settings_failed">"Dohvaćanje postavki nije uspjelo. Upotreba zadanih vrijednosti"</string>
+    <string name="one_attempt_left_message">"Ostao vam je jedan pokušaj"</string>
+    <string name="open_document_image_description">"Slika dokumenta"</string>
+    <string name="passcode_change_instruction_text">"Unesite trenutačnu šifru."</string>
+    <string name="passcode_change_title">"Unesi šifru"</string>
+    <string name="passcode_create_digits_label">"brojke (0–9)"</string>
+    <string name="passcode_create_done_button_text">"Dalje"</string>
+    <string name="passcode_create_group_label">"Unesite nešto od sljedećeg:"</string>
+    <string name="passcode_create_instruction_text">"Za otključavanje aplikacije postavite šifru koja ima barem ovoliko znakova: {0,number,#}."</string>
+    <string name="passcode_create_lowercase_label">"mala slova (a-z)"</string>
+    <string name="passcode_create_skip_button_text">"Ne sada"</string>
+    <string name="passcode_create_symbols_label">"simbole (!@#…)"</string>
+    <string name="passcode_create_title">"Stvori šifru"</string>
+    <string name="passcode_create_uppercase_label">"velika slova (A-Z)"</string>
+    <string name="passcode_default_confirm_button_cancel_text">"Odustani"</string>
+    <string name="passcode_default_confirm_done_button_text">"Gotovo"</string>
+    <string name="passcode_default_confirm_instruction_text">"Potvrdite šifru koju ste stvorili"</string>
+    <string name="passcode_default_confirm_mismatch_text">"Šifre se ne podudaraju, pokušajte ponovo"</string>
+    <string name="passcode_default_confirm_title">"Verificiraj šifru"</string>
+    <string name="passcode_default_skip_label_confirm">"Natrag"</string>
+    <string name="passcode_enter_button_text">"Prijava"</string>
+    <string name="passcode_enter_instruction_text">"Za otključavanje aplikacije unesite svoju šifru"</string>
+    <string name="passcode_enter_title">"Unesi šifru"</string>
+    <string name="passcode_error_message_text">"Poruka o pogrešci"</string>
+    <string name="passcode_reset_button_text">"Ponovo postavi klijent"</string>
+    <string name="passcode_skip_hint">"Preskoči proces u vezi sa šifrom"</string>
+    <string name="passcode_skip_label">"Odustani"</string>
+    <string name="passcode_use_default">"Upotrijebi zadano"</string>
+    <string name="password">"Lozinka"</string>
+    <string name="permission_camera_rationale" translatable="true">"Potreban je pristup kameri radi otkrivanja"</string>
+    <string name="popover_image_description">"Slika skočnog prozora"</string>
+    <string name="progress_indicator_full_format">"%1$s (%2$s)"</string>
+    <string name="push_error">"Pogreška automatske poruke"</string>
+    <string name="push_invalid_push_format">"Automatska poruka primljena, ali je njezin format nevaljan pa je nije moguće obraditi."</string>
+    <string name="push_message">"Automatska poruka primljena"</string>
+    <string name="push_text">"Obavijest"</string>
+    <string name="push_token_upload_failed_detail">"Token za automatske poruke nije moguće prenijeti na SAP-ov poslužitelj, jer značajka za automatske poruke ne radi. Nećete primati automatske poruke."</string>
+    <string name="qr_confirm_continue_title">"Nastavi"</string>
+    <string name="qr_confirm_detailed_msg_label">"Sada ćemo vas preusmjeriti na:"</string>
+    <string name="qr_confirm_failure_detailed_message">"Registracija nije uspjela. Isprobajte drugu stazu ili metodu registracije."</string>
+    <string name="qr_confirm_failure_title">"Neuspjeh"</string>
+    <string name="qr_confirm_redirecturl_label"/>
+    <string name="qr_reader_photolibrary_contentdescription">"knjižnica fotografija"</string>
+    <string name="qr_scan_succeeded_label">"Skeniranje uspjelo!"</string>
+    <string name="qr_validation_failure_detailed_message">"Registracija nije uspjela. Isprobajte drugu stazu ili metodu registracije."</string>
+    <string name="qr_validation_failure_title">"Neuspjeh"</string>
+    <string name="read_barcode" translatable="true">"Čitaj bar kod"</string>
+    <string name="reset_button_label_alert_dialog">"Ponovo postavi klijent"</string>
+    <string name="reset_client">"Vrati izvorno klijenta"</string>
+    <string name="reset_client_cong_msg">"Ovim će se vratiti izvorno MDK klijent. Jeste li sigurni?"</string>
+    <string name="reset_client_info_action_cancel">"Odustani"</string>
+    <string name="reset_client_info_action_ok">"Vrati izvorno"</string>
+    <string name="reset_hint">"Upotrijebite ovaj gumb ako ste zaboravili svoju šifru"</string>
+    <string name="results">"REZULTATI (%1$d)"</string>
+    <string name="retry_passcode_message">"Netočna šifra. Pokušajte ponovo"</string>
+    <string name="sap_logo">"SAP logotip"</string>
+    <string name="scan_new_qr_code_string">"skenirati novu QR šifru"</string>
+    <string name="scanning_started">"Skeniranje..."</string>
+    <string name="search_hint" translatable="true">"Pretraživanje"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Pretraži"</string>
+    <string name="select" translatable="true">"Odaberi"</string>
+    <string name="select_file">"Odaberi datoteku"</string>
+    <string name="select_option_string">"Odaberite mogućnost"</string>
+    <string name="select_picture">"Odaberi fotografiju"</string>
+    <string name="signature_captured">"Potpis je unesen"</string>
+    <string name="skip_for_now_button">"Zasad preskoči"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="take_photo">"Snimi fotografiju"</string>
+    <string name="timeline_empty_description">"Stvorite zadatak i pokazat će se na vremenskoj crti."</string>
+    <string name="timeline_empty_headline">"Trenutačno ništa nije dospjelo"</string>
+    <string name="timeline_preview_content_description">"Slika za događaj"</string>
+    <string name="timeline_preview_header">"VREMENSKA CRTA"</string>
+    <string name="timeline_preview_multiday">"%1$s (dan %2$d/%3$d)"</string>
+    <string name="timeline_preview_see_all">"PRIKAŽI SVE (%1$d)"</string>
+    <string name="title_activity_main" translatable="true">"Uzorak čitača bar koda"</string>
+    <string name="use_flash" translatable="true">"Upotrijebi bljeskalicu"</string>
+    <string name="username">"Korisničko ime"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ISKLJUČENO"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"UKLJUČENO"</string>
+    <string name="verify_passcode_done_button">"Verificiraj"</string>
+    <string name="verify_passcode_fingerprint_detail_label">"Dodirnite senzor za verifikaciju otiskom prsta\nili možete upotrijebiti lozinku za verifikaciju"</string>
+    <string name="verify_passcode_fingerprint_headline">"Verificiraj"</string>
+    <string name="verify_passcode_instruction">"Za verifikaciju unesite svoju lozinku"</string>
+    <string name="welcome_action_demo">"Isprobajte demo verziju"</string>
+    <string name="welcome_action_scan">"Skeniraj"</string>
+    <string name="welcome_action_start">"Pokreni"</string>
+    <string name="welcome_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="welcome_demo_label">"Želite istraživati?"</string>
+    <string name="welcome_detail_label">"Slijedite upute koje ste dobili u pozdravnoj e-poruci kako biste pokrenuli proces aktiviranja."</string>
+    <string name="welcome_detailed_label_configured_instruction">"Nadgledajte upravljanje svojih dnevnih zadataka i jednostavno surađujte na projektima."</string>
+    <string name="welcome_detailed_label_discoveryservice_instruction">"Unesite svoju e-adresu kako biste pokrenuli proces aktiviranja."</string>
+    <string name="welcome_detailed_label_scan_instruction">"Skenirajte sigurni QR kod kako biste pokrenuli proces aktiviranja."</string>
+    <string name="welcome_detailed_label_welcome_instruction">"Slijedite upute koje ste dobili u pozdravnoj e-poruci kako biste pokrenuli proces aktiviranja."</string>
+    <string name="welcome_email_hint">"e-pošta"</string>
+    <string name="welcome_headline_label">"Zahvaljujemo na preuzimanju"</string>
+</resources>

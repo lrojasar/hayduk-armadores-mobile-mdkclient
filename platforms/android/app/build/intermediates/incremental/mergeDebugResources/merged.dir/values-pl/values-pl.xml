@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="attachment_long_press_options">
+        <item name="remove" translatable="true">"Usuń załącznik"</item>
+    </string-array>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Przejdź na stronę główną"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Pokaż wszystko"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"WŁ."</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Funkcyjny+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"spacja"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Zapytanie"</string>
+    <string name="abc_searchview_description_scan" translatable="true">"Scan Search"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Udostępnij przez:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"Obszar komunikatu pomocy"</string>
+    <string name="action_cell_icon_desc">"Ikona działania"</string>
+    <string name="activation_action_next">"Dalej"</string>
+    <string name="activation_action_scan">"Skanuj"</string>
+    <string name="activation_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="activation_detail_label">"Jeśli otrzymałeś e-mail powitalny, użyj łącza do aktywacji zawartego w e-mailu. W przeciwnym razie wprowadź swój adres e-mail lub zeskanuj kod QR w celu rozpoczęcia dodawania."</string>
+    <string name="activation_headline_label">"Aktywacja"</string>
+    <string name="activation_subheadline_label">"Lub"</string>
+    <string name="activationscreen_discovery_button">"Rozpocznij"</string>
+    <string name="activationscreen_discovery_title">"Użyj swojego e-maila"</string>
+    <string name="activationscreen_email_hint">"Twój e-mail"</string>
+    <string name="activationscreen_instruction"/>
+    <string name="activationscreen_instruction_barcode">"Zeskanuj bezpieczny kod QR, aby rozpocząć proces aktywacji."</string>
+    <string name="activationscreen_instruction_choose_an_option">"Wprowadź swój adres e-mail, aby rozpocząć proces aktywacji.\n\nMożesz też użyć skanowania kodu QR."</string>
+    <string name="activationscreen_instruction_discovery_service">"Wprowadź swój adres e-mail, aby rozpocząć proces aktywacji."</string>
+    <string name="activationscreen_instruction_mail">"Sprawdź swój e-mail i kliknij zawarte w nim łącze do aktywacji, aby się zalogować."</string>
+    <string name="activationscreen_instruction_mail_email">"Sprawdź swój e-mail i kliknij zawarte w nim łącze do aktywacji, aby się zalogować.\n\nWysłaliśmy e-mail na adres:\n"<b>"%s"</b></string>
+    <string name="activationscreen_qrcode_title">"Użyj skanowania kodu QR"</string>
+    <string name="activationscreen_scan_button">"Skanowanie kodu QR"</string>
+    <string name="activationscreen_title">"Aktywacja"</string>
+    <string name="activationscreen_title_mail">"Wysłaliśmy Ci e-mail"</string>
+    <string name="add_photo">"Dodaj zdjęcie"</string>
+    <string name="attachment_action_icon_desc" translatable="true">"Ikona czynności załącznika"</string>
+    <string name="attachment_action_message" translatable="true">"Załącz z"</string>
+    <string name="attachment_action_title_desc" translatable="true">"Nazwa czynności załącznika"</string>
+    <string name="attachment_add_btn_txt" translatable="true">"Dodaj"</string>
+    <string name="attachment_default_key" translatable="true">"Załączniki (%1$d)"</string>
+    <string name="attachment_item_content_desc" translatable="true">"Pozycja załącznika"</string>
+    <string name="attachment_item_detail_title" translatable="true">"Nazwa i inne szczegóły"</string>
+    <string name="attachment_item_fail_dialog_bottom_title" translatable="true">"OK"</string>
+    <string name="attachment_item_fail_message" translatable="true">"Otwieranie załącznika nie powiodło się"</string>
+    <string name="attachment_item_icon_desc" translatable="true">"Ikona załącznika"</string>
+    <string name="attachment_item_open_message" translatable="true">"Otwieranie załącznika"</string>
+    <string name="attachment_remove_icon_desc" translatable="true">"Usuń załącznik"</string>
+    <string name="attempts">"Pozostała 1 próba"</string>
+    <string name="attempts_left_message">"Liczba pozostałych prób: {0,number,#}"</string>
+    <string name="authentication_failed_key">"Nieudane wdrożenie"</string>
+    <string name="authentication_required">"Wymagane uwierzytelnienie"</string>
+    <string name="auto_focus" translatable="true">"Autofokus"</string>
+    <string name="barcode_error" translatable="true">"Błąd podczas odczytu kodu kreskowego: %1$s"</string>
+    <string name="barcode_failure" translatable="true">"Nie wprowadzono kodu kreskowego"</string>
+    <string name="barcode_header" translatable="true">"Kliknij Odczytaj kod kreskowy, aby odczytać kod kreskowy"</string>
+    <string name="barcode_success" translatable="true">"Kod kreskowy odczytany"</string>
+    <string name="basic_auth_instruction">"Wymagane uwierzytelnianie"</string>
+    <string name="basic_auth_message">"Serwer %1$s wymaga nazwy użytkownika i hasła."</string>
+    <string name="basic_auth_password">"Hasło"</string>
+    <string name="basic_auth_title">"Zarejestruj się"</string>
+    <string name="basic_auth_user_name">"Nazwa użytkownika"</string>
+    <string name="cancel">"Anuluj"</string>
+    <string name="cancel_button">@android:string/cancel</string>
+    <string name="cancel_onboarding_action_cancel">"Nie"</string>
+    <string name="cancel_onboarding_action_ok">"Tak"</string>
+    <string name="cancel_onboarding_msg">"Czy na pewno chcesz anulować proces wdrożenia pracowników?"</string>
+    <string name="clear">"Wyczyść"</string>
+    <string name="collapse" translatable="true">"Zwijanie"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Włącz"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie włączysz Usług Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Włącz Usługi Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Zainstaluj"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zainstalujesz na urządzeniu Usług Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Pobierz Usługi Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Dostępność Usług Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Błąd Usług Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, które nie są obecnie obsługiwane przez urządzenie."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizuj"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zaktualizujesz Usług Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Zaktualizuj Usługi Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, które są obecnie aktualizowane."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Wymagana jest nowa wersja Usług Google Play. Wkrótce nastąpi automatyczna aktualizacja."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otwórz na telefonie"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Zaloguj się"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Zaloguj się przez Google"</string>
+    <string name="confirm_biometric_description_label">"Zarejestruj się za pomocą danych biometrycznych.\nMożesz też użyć hasła."</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"Użyj hasła"</string>
+    <string name="confirm_fingerprint_detail_label">"Dotknij czujnik, aby się zalogować za pomocą odcisku palca.\nMożesz też się zalogować używając kodu dostępu."</string>
+    <string name="confirm_fingerprint_headline_label">"Zaloguj się"</string>
+    <string name="confirm_fingerprint_try_password_button">"Użyj kodu dostępu"</string>
+    <string name="confirm_no">"Nie"</string>
+    <string name="confirm_yes">"Tak"</string>
+    <string name="consent_button_confirm">"ZEZWALAJ"</string>
+    <string name="consent_button_reject">"ODMÓW"</string>
+    <string name="consent_footer_back">"POPRZEDNIE"</string>
+    <string name="consent_footer_next">"NASTĘPNE"</string>
+    <string name="consent_footer_x_of_y">"Krok %d %d"</string>
+    <string name="consent_header_skip_button">"POMIŃ"</string>
+    <string name="consent_title_text">"ZGODA"</string>
+    <string name="contact_cell_info_action_ok">"OK"</string>
+    <string name="contact_cell_info_action_title">"Informacja"</string>
+    <string name="content_body">"Szczegółowy tekst informujący o tym, w jakim stopniu prywatność danych dotyczy tej aplikacji i dlaczego ważne jest dla użytkownika włączenie tej funkcjonalności."</string>
+    <string name="content_learn_more">"Dowiedz się więcej o bezpieczeństwie"</string>
+    <string name="content_title">"Zgoda"</string>
+    <string name="continue_with_same_string">"Użyj bieżącej aplikacji"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"Nieznany błąd"</string>
+    <string name="detector_not_operational">"Detektor kodów kreskowych nie działa z powodu brakujących zależności usług Google Play. Kamera nie będzie widoczna."</string>
+    <string name="dialog_action_retry">"Spróbuj ponownie"</string>
+    <string name="done">"Gotowe"</string>
+    <string name="duration_picker_form_cell_duration_text_format" translatable="true">"%d Godz. %d Min"</string>
+    <string name="enable_fingerprint_alert_cancel_text">"Nie teraz"</string>
+    <string name="enable_fingerprint_alert_message">"Aby użyć swojego odcisku palca, musisz zarejestrować co najmniej jeden swój odcisk palca w ustawieniach"</string>
+    <string name="enable_fingerprint_alert_settings_text">"Przejdź do Ustawień"</string>
+    <string name="enable_fingerprint_alert_title">"Zarejestruj swój odcisk palca"</string>
+    <string name="enable_fingerprint_button">"Aktywuj odcisk palca"</string>
+    <string name="enable_fingerprint_detail_label">"Użyj swojego odcisku palca, aby szybciej i prościej uzyskać dostęp do swojego konta."</string>
+    <string name="enable_fingerprint_error_message_device_is_not_secure">"Urządzenie nie jest bezpieczne"</string>
+    <string name="enable_fingerprint_error_message_no_fingerprint_added">"Zarejestruj w Ustawieniach co najmniej jeden odcisk palca"</string>
+    <string name="enable_fingerprint_headline_label">"Użyj swojego odcisku palca"</string>
+    <string name="enter_credentials_message">"Osiągnięto maksymalną liczbę prób wprowadzenia kodu dostępu. Wprowadź swoje dane uwierzytelniające, aby się zalogować i zresetować kod dostępu."</string>
+    <string name="eula_button_confirm">"Akceptuję"</string>
+    <string name="eula_button_reject">"Nie akceptuję"</string>
+    <string name="eula_title_text">"EULA (Umowa użytkownika końcowego)"</string>
+    <string name="exit_search" translatable="true">"Zakończ wyszukiwanie"</string>
+    <string name="expand" translatable="true">"Rozwijanie"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Zaawansowane"</string>
+    <string name="expandable_menu">"Strzałkę sugerującą pozycję można rozwijać"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Inne"</string>
+    <string name="file_provider">"com.sap.mobile.platform.SnowblindClient.fileprovider"</string>
+    <string name="filter_actionbar_title" translatable="true">"Filtruj wg"</string>
+    <string name="filter_all_items" translatable="true">"WSZYSTKIE"</string>
+    <string name="filter_apply_filter" translatable="true">"Zastosuj"</string>
+    <string name="filter_confirm_discard" translatable="true">"Odrzuć"</string>
+    <string name="filter_confirm_message" translatable="true">"Chcesz odrzucić nowe ustawione filtry?"</string>
+    <string name="filter_confirm_title" translatable="true">"Nie zastosowano nowych filtrów"</string>
+    <string name="filter_reset_all" translatable="true">"Resetuj wszystko"</string>
+    <string name="filter_selected_items" translatable="true">"WYBRANE"</string>
+    <string name="fingerprint_authenticate_error_detail_label">"Uwierzytelnij używanie aplikacji za pomocą odcisku palca. Musisz poczekać 30 sekund, aby można było ponownie użyć czujnika."</string>
+    <string name="fingerprint_authenticate_error_headline_label">"Błąd uwierzytelniania"</string>
+    <string name="fingerprint_authenticate_error_reset_button">"Resetuj klienta"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"Dotknij czytnika linii papilarnych"</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"Czytnik linii papilarnych nie jest dostępny."</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"To urządzenie nie jest wyposażone w czytnik linii papilarnych"</string>
+    <string name="fingerprint_error_label">"Nierozpoznany"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"Zbyt wiele prób. Spróbuj ponownie później."</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"Nie zarejestrowano odcisków palców."</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"Odczyt odcisku palca został anulowany przez użytkownika."</string>
+    <string name="fingerprint_general_error_label">"Podczas uwierzytelniania wystąpił błąd"</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"Nie rozpoznano"</string>
+    <string name="gb_size_unit">"GB"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"Użytkownik anulował uwierzytelnianie."</string>
+    <string name="init_odata_downloaded_data_subtext_format">"Pobieranie danych… %1$,.2f%2$s"</string>
+    <string name="init_odata_downloaded_file_subtext_format">"Pobieranie pliku… %1$,.2f%2$s"</string>
+    <string name="init_odata_initial_communication">"Łączenie…"</string>
+    <string name="init_odata_initializing">"Łączenie…"</string>
+    <string name="init_odata_opened">"Zakończone"</string>
+    <string name="init_odata_opening">"Otwieranie…"</string>
+    <string name="init_odata_prepare_download_data">"Oczekiwanie na dane z serwera…"</string>
+    <string name="init_odata_prepare_download_file">"Oczekiwanie na plik z serwera…"</string>
+    <string name="init_odata_sending_store">"Przesyłanie…"</string>
+    <string name="init_odata_uploading">"Przesyłanie…"</string>
+    <string name="kb_size_unit">"KB"</string>
+    <string name="launchscreen_button_demo">"Wypróbuj wersję demonstracyjną"</string>
+    <string name="launchscreen_button_primary">"Rozpocznij"</string>
+    <string name="launchscreen_description"/>
+    <string name="launchscreen_footnote">"Zobacz nasze &lt;a href=%1$s>Warunki usługi&lt;/a> &amp; &lt;a href=%2$s>Politykę prywatności&lt;/a>"</string>
+    <string name="launchscreen_headline"/>
+    <string name="launchscreen_title"/>
+    <string name="loading" translatable="true">"Ładowanie…"</string>
+    <string name="log_in">"Zaloguj się"</string>
+    <string name="low_storage">"mało miejsca w pamięci"</string>
+    <string name="low_storage_error" translatable="true">"Nie można pobrać zależności detektora twarzy z powodu niewielkiej ilości pamięci urządzenia"</string>
+    <string name="map_add_button">"Dodaj"</string>
+    <string name="map_branch_button">"Filia"</string>
+    <string name="map_cluster_close">"Zamyka panel klastra"</string>
+    <string name="map_directions">"Kierunki"</string>
+    <string name="map_edit_add_point_button">"Dodaj punkt"</string>
+    <string name="map_edit_annotation_type">"Typ adnotacji"</string>
+    <string name="map_edit_annotations">"Edytuj adnotacje"</string>
+    <string name="map_edit_cancel_button">"Anuluj"</string>
+    <string name="map_edit_cancel_edit_confirm_button">"Zakończ"</string>
+    <string name="map_edit_cancel_edit_decline_button">"Kontynuuj edycję"</string>
+    <string name="map_edit_cancel_edit_message">"Czy na pewno chcesz wyjść z edytora mapy?"</string>
+    <string name="map_edit_cancel_edit_title">"Wyjść z edytora mapy?"</string>
+    <string name="map_edit_clear_all_button">"Wyczyść wszystko"</string>
+    <string name="map_edit_clear_points_confirm_button">"Wyczyść wszystko"</string>
+    <string name="map_edit_clear_points_message">"Wyczyścić wszystkie punkty?"</string>
+    <string name="map_edit_close_button">"Zamknij"</string>
+    <string name="map_edit_label_address">"Adres"</string>
+    <string name="map_edit_save_button">"Zapisz"</string>
+    <string name="map_edit_switch_confirm_button">"Przejdź"</string>
+    <string name="map_edit_switch_to_point_message">"Dodane przez Ciebie punkty zostaną usunięte. Na pewno chcesz przełączyć?"</string>
+    <string name="map_edit_switch_to_point_title">"Chcesz przejść do punktu?"</string>
+    <string name="map_edit_switch_to_polygon_message">"Dodane przez Ciebie punkty nie zostaną zmienione i możesz kontynuować tworzenie obiektu."</string>
+    <string name="map_edit_switch_to_polygon_title">"Chcesz przejść do wielokąta?"</string>
+    <string name="map_edit_switch_to_polyline_message">"Dodane przez Ciebie punkty nie zostaną zmienione i możesz kontynuować tworzenie obiektu."</string>
+    <string name="map_edit_switch_to_polyline_title">"Chcesz przejść do polilinii?"</string>
+    <string name="map_edit_type_point">"Punkt"</string>
+    <string name="map_edit_type_polygon">"Wielokąt"</string>
+    <string name="map_edit_type_polyline">"Polilinia"</string>
+    <string name="map_legend">"Legenda"</string>
+    <string name="map_legend_button">"Przycisk legendy"</string>
+    <string name="map_legend_item">"Pozycja legendy"</string>
+    <string name="map_legend_title">"Tytuł legendy"</string>
+    <string name="map_list_title">"%1$d Obiekty"</string>
+    <string name="map_location_button">"Przycisk lokalizacji"</string>
+    <string name="map_point_delete_confirm_button">"Usuń"</string>
+    <string name="map_point_delete_message">"Czy na pewno usunąć ten punkt?"</string>
+    <string name="map_preview_close">"Zamyka poprzedni panel"</string>
+    <string name="map_priority_high">"Wysoki"</string>
+    <string name="map_priority_low">"Niski"</string>
+    <string name="map_priority_medium">"Średni"</string>
+    <string name="map_priority_very_high">"Bardzo wysoki"</string>
+    <string name="map_redo_button">"Powtórz"</string>
+    <string name="map_remove_button">"Usuń"</string>
+    <string name="map_search_cancel">"Anuluj"</string>
+    <string name="map_search_enter_an_address">"Wprowadź adres"</string>
+    <string name="map_search_error_message">"W czasie szukania lokalizacji wystąpił błąd."</string>
+    <string name="map_search_error_title">"Błąd wyszukiwania"</string>
+    <string name="map_search_location_search_title">"Wybierz bieżącą lokalizację"</string>
+    <string name="map_search_ok">"OK"</string>
+    <string name="map_search_your_location">"Bieżąca lokalizacja"</string>
+    <string name="map_settings_button">"Przycisk ustawień"</string>
+    <string name="map_settings_title">"Ustawienia"</string>
+    <string name="map_show_hide_button">"Przycisk Wyświetl/Ukryj"</string>
+    <string name="map_toolbar">"Pasek narzędzi"</string>
+    <string name="map_undo_button">"Cofnij"</string>
+    <string name="map_zoom_button">"Przycisk Skaluj fragmenty"</string>
+    <string name="max_attempts_reached_message">"Musisz zresetować hasło"</string>
+    <string name="mb_size_unit">"MB"</string>
+    <string name="network_unreachable_key">"Sieć niedostępna. Proszę spróbować ponownie później."</string>
+    <string name="new_activity_on_click_sign">"Strzałka w lewo sugerująca nowe działanie zostanie utworzona po kliknięciu wglądu"</string>
+    <string name="no_camera_permission" translatable="true">"Ta aplikacja nie może działać, ponieważ nie ma pozwolenia na kamerę. Aplikacja zostanie teraz zamknięta."</string>
+    <string name="null_policy_cancel_button_alert_dialog">"Anuluj"</string>
+    <string name="null_policy_desc_alert_dialog">"Polityka kodów dostępu nie jest teraz dostępna."</string>
+    <string name="null_policy_header_alert_dialog">"Błąd pobierania"</string>
+    <string name="null_policy_retry_button_alert_dialog">"Ponów próbę"</string>
+    <string name="object_header_page_1" translatable="true">"Strona 1"</string>
+    <string name="object_header_page_2" translatable="true">"Strona 2"</string>
+    <string name="object_header_page_3" translatable="true">"Strona 3"</string>
+    <string name="ok_button">"android:string/ok"</string>
+    <string name="ok_button_label">"OK"</string>
+    <string name="onboarding_eula_title">"Umowa licencyjna użytkownika końcowego"</string>
+    <string name="onboarding_passcode_fingerprint_reset">"Użyj kodu"</string>
+    <string name="onboarding_passcode_max_attempts_reached">"Niezbędny reset kodu dostępu"</string>
+    <string name="onboarding_passcode_reset_app">"Zresetuj aplikację"</string>
+    <string name="onboarding_retrieve_cpms_settings">"Ładowanie…"</string>
+    <string name="onboarding_retrieve_cpms_settings_failed">"Odzyskiwanie ustawień nieudane. Użyte zostaną wartości domyślne"</string>
+    <string name="one_attempt_left_message">"Pozostała 1 próba"</string>
+    <string name="open_document_image_description">"Obraz dokumentu"</string>
+    <string name="passcode_change_instruction_text">"Wprowadź aktualny kod dostępu."</string>
+    <string name="passcode_change_title">"Wprowadź kod dostępu"</string>
+    <string name="passcode_create_digits_label">"Cyfry (0-9)"</string>
+    <string name="passcode_create_done_button_text">"Dalej"</string>
+    <string name="passcode_create_group_label">"Dopilnuj, by zawierał:"</string>
+    <string name="passcode_create_instruction_text">"Aby odblokować aplikację, ustaw kod dostępu, który składa się z co najmniej {0,number,#} znaków."</string>
+    <string name="passcode_create_lowercase_label">"Małe litery (a-z)"</string>
+    <string name="passcode_create_skip_button_text">"Nie teraz"</string>
+    <string name="passcode_create_symbols_label">"Symbole (!@#...)"</string>
+    <string name="passcode_create_title">"Utwórz kod dostępu"</string>
+    <string name="passcode_create_uppercase_label">"Wielkie litery (A-Z)"</string>
+    <string name="passcode_default_confirm_button_cancel_text">"Anuluj"</string>
+    <string name="passcode_default_confirm_done_button_text">"Gotowe"</string>
+    <string name="passcode_default_confirm_instruction_text">"Potwierdź utworzony kod dostępu"</string>
+    <string name="passcode_default_confirm_mismatch_text">"Kod dostępu niezgodny, spróbuj ponownie"</string>
+    <string name="passcode_default_confirm_title">"Zweryfikuj kod dostępu"</string>
+    <string name="passcode_default_skip_label_confirm">"Wstecz"</string>
+    <string name="passcode_enter_button_text">"Zaloguj się"</string>
+    <string name="passcode_enter_instruction_text">"Aby odblokować aplikację, wprowadź swój kod dostępu"</string>
+    <string name="passcode_enter_title">"Wprowadź kod dostępu"</string>
+    <string name="passcode_error_message_text">"Komunikat o błędzie"</string>
+    <string name="passcode_reset_button_text">"Resetuj klienta"</string>
+    <string name="passcode_skip_hint">"Pomiń proces kodu dostępu"</string>
+    <string name="passcode_skip_label">"Anuluj"</string>
+    <string name="passcode_use_default">"Użyj domyślne"</string>
+    <string name="password">"Hasło"</string>
+    <string name="permission_camera_rationale" translatable="true">"W celu wykrycia obiektu niezbędny jest dostęp do kamery"</string>
+    <string name="popover_image_description">"Obraz okna popover"</string>
+    <string name="progress_indicator_full_format">"%1$s (%2$s)"</string>
+    <string name="push_error">"Błąd push"</string>
+    <string name="push_invalid_push_format">"Wiadomość push otrzymana, ale jej format jest nieprawidłowy, więc nie można jej przetwarzać."</string>
+    <string name="push_message">"Otrzymano wiadomość push"</string>
+    <string name="push_text">"Powiadomienie"</string>
+    <string name="push_token_upload_failed_detail">"Nie można było przesłać tokena push na serwer SAP, funkcja push nie będzie działać. Nie będziesz otrzymywać wiadomości push."</string>
+    <string name="qr_confirm_continue_title">"Kontynuuj"</string>
+    <string name="qr_confirm_detailed_msg_label">"Zostaniesz przekierowany do:"</string>
+    <string name="qr_confirm_failure_detailed_message">"Rejestracja nie powiodła się. Proszę spróbować innej ścieżki lub metody."</string>
+    <string name="qr_confirm_failure_title">"Błąd"</string>
+    <string name="qr_confirm_redirecturl_label"/>
+    <string name="qr_reader_photolibrary_contentdescription">"biblioteka zdjęć"</string>
+    <string name="qr_scan_succeeded_label">"Skanowanie udane!"</string>
+    <string name="qr_validation_failure_detailed_message">"Rejestracja nie powiodła się. Proszę spróbować innej ścieżki lub metody."</string>
+    <string name="qr_validation_failure_title">"Błąd"</string>
+    <string name="read_barcode" translatable="true">"Odczytaj kod kreskowy"</string>
+    <string name="reset_button_label_alert_dialog">"Resetuj klienta"</string>
+    <string name="reset_client">"Resetuj klienta"</string>
+    <string name="reset_client_cong_msg">"To spowoduje zresetowanie klienta MDK. Czy na pewno?"</string>
+    <string name="reset_client_info_action_cancel">"Anuluj"</string>
+    <string name="reset_client_info_action_ok">"Resetuj"</string>
+    <string name="reset_hint">"Użyj tego przycisku, jeśli nie pamiętasz swojego kodu dostępu"</string>
+    <string name="results">"WYNIKI(%1$d)"</string>
+    <string name="retry_passcode_message">"Nieprawidłowy kod dostępu. Spróbuj ponownie."</string>
+    <string name="sap_logo">"Logo SAP"</string>
+    <string name="scan_new_qr_code_string">"Zeskanuj nowy kod QR"</string>
+    <string name="scanning_started">"Skanowanie..."</string>
+    <string name="search_hint" translatable="true">"Wyszukaj"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Szukaj"</string>
+    <string name="select" translatable="true">"Wybór"</string>
+    <string name="select_file">"Wybierz plik"</string>
+    <string name="select_option_string">"Wybierz jedną opcję"</string>
+    <string name="select_picture">"Wybierz obraz"</string>
+    <string name="signature_captured">"Podpis został zapisany"</string>
+    <string name="skip_for_now_button">"Pomiń na razie"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="take_photo">"Zrób zdjęcie"</string>
+    <string name="timeline_empty_description">"Utwórz zadanie, a pojawi się ono w harmonogramie."</string>
+    <string name="timeline_empty_headline">"Brak aktualnie wymaganych"</string>
+    <string name="timeline_preview_content_description">"Obraz zdarzenia"</string>
+    <string name="timeline_preview_header">"HARMONOGRAM"</string>
+    <string name="timeline_preview_multiday">"%1$s (Dzień %2$d/%3$d)"</string>
+    <string name="timeline_preview_see_all">"ZOBACZ WSZYSTKIE (%1$d)"</string>
+    <string name="title_activity_main" translatable="true">"Próbka czytnika kodów kreskowych"</string>
+    <string name="use_flash" translatable="true">"Użyj lampy"</string>
+    <string name="username">"Nazwa użytkownika"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"WYŁ."</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"WŁ."</string>
+    <string name="verify_passcode_done_button">"Weryfikuj"</string>
+    <string name="verify_passcode_fingerprint_detail_label">"Czujnik dotykowy do weryfikacji za pomocą odcisku palca\nMożesz też użyć hasła w celu weryfikacji"</string>
+    <string name="verify_passcode_fingerprint_headline">"Weryfikuj"</string>
+    <string name="verify_passcode_instruction">"Aby to zweryfikować, wpisz swoje hasło"</string>
+    <string name="welcome_action_demo">"Wypróbuj wersję demonstracyjną"</string>
+    <string name="welcome_action_scan">"Skanuj"</string>
+    <string name="welcome_action_start">"Rozpocznij"</string>
+    <string name="welcome_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="welcome_demo_label">"Chcesz przetestować?"</string>
+    <string name="welcome_detail_label">"W celu rozpoczęcia procesu aktywacji postępuj zgodnie z instrukcjami zawartymi w e-mailu powitalnym."</string>
+    <string name="welcome_detailed_label_configured_instruction">"Zapewnij sobie przejrzysty wgląd w zarządzanie codziennymi zadaniami i łatwość współpracy w ramach projektów."</string>
+    <string name="welcome_detailed_label_discoveryservice_instruction">"Wprowadź swój adres e-mail, aby rozpocząć proces aktywacji."</string>
+    <string name="welcome_detailed_label_scan_instruction">"Zeskanuj bezpieczny kod QR, aby rozpocząć proces aktywacji."</string>
+    <string name="welcome_detailed_label_welcome_instruction">"W celu rozpoczęcia procesu aktywacji postępuj zgodnie z instrukcjami zawartymi w e-mailu powitalnym."</string>
+    <string name="welcome_email_hint">"E-mail"</string>
+    <string name="welcome_headline_label">"Dziękujemy za pobranie"</string>
+</resources>

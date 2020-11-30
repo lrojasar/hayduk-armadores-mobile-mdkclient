@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="attachment_long_press_options">
+        <item name="remove" translatable="true">"Eki kaldır"</item>
+    </string-array>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Eve gidiş yolunu göster"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"AÇ"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"sil"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Üst Karakter+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"boşluk"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menü+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Ara…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string name="abc_searchview_description_scan" translatable="true">"Tarama arama"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Şununla paylaş:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"Yardım mesajı alanı"</string>
+    <string name="action_cell_icon_desc">"İşlem ikonu"</string>
+    <string name="activation_action_next">"İleri"</string>
+    <string name="activation_action_scan">"Tara"</string>
+    <string name="activation_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="activation_detail_label">"Karşılama e-postası aldıysanız, e-postadaki etkinleştirme bağlantısını izleyin. E-posta almadıysanız, etkinleştirmeyi başlatmak için e-posta adresinizi girin veya QR kodunu taratın."</string>
+    <string name="activation_headline_label">"Etkinleştirme"</string>
+    <string name="activation_subheadline_label">"Veya"</string>
+    <string name="activationscreen_discovery_button">"Başlat"</string>
+    <string name="activationscreen_discovery_title">"E-postanızı kullanın"</string>
+    <string name="activationscreen_email_hint">"E-postanız"</string>
+    <string name="activationscreen_instruction"/>
+    <string name="activationscreen_instruction_barcode">"Etkinleştirme işlemini başlatmak için lütfen güvenli QR kodunu taratın."</string>
+    <string name="activationscreen_instruction_choose_an_option">"Etkinleştirme sürecini başlatmak için e-posta adresinizi girin.\n\nVeya QR kod taramasını kullanabilirsiniz."</string>
+    <string name="activationscreen_instruction_discovery_service">"Etkinleştirme işlemini başlatmak için e-posta adresinizi girin."</string>
+    <string name="activationscreen_instruction_mail">"E-postanızı kontrol edin ve oturum açmak için size az önce gönderdiğimiz etkinleştirme bağlantısına tıklayın."</string>
+    <string name="activationscreen_instruction_mail_email">"E-postanızı kontrol edin ve oturum açmak için size az önce gönderdiğimiz etkinleştirme bağlantısına tıklayın.\n\nŞuraya gönderdik:\n"<b>"%s"</b></string>
+    <string name="activationscreen_qrcode_title">"QR kod taramasını kullanın"</string>
+    <string name="activationscreen_scan_button">"QR kod taraması"</string>
+    <string name="activationscreen_title">"Etkinleştirme"</string>
+    <string name="activationscreen_title_mail">"Size e-posta gönderdik"</string>
+    <string name="add_photo">"Fotoğraf ekle"</string>
+    <string name="attachment_action_icon_desc" translatable="true">"Ek işlemi için ikon"</string>
+    <string name="attachment_action_message" translatable="true">"Ekleme kaynağı"</string>
+    <string name="attachment_action_title_desc" translatable="true">"Ek işleminin adı"</string>
+    <string name="attachment_add_btn_txt" translatable="true">"Ekle"</string>
+    <string name="attachment_default_key" translatable="true">"Ekler (%1$d)"</string>
+    <string name="attachment_item_content_desc" translatable="true">"Ek öğesi"</string>
+    <string name="attachment_item_detail_title" translatable="true">"Ad ve diğer ayrıntılar"</string>
+    <string name="attachment_item_fail_dialog_bottom_title" translatable="true">"Tamam"</string>
+    <string name="attachment_item_fail_message" translatable="true">"Ek açılamadı"</string>
+    <string name="attachment_item_icon_desc" translatable="true">"Ekin ikonu"</string>
+    <string name="attachment_item_open_message" translatable="true">"Ek açılıyor"</string>
+    <string name="attachment_remove_icon_desc" translatable="true">"Eki kaldır"</string>
+    <string name="attempts">"1 deneme hakkınız kaldı"</string>
+    <string name="attempts_left_message">"{0,number,#} deneme hakkınız kaldı"</string>
+    <string name="authentication_failed_key">"Eklemek başarısız oldu!"</string>
+    <string name="authentication_required">"Kimlik doğrulama gerekli"</string>
+    <string name="auto_focus" translatable="true">"Otomatik odaklama"</string>
+    <string name="barcode_error" translatable="true">"Barkod okunurken hata: %1$s"</string>
+    <string name="barcode_failure" translatable="true">"Barkod yakalanmadı"</string>
+    <string name="barcode_header" translatable="true">"Barkod okumak için Barkod oku\'ya tıklayın"</string>
+    <string name="barcode_success" translatable="true">"Barkod başarıyla okundu"</string>
+    <string name="basic_auth_instruction">"Kimlik doğrulama gerekli"</string>
+    <string name="basic_auth_message">"Sunucu %1$s için kullanıcı adı ve parola gerekli."</string>
+    <string name="basic_auth_password">"Parola"</string>
+    <string name="basic_auth_title">"Oturum aç"</string>
+    <string name="basic_auth_user_name">"Kullanıcı adı"</string>
+    <string name="cancel">"İptal et"</string>
+    <string name="cancel_button">@android:string/cancel</string>
+    <string name="cancel_onboarding_action_cancel">"Hayır"</string>
+    <string name="cancel_onboarding_action_ok">"Evet"</string>
+    <string name="cancel_onboarding_msg">"Etkinleştirme sürecini iptal etmek istediğinizden emin misiniz?"</string>
+    <string name="clear">"Temizle"</string>
+    <string name="collapse" translatable="true">"Daralt"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Etkinleştir"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play hizmetlerini etkinleştirmezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmaz."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play hizmetlerini etkinleştirin"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Yükle"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play hizmetlerini edinin"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play hizmetlerinin kullanılabilirliği"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play Hizmetleri hatası"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Güncelle"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play hizmetlerini güncellemezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmayacak."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play hizmetlerini güncelleyin"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Telefonda aç"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Oturum aç"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google\'da oturum aç"</string>
+    <string name="confirm_biometric_description_label">"Biyometrikleri kullanarak oturum açın.\nVeya oturum açmak için giriş kodu kullanabilirsiniz."</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"Şifre kullan"</string>
+    <string name="confirm_fingerprint_detail_label">"Parmak izinizle oturum açmak için sensöre dokunun.\nVeya oturum açmak için giriş kodu kullanabilirsiniz."</string>
+    <string name="confirm_fingerprint_headline_label">"Oturum aç"</string>
+    <string name="confirm_fingerprint_try_password_button">"Giriş kodu kullan"</string>
+    <string name="confirm_no">"Hayır"</string>
+    <string name="confirm_yes">"Evet"</string>
+    <string name="consent_button_confirm">"İZİN VER"</string>
+    <string name="consent_button_reject">"REDDET"</string>
+    <string name="consent_footer_back">"ÖNCEKİ"</string>
+    <string name="consent_footer_next">"SONRAKİ"</string>
+    <string name="consent_footer_x_of_y">"%d/%d adımı"</string>
+    <string name="consent_header_skip_button">"ATLA"</string>
+    <string name="consent_title_text">"İZİN"</string>
+    <string name="contact_cell_info_action_ok">"Tamam"</string>
+    <string name="contact_cell_info_action_title">"Bilgi"</string>
+    <string name="content_body">"Veri gizliliğinin bu uygulama ile nasıl ilişkili olduğu ve kullanıcının bu işlevi etkinleştirmesinin neden önemli olduğu hakkında ayrıntılı metin."</string>
+    <string name="content_learn_more">"Güvenlik hakkında daha fazla bilgi edinin"</string>
+    <string name="content_title">"İzin"</string>
+    <string name="continue_with_same_string">"Geçerli uygulamayı kullan"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"Bilinmeyen hata"</string>
+    <string name="detector_not_operational">"Eksik Google Play Hizmetleri bağlılıkları nedeniyle barkod algılayıcı çalışmıyor. Kamera gösterilmeyecek."</string>
+    <string name="dialog_action_retry">"Yeniden dene"</string>
+    <string name="done">"Bitti"</string>
+    <string name="duration_picker_form_cell_duration_text_format" translatable="true">"%d sa. %d dk."</string>
+    <string name="enable_fingerprint_alert_cancel_text">"Şimdi değil"</string>
+    <string name="enable_fingerprint_alert_message">"Parmak izinizi kullanmak için ayarlarda en az bir parmak izinizi kaydetmelisiniz"</string>
+    <string name="enable_fingerprint_alert_settings_text">"Ayarlara git"</string>
+    <string name="enable_fingerprint_alert_title">"Parmak izinizi kaydedin"</string>
+    <string name="enable_fingerprint_button">"Parmak izini etkinleştir"</string>
+    <string name="enable_fingerprint_detail_label">"Hesabınıza daha hızlı ve daha kolay erişim için parmak izinizi kullanın."</string>
+    <string name="enable_fingerprint_error_message_device_is_not_secure">"Cihaz güvenli değil"</string>
+    <string name="enable_fingerprint_error_message_no_fingerprint_added">"Ayarlarda en az bir parmak izi kaydedin"</string>
+    <string name="enable_fingerprint_headline_label">"Parmak izinizi kullanın"</string>
+    <string name="enter_credentials_message">"Azami giriş kodu denemesine ulaştınız. Oturum açmak ve giriş kodunuz sıfırlamak için kimlik bilgilerinizi girin."</string>
+    <string name="eula_button_confirm">"Kabul et"</string>
+    <string name="eula_button_reject">"Reddet"</string>
+    <string name="eula_title_text">"EULA"</string>
+    <string name="exit_search" translatable="true">"Aramadan çık"</string>
+    <string name="expand" translatable="true">"Genişlet"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Gelişmiş"</string>
+    <string name="expandable_menu">"Öğeyi belirten ok genişletilebilir"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Çeşitli"</string>
+    <string name="file_provider">"com.sap.mobile.platform.SnowblindClient.fileprovider"</string>
+    <string name="filter_actionbar_title" translatable="true">"Filtreleme ölçütü"</string>
+    <string name="filter_all_items" translatable="true">"TÜMÜ"</string>
+    <string name="filter_apply_filter" translatable="true">"Uygula"</string>
+    <string name="filter_confirm_discard" translatable="true">"At"</string>
+    <string name="filter_confirm_message" translatable="true">"Belirlediğiniz yeni filtreleri atmak istiyor musunuz?"</string>
+    <string name="filter_confirm_title" translatable="true">"Yeni filtreler uygulanmadı"</string>
+    <string name="filter_reset_all" translatable="true">"Tümünü sıfırla"</string>
+    <string name="filter_selected_items" translatable="true">"SEÇİLEN"</string>
+    <string name="fingerprint_authenticate_error_detail_label">"Uygulamayı kullanmak için parmak izi kullanarak kimlik doğrulayın. Sensörü tekrar kullanabilmek için 30 saniye beklemelisiniz."</string>
+    <string name="fingerprint_authenticate_error_headline_label">"Kimlik doğrulama hatası"</string>
+    <string name="fingerprint_authenticate_error_reset_button">"İstemciyi sıfırla"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"Parmak izi sensörüne dokunun"</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"Parmak izi donanımı kullanılamıyor."</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"Bu cihazda parmak izi sensörü yok"</string>
+    <string name="fingerprint_error_label">"Tanınmadı"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"Çok fazla deneme yapıldı. Lütfen daha sonra tekrar deneyin."</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"Parmak izi kaydedilmedi."</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"Parmak izi işlemi kullanıcı tarafından iptal edildi."</string>
+    <string name="fingerprint_general_error_label">"Kimlik doğrulama sırasında sorun oluştu"</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"Tanınmadı"</string>
+    <string name="gb_size_unit">"GB"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"Kimlik doğrulama kullanıcı tarafından iptal edildi."</string>
+    <string name="init_odata_downloaded_data_subtext_format">"Veriler indiriliyor… %1$,.2f%2$s"</string>
+    <string name="init_odata_downloaded_file_subtext_format">"Dosya indiriliyor… %1$,.2f%2$s"</string>
+    <string name="init_odata_initial_communication">"Bağlanıyor…"</string>
+    <string name="init_odata_initializing">"Bağlanıyor…"</string>
+    <string name="init_odata_opened">"Tamamlandı"</string>
+    <string name="init_odata_opening">"Açılıyor…"</string>
+    <string name="init_odata_prepare_download_data">"Sunucudan veri bekleniyor…"</string>
+    <string name="init_odata_prepare_download_file">"Sunucudan dosya bekleniyor…"</string>
+    <string name="init_odata_sending_store">"Yükleniyor…"</string>
+    <string name="init_odata_uploading">"Yükleniyor…"</string>
+    <string name="kb_size_unit">"KB"</string>
+    <string name="launchscreen_button_demo">"Demoyu deneyin"</string>
+    <string name="launchscreen_button_primary">"Başla"</string>
+    <string name="launchscreen_description"/>
+    <string name="launchscreen_footnote">"&lt;a href=%1$s>Hizmet koşulları&lt;/a> ve &lt;a href=%2$s>Gizlilik ilkesi&lt;/a> içeriklerimizi görüntüleyin"</string>
+    <string name="launchscreen_headline"/>
+    <string name="launchscreen_title"/>
+    <string name="loading" translatable="true">"Yükleniyor..."</string>
+    <string name="log_in">"Oturum aç"</string>
+    <string name="low_storage">"Düşük bellek"</string>
+    <string name="low_storage_error" translatable="true">"Düşük cihaz belleği nedeniyle yüz algılayıcı bağlılıkları indirilemiyor"</string>
+    <string name="map_add_button">"Ekle"</string>
+    <string name="map_branch_button">"Dal"</string>
+    <string name="map_cluster_close">"Küme panelini kapatır"</string>
+    <string name="map_directions">"Yönler"</string>
+    <string name="map_edit_add_point_button">"Nokta ekle"</string>
+    <string name="map_edit_annotation_type">"Açıklama türü"</string>
+    <string name="map_edit_annotations">"Açıklamaları düzenle"</string>
+    <string name="map_edit_cancel_button">"İptal et"</string>
+    <string name="map_edit_cancel_edit_confirm_button">"Çık"</string>
+    <string name="map_edit_cancel_edit_decline_button">"Düzenlemeye devam et"</string>
+    <string name="map_edit_cancel_edit_message">"Harita düzenleyiciden çıkmak istediğinizden emin misiniz?"</string>
+    <string name="map_edit_cancel_edit_title">"Harita düzenleyiciden çıkılsın mı?"</string>
+    <string name="map_edit_clear_all_button">"Tümünü temizle"</string>
+    <string name="map_edit_clear_points_confirm_button">"Tümünü temizle"</string>
+    <string name="map_edit_clear_points_message">"Tüm noktalar temizlensin mi?"</string>
+    <string name="map_edit_close_button">"Kapat"</string>
+    <string name="map_edit_label_address">"Adres"</string>
+    <string name="map_edit_save_button">"Kaydet"</string>
+    <string name="map_edit_switch_confirm_button">"Geçiş yap"</string>
+    <string name="map_edit_switch_to_point_message">"Eklediğiniz tüm noktalar silinecek. Geçiş yapmak istediğinizden emin misiniz?"</string>
+    <string name="map_edit_switch_to_point_title">"Bir noktaya geçiş yapılsın mı?"</string>
+    <string name="map_edit_switch_to_polygon_message">"Eklediğiniz noktalar değiştirilmeyecek. Nesneyi oluşturmaya devam edebilirsiniz."</string>
+    <string name="map_edit_switch_to_polygon_title">"Bir çokgene geçiş yapılsın mı?"</string>
+    <string name="map_edit_switch_to_polyline_message">"Eklediğiniz noktalar değiştirilmeyecek. Nesneyi oluşturmaya devam edebilirsiniz."</string>
+    <string name="map_edit_switch_to_polyline_title">"Bir çoklu çizgiye geçiş yapılsın mı?"</string>
+    <string name="map_edit_type_point">"Nokta"</string>
+    <string name="map_edit_type_polygon">"Çokgen"</string>
+    <string name="map_edit_type_polyline">"Çoklu çizgi"</string>
+    <string name="map_legend">"Açıklama"</string>
+    <string name="map_legend_button">"Açıklama düğmesi"</string>
+    <string name="map_legend_item">"Açıklama öğesi"</string>
+    <string name="map_legend_title">"Açıklama başlığı"</string>
+    <string name="map_list_title">"%1$d nesne"</string>
+    <string name="map_location_button">"Lokasyon düğmesi"</string>
+    <string name="map_point_delete_confirm_button">"Sil"</string>
+    <string name="map_point_delete_message">"Bu noktayı silmek istediğinizden emin misiniz?"</string>
+    <string name="map_preview_close">"Önizleme panelini kapatır"</string>
+    <string name="map_priority_high">"Yüksek"</string>
+    <string name="map_priority_low">"Düşük"</string>
+    <string name="map_priority_medium">"Orta"</string>
+    <string name="map_priority_very_high">"Çok yüksek"</string>
+    <string name="map_redo_button">"Yinele"</string>
+    <string name="map_remove_button">"Kaldır"</string>
+    <string name="map_search_cancel">"İptal et"</string>
+    <string name="map_search_enter_an_address">"Adres girin"</string>
+    <string name="map_search_error_message">"Lokasyon araması sırasında hata oluştu."</string>
+    <string name="map_search_error_title">"Arama hatası"</string>
+    <string name="map_search_location_search_title">"Geçerli lokasyonu seç"</string>
+    <string name="map_search_ok">"Tamam"</string>
+    <string name="map_search_your_location">"Güncel lokasyon"</string>
+    <string name="map_settings_button">"Ayarlar düğmesi"</string>
+    <string name="map_settings_title">"Ayarlar"</string>
+    <string name="map_show_hide_button">"Göster/gizle düğmesi"</string>
+    <string name="map_toolbar">"Araç çubuğu"</string>
+    <string name="map_undo_button">"Geri al"</string>
+    <string name="map_zoom_button">"Yakınlaştırma artırma düğmesi"</string>
+    <string name="max_attempts_reached_message">"Giriş kodu sıfırlanmalı"</string>
+    <string name="mb_size_unit">"MB"</string>
+    <string name="network_unreachable_key">"Ağ planı kullanılabilir değil. Daha sonra tekrar deneyin."</string>
+    <string name="new_activity_on_click_sign">"Görünüme tıklandığında yeni aktivite belirten sol ok oluşturulacak"</string>
+    <string name="no_camera_permission" translatable="true">"Kamera izni olmadığı için bu uygulama çalıştırılamıyor. Şimdi uygulamadan çıkılacak."</string>
+    <string name="null_policy_cancel_button_alert_dialog">"İptal et"</string>
+    <string name="null_policy_desc_alert_dialog">"Şu anda kullanılabilir giriş kodu ilkesi yok."</string>
+    <string name="null_policy_header_alert_dialog">"İndirme hatası"</string>
+    <string name="null_policy_retry_button_alert_dialog">"Yeniden dene"</string>
+    <string name="object_header_page_1" translatable="true">"Sayfa 1"</string>
+    <string name="object_header_page_2" translatable="true">"Sayfa 2"</string>
+    <string name="object_header_page_3" translatable="true">"Sayfa 3"</string>
+    <string name="ok_button">"android:string/ok"</string>
+    <string name="ok_button_label">"Tamam"</string>
+    <string name="onboarding_eula_title">"Son kullanıcı lisans sözleşmesi"</string>
+    <string name="onboarding_passcode_fingerprint_reset">"Giriş kodunu kullan"</string>
+    <string name="onboarding_passcode_max_attempts_reached">"Giriş kodunu sıfırlamak gerekli"</string>
+    <string name="onboarding_passcode_reset_app">"Uygulamayı sıfırla"</string>
+    <string name="onboarding_retrieve_cpms_settings">"Yükleniyor…"</string>
+    <string name="onboarding_retrieve_cpms_settings_failed">"Ayarları alma başarısız oldu. Varsayılanlar kullanılıyor"</string>
+    <string name="one_attempt_left_message">"1 deneme hakkınız kaldı"</string>
+    <string name="open_document_image_description">"Belge resmi"</string>
+    <string name="passcode_change_instruction_text">"Geçerli parolanızı girin."</string>
+    <string name="passcode_change_title">"Giriş kodu gir"</string>
+    <string name="passcode_create_digits_label">"Rakamlar (0-9)"</string>
+    <string name="passcode_create_done_button_text">"İleri"</string>
+    <string name="passcode_create_group_label">"Şunları dahil edin:"</string>
+    <string name="passcode_create_instruction_text">"Uygulamanın kilidini açmak için en az {0,number,#} uzunluğunda giriş kodu belirleyin."</string>
+    <string name="passcode_create_lowercase_label">"Küçük harf (a-z)"</string>
+    <string name="passcode_create_skip_button_text">"Şimdi değil"</string>
+    <string name="passcode_create_symbols_label">"Semboller (!@#…)"</string>
+    <string name="passcode_create_title">"Giriş kodu oluştur"</string>
+    <string name="passcode_create_uppercase_label">"Büyük harf (A-Z)"</string>
+    <string name="passcode_default_confirm_button_cancel_text">"İptal et"</string>
+    <string name="passcode_default_confirm_done_button_text">"Bitti"</string>
+    <string name="passcode_default_confirm_instruction_text">"Oluşturduğunuz giriş kodunu teyit edin"</string>
+    <string name="passcode_default_confirm_mismatch_text">"Giriş kodu eşleşmedi, tekrar deneyin"</string>
+    <string name="passcode_default_confirm_title">"Giriş kodunu doğrula"</string>
+    <string name="passcode_default_skip_label_confirm">"Geri"</string>
+    <string name="passcode_enter_button_text">"Oturum aç"</string>
+    <string name="passcode_enter_instruction_text">"Uygulamanın kilidini açmak için giriş kodunuzu girin"</string>
+    <string name="passcode_enter_title">"Giriş kodu gir"</string>
+    <string name="passcode_error_message_text">"Hata iletisi"</string>
+    <string name="passcode_reset_button_text">"İstemciyi sıfırla"</string>
+    <string name="passcode_skip_hint">"Giriş kodu sürecini atla"</string>
+    <string name="passcode_skip_label">"İptal et"</string>
+    <string name="passcode_use_default">"Varsayılanı kullan"</string>
+    <string name="password">"Parola"</string>
+    <string name="permission_camera_rationale" translatable="true">"Algılama için kameraya erişim gerekiyor"</string>
+    <string name="popover_image_description">"Popover resmi"</string>
+    <string name="progress_indicator_full_format">"%1$s (%2$s)"</string>
+    <string name="push_error">"Push hatası"</string>
+    <string name="push_invalid_push_format">"Push iletisi alındı ancak biçimi geçersizdi, bu nedenle işlenemedi."</string>
+    <string name="push_message">"Push iletisi alındı"</string>
+    <string name="push_text">"Bildirim"</string>
+    <string name="push_token_upload_failed_detail">"Push simgesi SAP sunucusuna yüklenemedi, push özelliği çalışmayacak. Push iletileri almayacaksınız."</string>
+    <string name="qr_confirm_continue_title">"Devam"</string>
+    <string name="qr_confirm_detailed_msg_label">"Şimdi şuraya yönlendirileceksiniz:"</string>
+    <string name="qr_confirm_failure_detailed_message">"Kayıt başarısız oldu. Farklı kayıt yolu ve ya yöntemi deneyin."</string>
+    <string name="qr_confirm_failure_title">"Hata"</string>
+    <string name="qr_confirm_redirecturl_label"/>
+    <string name="qr_reader_photolibrary_contentdescription">"Fotoğraf kitaplığı"</string>
+    <string name="qr_scan_succeeded_label">"Tarama başarılı!"</string>
+    <string name="qr_validation_failure_detailed_message">"Kayıt başarısız oldu. Farklı kayıt yolu ve ya yöntemi deneyin."</string>
+    <string name="qr_validation_failure_title">"Hata"</string>
+    <string name="read_barcode" translatable="true">"Barkod oku"</string>
+    <string name="reset_button_label_alert_dialog">"İstemciyi sıfırla"</string>
+    <string name="reset_client">"İstemciyi sıfırla"</string>
+    <string name="reset_client_cong_msg">"Bu, MDK istemcisini sıfırlayacak.  Emin misiniz?"</string>
+    <string name="reset_client_info_action_cancel">"İptal et"</string>
+    <string name="reset_client_info_action_ok">"Sıfırla"</string>
+    <string name="reset_hint">"Giriş kodunuzu hatırlamıyorsanız bu düğmeyi kullanın"</string>
+    <string name="results">"SONUÇLAR(%1$d)"</string>
+    <string name="retry_passcode_message">"Yanlış giriş kodu. Tekrar deneyin."</string>
+    <string name="sap_logo">"SAP logosu"</string>
+    <string name="scan_new_qr_code_string">"Yeni QR kodu tara"</string>
+    <string name="scanning_started">"Taranıyor..."</string>
+    <string name="search_hint" translatable="true">"Ara"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Ara"</string>
+    <string name="select" translatable="true">"Seç"</string>
+    <string name="select_file">"Dosya seç"</string>
+    <string name="select_option_string">"Seçenek belirleyin"</string>
+    <string name="select_picture">"Resim seç"</string>
+    <string name="signature_captured">"İmza yakalandı"</string>
+    <string name="skip_for_now_button">"Şimdilik atla"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="take_photo">"Fotoğraf çek"</string>
+    <string name="timeline_empty_description">"Görev oluşturun ve bu görev zaman çizelgesinde görünsün."</string>
+    <string name="timeline_empty_headline">"Şu anda yapılması gereken bir şey yok"</string>
+    <string name="timeline_preview_content_description">"Olay için resim"</string>
+    <string name="timeline_preview_header">"ZAMAN ÇİZELGESİ"</string>
+    <string name="timeline_preview_multiday">"%1$s (gün %2$d/%3$d)"</string>
+    <string name="timeline_preview_see_all">"TÜMÜNÜ GÖR (%1$d)"</string>
+    <string name="title_activity_main" translatable="true">"Barkod okuyucu örneği"</string>
+    <string name="use_flash" translatable="true">"Flaş kullan"</string>
+    <string name="username">"Kullanıcı adı"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"KAPALI"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"AÇIK"</string>
+    <string name="verify_passcode_done_button">"Doğrula"</string>
+    <string name="verify_passcode_fingerprint_detail_label">"Parmak izinizle doğrulamak için sensöre dokunun\nVeya doğrulamak için giriş kodu kullanabilirsiniz"</string>
+    <string name="verify_passcode_fingerprint_headline">"Doğrula"</string>
+    <string name="verify_passcode_instruction">"Doğrulamak için giriş kodunuzu girin"</string>
+    <string name="welcome_action_demo">"Demoyu deneyin"</string>
+    <string name="welcome_action_scan">"Tara"</string>
+    <string name="welcome_action_start">"Başlat"</string>
+    <string name="welcome_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="welcome_demo_label">"Araştırmak mı istiyorsunuz?"</string>
+    <string name="welcome_detail_label">"Etkinleştirme işlemini başlatmak için lütfen karşılama e-postasında aldığınız talimatları izleyin."</string>
+    <string name="welcome_detailed_label_configured_instruction">"Günlük görevlerinizin yönetimi konusunda bilgi sahibi olun ve projelerde kolaylıkla işbirliği yapın."</string>
+    <string name="welcome_detailed_label_discoveryservice_instruction">"Etkinleştirme işlemini başlatmak için lütfen e-posta adresinizi girin."</string>
+    <string name="welcome_detailed_label_scan_instruction">"Etkinleştirme işlemini başlatmak için lütfen güvenli QR kodunu taratın."</string>
+    <string name="welcome_detailed_label_welcome_instruction">"Etkinleştirme işlemini başlatmak için lütfen karşılama e-postasında aldığınız talimatları izleyin."</string>
+    <string name="welcome_email_hint">"E-posta"</string>
+    <string name="welcome_headline_label">"Uygulamayı indirdiğiniz için teşekkür ederiz"</string>
+</resources>

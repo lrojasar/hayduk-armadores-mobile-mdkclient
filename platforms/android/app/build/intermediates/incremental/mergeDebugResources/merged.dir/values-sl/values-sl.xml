@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="attachment_long_press_options">
+        <item name="remove" translatable="true">"Odstrani prilogo"</item>
+    </string-array>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Krmarjenje na začetek"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Pomik navzgor"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Več možnosti"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Končano"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Pokaži vse"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Izbira aplikacije"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"IZKLOP"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"VKLOP"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"preslednica"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Meni +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Iskanje …"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Izbris poizvedbe"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Iskalna poizvedba"</string>
+    <string name="abc_searchview_description_scan" translatable="true">"Iskanje z optičnim branjem"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Iskanje"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Pošiljanje poizvedbe"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Glasovno iskanje"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Skupna raba z:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Skupna raba z drugimi prek aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Strnitev"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"Območje sporočila pomoči"</string>
+    <string name="action_cell_icon_desc">"Ikona za dejanje"</string>
+    <string name="activation_action_next">"Naprej"</string>
+    <string name="activation_action_scan">"Optično branje"</string>
+    <string name="activation_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="activation_detail_label">"Če ste prejeli pozdravno e-pošto, sledite povezavi za aktiviranje. V nasprotnem primeru vnesite svoj e-poštni naslov ali optično preberite QR-kodo, da začnete s postopkom uvajanja."</string>
+    <string name="activation_headline_label">"Aktiviranje"</string>
+    <string name="activation_subheadline_label">"Ali"</string>
+    <string name="activationscreen_discovery_button">"Začetek"</string>
+    <string name="activationscreen_discovery_title">"Uporabi e-pošto"</string>
+    <string name="activationscreen_email_hint">"Vaša e-pošta"</string>
+    <string name="activationscreen_instruction"/>
+    <string name="activationscreen_instruction_barcode">"Optično preberite varno QR-kodo, da začnete s postopkom aktiviranja."</string>
+    <string name="activationscreen_instruction_choose_an_option">"Vnesite svoj e-poštni naslov, da začnete s postopkom aktiviranja.\n\nAli pa uporabite optično branje QR-kode."</string>
+    <string name="activationscreen_instruction_discovery_service">"Vnesite svoj e-poštni naslov, da začnete s postopkom aktiviranja."</string>
+    <string name="activationscreen_instruction_mail">"Preverite e-pošto, ki smo vam jo ravnokar poslali, in kliknite povezavo aktiviranja za vpis."</string>
+    <string name="activationscreen_instruction_mail_email">"Preverite e-pošto, ki smo vam jo ravnokar poslali, in kliknite povezavo aktiviranja za vpis.\n\nPoslali smo jo na naslednji naslov:\n"<b>"%s"</b></string>
+    <string name="activationscreen_qrcode_title">"Uporabi optično branje QR-kode"</string>
+    <string name="activationscreen_scan_button">"Optično branje QR-kode"</string>
+    <string name="activationscreen_title">"Aktiviranje"</string>
+    <string name="activationscreen_title_mail">"Poslali smo vam e-pošto"</string>
+    <string name="add_photo">"Dodaj fotografijo"</string>
+    <string name="attachment_action_icon_desc" translatable="true">"Ikona za dejanje priloge"</string>
+    <string name="attachment_action_message" translatable="true">"Priloži iz "</string>
+    <string name="attachment_action_title_desc" translatable="true">"Ime dejanja priloge"</string>
+    <string name="attachment_add_btn_txt" translatable="true">"Dodaj"</string>
+    <string name="attachment_default_key" translatable="true">"Priloge (%1$d)"</string>
+    <string name="attachment_item_content_desc" translatable="true">"Element priloge"</string>
+    <string name="attachment_item_detail_title" translatable="true">"Ime in druge podrobnosti"</string>
+    <string name="attachment_item_fail_dialog_bottom_title" translatable="true">"V redu"</string>
+    <string name="attachment_item_fail_message" translatable="true">"Odpiranje priloge ni uspelo"</string>
+    <string name="attachment_item_icon_desc" translatable="true">"Ikona priloge"</string>
+    <string name="attachment_item_open_message" translatable="true">"Odpiranje priloge"</string>
+    <string name="attachment_remove_icon_desc" translatable="true">"Odstrani prilogo"</string>
+    <string name="attempts">"Imate še 1 poskus"</string>
+    <string name="attempts_left_message">"Število preostalih poskusov: {0,number,#}"</string>
+    <string name="authentication_failed_key">"Uvajanje ni uspelo!"</string>
+    <string name="authentication_required">"Preverjanje pristnosti je zahtevano"</string>
+    <string name="auto_focus" translatable="true">"Samodejno ostrenje"</string>
+    <string name="barcode_error" translatable="true">"Napaka pri branju črtne kode: %1$s"</string>
+    <string name="barcode_failure" translatable="true">"Črtna koda ni bila zajeta"</string>
+    <string name="barcode_header" translatable="true">"Kliknite Branje črtne kode za branje črtne kode"</string>
+    <string name="barcode_success" translatable="true">"Črtna koda je bila uspešno prebrana"</string>
+    <string name="basic_auth_instruction">"Preverjanje pristnosti je obvezno"</string>
+    <string name="basic_auth_message">"Strežnik %1$s zahteva uporabniško ime in geslo."</string>
+    <string name="basic_auth_password">"Geslo"</string>
+    <string name="basic_auth_title">"Prijava"</string>
+    <string name="basic_auth_user_name">"Uporabniško ime"</string>
+    <string name="cancel">"Prekliči"</string>
+    <string name="cancel_button">@android:string/cancel</string>
+    <string name="cancel_onboarding_action_cancel">"Ne"</string>
+    <string name="cancel_onboarding_action_ok">"Da"</string>
+    <string name="cancel_onboarding_msg">"Res želite prekliniti proces uvajanja?"</string>
+    <string name="clear">"Počisti"</string>
+    <string name="collapse" translatable="true">"Skrči"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Omogoči"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne bo delovala, če ne omogočite storitev Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Omogočanje storitev Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Namesti"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, vendar teh ni v napravi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Namestitev storitev Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Dostopnost storitev Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Napaka storitev Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ima težave s storitvami Google Play. Poskusite znova."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Posodobi"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne bo delovala, če ne posodobite storitev Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Posodobitev storitev Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, ki se trenutno posodabljajo."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Odpiranje v telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prijava"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prijava z Google Računom"</string>
+    <string name="confirm_biometric_description_label">"Vpišite se z uporabo biometrike.\nAli pa uporabite geslo za prijavo."</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"Uporaba gesla"</string>
+    <string name="confirm_fingerprint_detail_label">"Dotaknite se senzorja za vpis s prstnim odtisom.\nLahko pa uporabite tudi varnostno kodo."</string>
+    <string name="confirm_fingerprint_headline_label">"Vpis"</string>
+    <string name="confirm_fingerprint_try_password_button">"Uporabi varnostno kodo"</string>
+    <string name="confirm_no">"Ne"</string>
+    <string name="confirm_yes">"Da"</string>
+    <string name="consent_button_confirm">"DOVOLI"</string>
+    <string name="consent_button_reject">"ZAVRNI"</string>
+    <string name="consent_footer_back">"PREJŠNJI"</string>
+    <string name="consent_footer_next">"NASLEDNJI"</string>
+    <string name="consent_footer_x_of_y">"Korak %d od %d"</string>
+    <string name="consent_header_skip_button">"PRESKOČI"</string>
+    <string name="consent_title_text">"SOGLASJE"</string>
+    <string name="contact_cell_info_action_ok">"V redu"</string>
+    <string name="contact_cell_info_action_title">"Informacije"</string>
+    <string name="content_body">"Podrobno besedilo glede zaščite podatkov in kako je ta povezana s to aplikacijo ter zakaj je pomembno, da uporabnik omogoči to funkcijo."</string>
+    <string name="content_learn_more">"Preberite več o Varnosti"</string>
+    <string name="content_title">"Soglasje"</string>
+    <string name="continue_with_same_string">"Uporabite trenutno aplikacijo"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"Neznana napaka"</string>
+    <string name="detector_not_operational">"Čitalnik črtne kode ne deluje zaradi manjkajoče odvisnosti Google Play Services. Fotoaparat ne bo prikazan."</string>
+    <string name="dialog_action_retry">"Poskusi znova"</string>
+    <string name="done">"Končano"</string>
+    <string name="duration_picker_form_cell_duration_text_format" translatable="true">"%d ur, %d minut"</string>
+    <string name="enable_fingerprint_alert_cancel_text">"Ne zdaj"</string>
+    <string name="enable_fingerprint_alert_message">"Če želite uporabljati prstni odtis, morate registrirati vsaj en prstni odtis v nastavitvah"</string>
+    <string name="enable_fingerprint_alert_settings_text">"Pojdi v nastavitve"</string>
+    <string name="enable_fingerprint_alert_title">"Registrirajte prstni odtis"</string>
+    <string name="enable_fingerprint_button">"Omogoči prstni odtis"</string>
+    <string name="enable_fingerprint_detail_label">"Uporabite prstni odtis za hitrejši in preprostejši dostop do svojega računa."</string>
+    <string name="enable_fingerprint_error_message_device_is_not_secure">"Naprava ni zaščitena"</string>
+    <string name="enable_fingerprint_error_message_no_fingerprint_added">"V nastavitvah registrirajte vsaj en prstni odtis"</string>
+    <string name="enable_fingerprint_headline_label">"Uporabite prstni odtis"</string>
+    <string name="enter_credentials_message">"Porabili ste vse poskuse za vnos varnostne kode. Vnesite svoje poverilnice in se vpišite, da boste lahko ponastavili varnostno kodo."</string>
+    <string name="eula_button_confirm">"Strinjam se"</string>
+    <string name="eula_button_reject">"Ne strinjam se"</string>
+    <string name="eula_title_text">"Licenčni pogoji za končne uporabnike"</string>
+    <string name="exit_search" translatable="true">"Zapusti iskanje"</string>
+    <string name="expand" translatable="true">"Razširi"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Dodatno"</string>
+    <string name="expandable_menu">"Puščica, ki kaže na element, je razširljiva"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Razno"</string>
+    <string name="file_provider">"com.sap.mobile.platform.SnowblindClient.fileprovider"</string>
+    <string name="filter_actionbar_title" translatable="true">"Filtriranje po"</string>
+    <string name="filter_all_items" translatable="true">"VSE"</string>
+    <string name="filter_apply_filter" translatable="true">"Uporabi"</string>
+    <string name="filter_confirm_discard" translatable="true">"Zavrzi"</string>
+    <string name="filter_confirm_message" translatable="true">"Želite zavreči nove filtre, ki ste jih nastavili?"</string>
+    <string name="filter_confirm_title" translatable="true">"Novi filtri niso uveljavljeni"</string>
+    <string name="filter_reset_all" translatable="true">"Ponastavi vse"</string>
+    <string name="filter_selected_items" translatable="true">"IZBRANE"</string>
+    <string name="fingerprint_authenticate_error_detail_label">"Za uporabo aplikacije opravite preverjanje pristnosti s prstnim odtisom. Pred vnovično uporabo senzorja morate počakati 30 sekund."</string>
+    <string name="fingerprint_authenticate_error_headline_label">"Napaka preverjanja pristnosti"</string>
+    <string name="fingerprint_authenticate_error_reset_button">"Ponastavi odjemalca"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"Dotaknite se tipala prst. odt."</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"Strojna oprema za prstne odtise ni na voljo."</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"Ta naprava nima tipala prstnih odtisov"</string>
+    <string name="fingerprint_error_label">"Ni prepoznano"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"Preveč poskusov. Poskusite znova pozneje."</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"Ni prijavljenih prstnih odtisov."</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"Dejanje s prstnim odtisom je preklical uporabnik."</string>
+    <string name="fingerprint_general_error_label">"Pri preverjanju pristnosti je prišlo do težave"</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"Ni prepoznano"</string>
+    <string name="gb_size_unit">"GB"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"Preverjanje pristnosti je preklical uporabnik."</string>
+    <string name="init_odata_downloaded_data_subtext_format">"Prenos podatkov iz strežnika poteka … %1$,.2f%2$s"</string>
+    <string name="init_odata_downloaded_file_subtext_format">"Prenos datoteke iz strežnika poteka … %1$,.2f%2$s"</string>
+    <string name="init_odata_initial_communication">"Vzpostavitev povezave poteka …"</string>
+    <string name="init_odata_initializing">"Vzpostavitev povezave poteka …"</string>
+    <string name="init_odata_opened">"Končano"</string>
+    <string name="init_odata_opening">"Odpiranje poteka …"</string>
+    <string name="init_odata_prepare_download_data">"Čakanje na podatke iz strežnika …"</string>
+    <string name="init_odata_prepare_download_file">"Čakanje na datoteko iz strežnika …"</string>
+    <string name="init_odata_sending_store">"Prenos v strežnik poteka …"</string>
+    <string name="init_odata_uploading">"Prenos v strežnik poteka …"</string>
+    <string name="kb_size_unit">"KB"</string>
+    <string name="launchscreen_button_demo">"Preizkusna različica"</string>
+    <string name="launchscreen_button_primary">"Začnite"</string>
+    <string name="launchscreen_description"/>
+    <string name="launchscreen_footnote">"Oglejte si naše &lt;a href=%1$s>Pogoje storitve&lt;/a> in &lt;a href=%2$s>Pravilnik o zasebnosti&lt;/a>"</string>
+    <string name="launchscreen_headline"/>
+    <string name="launchscreen_title"/>
+    <string name="loading" translatable="true">"Nalaganje poteka ..."</string>
+    <string name="log_in">"Prijava"</string>
+    <string name="low_storage">"Nezadostna shramba"</string>
+    <string name="low_storage_error" translatable="true">"Odvisnosti za prepoznavanje obraza ni mogoče prenesti iz strežnika zaradi nezadostne shrambe v napravi."</string>
+    <string name="map_add_button">"Dodaj"</string>
+    <string name="map_branch_button">"Razširi"</string>
+    <string name="map_cluster_close">"Zapre ploščo gruče"</string>
+    <string name="map_directions">"Smeri"</string>
+    <string name="map_edit_add_point_button">"Dodaj točko"</string>
+    <string name="map_edit_annotation_type">"Vrsta opombe"</string>
+    <string name="map_edit_annotations">"Uredi opombe"</string>
+    <string name="map_edit_cancel_button">"Prekliči"</string>
+    <string name="map_edit_cancel_edit_confirm_button">"Zapusti"</string>
+    <string name="map_edit_cancel_edit_decline_button">"Nadaljuj z urejanjem"</string>
+    <string name="map_edit_cancel_edit_message">"Res želite zapustiti urejevalnik zemljevida?"</string>
+    <string name="map_edit_cancel_edit_title">"Želite zapustiti urejevalnik zemljevida?"</string>
+    <string name="map_edit_clear_all_button">"Izbriši vse"</string>
+    <string name="map_edit_clear_points_confirm_button">"Izbriši vse"</string>
+    <string name="map_edit_clear_points_message">"Želite izbrisati vse točke?"</string>
+    <string name="map_edit_close_button">"Zapri"</string>
+    <string name="map_edit_label_address">"Naslov"</string>
+    <string name="map_edit_save_button">"Shrani"</string>
+    <string name="map_edit_switch_confirm_button">"Preklop"</string>
+    <string name="map_edit_switch_to_point_message">"Točke, ki ste jih dodali, bodo izbrisane. Res želite preklopiti?"</string>
+    <string name="map_edit_switch_to_point_title">"Preklop na točko?"</string>
+    <string name="map_edit_switch_to_polygon_message">"Točke, ki ste jih dodali, ne bodo spremenjene. Lahko nadaljujete z ustvarjanjem objekta."</string>
+    <string name="map_edit_switch_to_polygon_title">"Preklop na mnogokotnik?"</string>
+    <string name="map_edit_switch_to_polyline_message">"Točke, ki ste jih dodali, ne bodo spremenjene. Lahko nadaljujete z ustvarjanjem objekta."</string>
+    <string name="map_edit_switch_to_polyline_title">"Preklop na lomljeno črto?"</string>
+    <string name="map_edit_type_point">"Točka"</string>
+    <string name="map_edit_type_polygon">"Mnogokotnik"</string>
+    <string name="map_edit_type_polyline">"Lomljena črta"</string>
+    <string name="map_legend">"Legenda"</string>
+    <string name="map_legend_button">"Gumb za legendo"</string>
+    <string name="map_legend_item">"Element legende"</string>
+    <string name="map_legend_title">"Naslov legende"</string>
+    <string name="map_list_title">"Objekti: %1$d"</string>
+    <string name="map_location_button">"Gumb za lokacijo"</string>
+    <string name="map_point_delete_confirm_button">"Izbriši"</string>
+    <string name="map_point_delete_message">"Ali ste prepričani, da želite izbrisati to točko?"</string>
+    <string name="map_preview_close">"Zapre ploščo predogleda"</string>
+    <string name="map_priority_high">"Visoko"</string>
+    <string name="map_priority_low">"Nizko"</string>
+    <string name="map_priority_medium">"Srednje"</string>
+    <string name="map_priority_very_high">"Zelo visoko"</string>
+    <string name="map_redo_button">"Obnovi"</string>
+    <string name="map_remove_button">"Odstrani"</string>
+    <string name="map_search_cancel">"Prekliči"</string>
+    <string name="map_search_enter_an_address">"Vnesi naslov"</string>
+    <string name="map_search_error_message">"Pri iskanju lokacije je prišlo do napake."</string>
+    <string name="map_search_error_title">"Napaka pri iskanju"</string>
+    <string name="map_search_location_search_title">"Izberi trenutno lokacijo"</string>
+    <string name="map_search_ok">"V redu"</string>
+    <string name="map_search_your_location">"Trenutna lokacija"</string>
+    <string name="map_settings_button">"Gumb za nastavitve"</string>
+    <string name="map_settings_title">"Nastavitve"</string>
+    <string name="map_show_hide_button">"Gumb Prikaži/skrij"</string>
+    <string name="map_toolbar">"Orodna vrstica"</string>
+    <string name="map_undo_button">"Razveljavi"</string>
+    <string name="map_zoom_button">"Gumb za stopnjo povečave"</string>
+    <string name="max_attempts_reached_message">"Varnostno kodo je treba ponastaviti"</string>
+    <string name="mb_size_unit">"MB"</string>
+    <string name="network_unreachable_key">"Omrežje ni na voljo. Poskusite znova pozneje."</string>
+    <string name="new_activity_on_click_sign">"Puščica levo, ki kaže na novo aktivnost, bo ustvarjena ob kliku na pogled"</string>
+    <string name="no_camera_permission" translatable="true">"Ta aplikacija se ne more izvajati, ker nima dovoljenja za fotoaparat. Aplikacija se bo zaprla."</string>
+    <string name="null_policy_cancel_button_alert_dialog">"Prekliči"</string>
+    <string name="null_policy_desc_alert_dialog">"Trenutno ni na razpolago smernic za vartnostno kodo."</string>
+    <string name="null_policy_header_alert_dialog">"Napaka pri prenosu iz strežnika"</string>
+    <string name="null_policy_retry_button_alert_dialog">"Poskusi znova"</string>
+    <string name="object_header_page_1" translatable="true">"Stran 1"</string>
+    <string name="object_header_page_2" translatable="true">"Stran 2"</string>
+    <string name="object_header_page_3" translatable="true">"Stran 3"</string>
+    <string name="ok_button">"android:string/ok"</string>
+    <string name="ok_button_label">"V redu"</string>
+    <string name="onboarding_eula_title">"Licenčna pogodba za končne uporabnike"</string>
+    <string name="onboarding_passcode_fingerprint_reset">"Uporabite geslo"</string>
+    <string name="onboarding_passcode_max_attempts_reached">"Ponastaviti morate geslo"</string>
+    <string name="onboarding_passcode_reset_app">"Ponastavite aplikacijo"</string>
+    <string name="onboarding_retrieve_cpms_settings">"Prenos poteka …"</string>
+    <string name="onboarding_retrieve_cpms_settings_failed">"Priklic nastavitev ni uspel. Uporabljene bodo privzete vrednosti"</string>
+    <string name="one_attempt_left_message">"Imate še 1 poskus"</string>
+    <string name="open_document_image_description">"Slika dokumenta"</string>
+    <string name="passcode_change_instruction_text">"Vnesite svojo trenutno varnostno kodo."</string>
+    <string name="passcode_change_title">"Vnesi varnostno kodo"</string>
+    <string name="passcode_create_digits_label">"Števke (0–9)"</string>
+    <string name="passcode_create_done_button_text">"Naprej"</string>
+    <string name="passcode_create_group_label">"Vključite naslednje:"</string>
+    <string name="passcode_create_instruction_text">"Za odklepanje aplikacije nastavite varnostno kodo, ki je dolga najmanj {0,number,#} znakov."</string>
+    <string name="passcode_create_lowercase_label">"Male črke (a-z)"</string>
+    <string name="passcode_create_skip_button_text">"Ne zdaj"</string>
+    <string name="passcode_create_symbols_label">"Simboli (!@#…)"</string>
+    <string name="passcode_create_title">"Ustvarjanje varnostne kode"</string>
+    <string name="passcode_create_uppercase_label">"Velike črke (A-Z)"</string>
+    <string name="passcode_default_confirm_button_cancel_text">"Prekliči"</string>
+    <string name="passcode_default_confirm_done_button_text">"Končano"</string>
+    <string name="passcode_default_confirm_instruction_text">"Potrdite varnostno kodo, ki ste jo ustvarili"</string>
+    <string name="passcode_default_confirm_mismatch_text">"Varnostna koda se ni ujemala, poskusite znova"</string>
+    <string name="passcode_default_confirm_title">"Preverjanje varnostne kode"</string>
+    <string name="passcode_default_skip_label_confirm">"Nazaj"</string>
+    <string name="passcode_enter_button_text">"Vpis"</string>
+    <string name="passcode_enter_instruction_text">"Za odklepanje aplikacije vnesite svojo varnostno kodo"</string>
+    <string name="passcode_enter_title">"Vnesi varnostno kodo"</string>
+    <string name="passcode_error_message_text">"Sporočilo o napaki"</string>
+    <string name="passcode_reset_button_text">"Ponastavi odjemalca"</string>
+    <string name="passcode_skip_hint">"Preskoči postopek varnostne kode"</string>
+    <string name="passcode_skip_label">"Prekliči"</string>
+    <string name="passcode_use_default">"Uporabi privzeto"</string>
+    <string name="password">"Geslo"</string>
+    <string name="permission_camera_rationale" translatable="true">"Zaznavanje zahteva dostop do fotoaparata"</string>
+    <string name="popover_image_description">"Slika lebdečega okna"</string>
+    <string name="progress_indicator_full_format">"%1$s (%2$s)"</string>
+    <string name="push_error">"Napaka potiskanja"</string>
+    <string name="push_invalid_push_format">"Prejeli ste potisno sporočilo, vendar je bilo v neveljavni obliki, zato ga ni bilo mogoče obdelati."</string>
+    <string name="push_message">"Potisno sporočilo je bilo prejeto"</string>
+    <string name="push_text">"Obvestilo"</string>
+    <string name="push_token_upload_failed_detail">"Žetona potiskanja ni bilo mogoče prenesti v SAP-jev strežnik, potiskanje ne deluje. Ne boste prejemali potisnih sporočil."</string>
+    <string name="qr_confirm_continue_title">"Nadaljuj"</string>
+    <string name="qr_confirm_detailed_msg_label">"Zdaj boste preusmerjeni na:"</string>
+    <string name="qr_confirm_failure_detailed_message">"Registracija ni uspela. Poskusite z drugim načinom ali metodo registracije."</string>
+    <string name="qr_confirm_failure_title">"Napaka"</string>
+    <string name="qr_confirm_redirecturl_label"/>
+    <string name="qr_reader_photolibrary_contentdescription">"Knjižnica slik"</string>
+    <string name="qr_scan_succeeded_label">"Optično branje je bilo uspešno!"</string>
+    <string name="qr_validation_failure_detailed_message">"Registracija ni uspela. Poskusite z drugim načinom ali metodo registracije."</string>
+    <string name="qr_validation_failure_title">"Napaka"</string>
+    <string name="read_barcode" translatable="true">"Branje črtne kode"</string>
+    <string name="reset_button_label_alert_dialog">"Ponastavi odjemalca"</string>
+    <string name="reset_client">"Ponastavite klienta"</string>
+    <string name="reset_client_cong_msg">"Klient MDK bo ponastavljen. Ste prepričani?"</string>
+    <string name="reset_client_info_action_cancel">"Prekliči"</string>
+    <string name="reset_client_info_action_ok">"Ponastavi"</string>
+    <string name="reset_hint">"Uporabite ta gumb, če se ne spomnite svoje varnostne kode"</string>
+    <string name="results">"REZULTATI(%1$d)"</string>
+    <string name="retry_passcode_message">"Napačna varnostna koda. Poskusite znova"</string>
+    <string name="sap_logo">"SAP logotip"</string>
+    <string name="scan_new_qr_code_string">"Optično preberite novo QR-kodo"</string>
+    <string name="scanning_started">"Optično branje ..."</string>
+    <string name="search_hint" translatable="true">"Iskanje"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Iskanje"</string>
+    <string name="select" translatable="true">"Izbira"</string>
+    <string name="select_file">"Izberi datoteko"</string>
+    <string name="select_option_string">"Izberite opcijo"</string>
+    <string name="select_picture">"Izberi sliko"</string>
+    <string name="signature_captured">"Podpis je zajet"</string>
+    <string name="skip_for_now_button">"Preskoči za zdaj"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="take_photo">"Posnemi fotografijo"</string>
+    <string name="timeline_empty_description">"Ustvarite nalogo in bo prikazana na časovni premici."</string>
+    <string name="timeline_empty_headline">"Trenutno ni nič zapadlo"</string>
+    <string name="timeline_preview_content_description">"Slika za dogodek"</string>
+    <string name="timeline_preview_header">"ČASOVNA PREMICA"</string>
+    <string name="timeline_preview_multiday">"%1$s (dan %2$d/%3$d)"</string>
+    <string name="timeline_preview_see_all">"PRIKAŽI VSE (%1$d)"</string>
+    <string name="title_activity_main" translatable="true">"Vzorec bralnika črtne kode"</string>
+    <string name="use_flash" translatable="true">"Uporabi bliskavico"</string>
+    <string name="username">"Uporabniško ime"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"IZKLOPLJENO"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"VKLOPLJENO"</string>
+    <string name="verify_passcode_done_button">"Verifikacija"</string>
+    <string name="verify_passcode_fingerprint_detail_label">"Dotaknite se senzorja s svojim prstom\nLahko pa uporabite kodo za verifikacijo"</string>
+    <string name="verify_passcode_fingerprint_headline">"Verifikacija"</string>
+    <string name="verify_passcode_instruction">"Za verifikacijo vnesite svoje geslo"</string>
+    <string name="welcome_action_demo">"Preizkusna različica"</string>
+    <string name="welcome_action_scan">"Optično branje"</string>
+    <string name="welcome_action_start">"Začetek"</string>
+    <string name="welcome_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="welcome_demo_label">"Želite raziskovati?"</string>
+    <string name="welcome_detail_label">"Sledite navodilom, ki ste jih prejeli v pozdravni e-pošti, da začnete s postopkom aktiviranja."</string>
+    <string name="welcome_detailed_label_configured_instruction">"Nadzirajte svoja dnevna opravila in enostavno sodelujte pri projektih."</string>
+    <string name="welcome_detailed_label_discoveryservice_instruction">"Vnesite svoj e-poštni naslov, da začnete s postopkom aktiviranja."</string>
+    <string name="welcome_detailed_label_scan_instruction">"Za začetek postopka aktiviranja optično preberite varnostno QR-kodo."</string>
+    <string name="welcome_detailed_label_welcome_instruction">"Sledite navodilom, ki ste jih prejeli v pozdravni e-pošti, da začnete s postopkom aktiviranja."</string>
+    <string name="welcome_email_hint">"E-pošta"</string>
+    <string name="welcome_headline_label">"Hvala za prenos"</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="object_cell_status_max_size">120dp</dimen>
+    <dimen name="object_header_padding_bottom">32dp</dimen>
+    <dimen name="profile_header_padding_bottom">32dp</dimen>
+</resources>

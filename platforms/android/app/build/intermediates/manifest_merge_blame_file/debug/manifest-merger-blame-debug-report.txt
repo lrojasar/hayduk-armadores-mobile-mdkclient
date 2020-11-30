@@ -1,0 +1,951 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="hayduk.armadores"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml
+10
+11    <supports-screens
+11-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:8:2-12:33
+12        android:largeScreens="true"
+12-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:11:3-30
+13        android:normalScreens="true"
+13-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:10:3-31
+14        android:smallScreens="true"
+14-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:9:3-30
+15        android:xlargeScreens="true" />
+15-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:12:3-31
+16
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:14:2-76
+17-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:14:19-74
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:15:2-77
+18-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:15:19-75
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:16:2-63
+19-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:16:19-61
+20    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+20-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:9:5-74
+20-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:9:22-71
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->[com.sap.cloud.android:fiori:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8e499c9c04fa9767278c117119432e67/fiori-3.1.4/AndroidManifest.xml:9:5-65
+21-->[com.sap.cloud.android:fiori:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8e499c9c04fa9767278c117119432e67/fiori-3.1.4/AndroidManifest.xml:9:22-62
+22    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+22-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:10:5-81
+22-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:10:22-78
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:11:5-79
+23-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:11:22-76
+24
+25    <meta-data
+25-->[com.sap.cloud.android:google-vision:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9c0f0d12e2c36f3a1765a02a0984a7fd/google-vision-3.1.4/AndroidManifest.xml:11:5-13:35
+26        android:name="com.google.android.gms.vision.DEPENDENCIES"
+26-->[com.sap.cloud.android:google-vision:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9c0f0d12e2c36f3a1765a02a0984a7fd/google-vision-3.1.4/AndroidManifest.xml:12:9-66
+27        android:value="barcode" />
+27-->[com.sap.cloud.android:google-vision:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9c0f0d12e2c36f3a1765a02a0984a7fd/google-vision-3.1.4/AndroidManifest.xml:13:9-32
+28
+29    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+29-->[androidx.biometric:biometric:1.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/4df512d39a5d33fdc01df6bf6aa0f699/biometric-1.0.0/AndroidManifest.xml:24:5-72
+29-->[androidx.biometric:biometric:1.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/4df512d39a5d33fdc01df6bf6aa0f699/biometric-1.0.0/AndroidManifest.xml:24:22-69
+30    <uses-permission android:name="android.permission.WAKE_LOCK" />
+30-->[:cloud_mobile_odata-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/751587c030754a9f3995bbe1d8750968/cloud_mobile_odata-release/AndroidManifest.xml:11:5-68
+30-->[:cloud_mobile_odata-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/751587c030754a9f3995bbe1d8750968/cloud_mobile_odata-release/AndroidManifest.xml:11:22-65
+31
+32    <uses-feature
+32-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:15:5-17:36
+33        android:name="android.hardware.fingerprint"
+33-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:16:9-52
+34        android:required="false" />
+34-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:17:9-33
+35
+36    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+36-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:27:5-81
+36-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:27:22-78
+37    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+37-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+37-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+38    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+38-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:26:5-110
+38-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:26:22-107
+39
+40    <application
+40-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:18:2-68:16
+41        android:name="sap.mdkclient.MDKAndroidApplication"
+41-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:19:3-53
+42        android:allowBackup="false"
+42-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:21:3-30
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/e9d267c39890385adcadf7222b957ff3/core-1.1.0/AndroidManifest.xml:24:18-86
+44        android:debuggable="true"
+45        android:icon="@drawable/icon"
+45-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:22:3-32
+46        android:label="@string/mdk_app_name"
+46-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:23:3-39
+47        android:resizeableActivity="false"
+47-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:24:3-37
+48        android:supportsRtl="true"
+48-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:11:18-44
+49        android:theme="@style/MDKAppTheme"
+49-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:25:3-37
+50        android:usesCleartextTraffic="true" >
+50-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:26:3-38
+51        <activity
+51-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:28:3-47:14
+52            android:name="sap.mdkclient.MDKAndroidActivity"
+52-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:29:7-54
+53            android:configChanges="keyboardHidden|orientation|screenSize|layoutDirection|locale|fontScale"
+53-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:31:4-98
+54            android:label="@string/mdk_app_name"
+54-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:30:4-40
+55            android:theme="@style/LaunchScreenTheme" >
+55-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+56            <meta-data
+56-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:34:4-90
+57                android:name="SET_THEME_ON_LAUNCH"
+57-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+58                android:resource="@style/MDKAppTheme" />
+58-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:34:50-87
+59
+60            <intent-filter>
+60-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+61                <action android:name="android.intent.action.MAIN" />
+61-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+61-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+63-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+64            </intent-filter>
+65            <intent-filter>
+65-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:40:6-46:22
+66                <action android:name="android.intent.action.VIEW" />
+66-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:41:9-61
+66-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:41:17-58
+67
+68                <category android:name="android.intent.category.DEFAULT" />
+68-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:42:9-68
+68-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:42:19-65
+69                <category android:name="android.intent.category.BROWSABLE" />
+69-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:43:9-70
+69-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:43:19-67
+70                <!-- Accepts URIs that begin with "mdkclient://” -->
+71                <data android:scheme="mdkclient" />
+71-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:45:9-44
+71-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:45:15-41
+72            </intent-filter>
+73        </activity>
+74        <activity android:name="com.tns.ErrorReportActivity" />
+74-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:48:3-58
+74-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:48:13-55
+75
+76        <provider
+76-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:49:3-58:14
+77            android:name="androidx.core.content.FileProvider"
+77-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:50:5-54
+78            android:authorities="hayduk.armadores.fileprovider"
+78-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:51:5-56
+79            android:exported="false"
+79-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:53:5-29
+80            android:grantUriPermissions="true" >
+80-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:52:5-39
+81            <meta-data
+81-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:55:5-57:43
+82                android:name="android.support.FILE_PROVIDER_PATHS"
+82-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:56:7-57
+83                android:resource="@xml/filepaths" />
+83-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:57:7-40
+84        </provider>
+85
+86        <activity
+86-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:59:3-61:76
+87            android:name="com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"
+87-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:59:13-100
+88            android:label="@string/mdk_app_name"
+88-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:117:13-49
+89            android:theme="@style/FioriTheme.NoActionBar" >
+89-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:118:13-58
+90            <meta-data
+90-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:27:13-29:102
+91                android:name="action_handler"
+91-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:28:17-46
+92                android:value="com.sap.mdk.client.ui.fiori.barcodescanner.QRCodeReaderActionHandlerImpl" />
+92-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:29:17-99
+93        </activity>
+94
+95        <service android:name="com.sap.mdk.client.foundation.push.PushNotificationService" >
+95-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:62:3-67:13
+95-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:63:5-78
+96            <intent-filter>
+96-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:64:5-66:21
+97                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+97-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:65:7-67
+97-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:65:15-65
+98            </intent-filter>
+99        </service>
+100
+101        <activity
+101-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:12:9-14:69
+102            android:name="com.sap.cloud.mobile.onboarding.launchscreen.LaunchScreenActivity"
+102-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:13:13-93
+103            android:theme="@style/Onboarding.Default.Light.Theme" />
+103-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:14:13-66
+104        <activity
+104-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:15:9-18:58
+105            android:name="com.sap.cloud.mobile.onboarding.activation.ActivationActivity"
+105-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:16:13-89
+106            android:theme="@style/Onboarding.Default.Light.Theme"
+106-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:17:13-66
+107            android:windowSoftInputMode="adjustResize" />
+107-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:18:13-55
+108        <activity
+108-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:19:9-21:69
+109            android:name="com.sap.cloud.mobile.onboarding.eula.EULAScreenActivity"
+109-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:20:13-83
+110            android:theme="@style/Onboarding.Default.Light.Theme" />
+110-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:21:13-66
+111        <activity
+111-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:22:9-24:69
+112            android:name="com.sap.cloud.mobile.onboarding.consent.ConsentScreenActivity"
+112-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:23:13-89
+113            android:theme="@style/Onboarding.Default.Light.Theme" />
+113-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:24:13-66
+114        <activity
+114-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:25:9-28:20
+115            android:name="com.sap.cloud.mobile.onboarding.passcode.ChangePasscodeActivity"
+115-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:26:13-91
+116            android:configChanges="keyboardHidden|orientation|screenSize"
+116-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:37:13-74
+117            android:theme="@style/Onboarding.Default.Light.Theme" >
+117-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:27:13-66
+118            <meta-data
+118-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:27:13-29:102
+119                android:name="action_handler"
+119-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:28:17-46
+120                android:value="com.sap.mdk.client.ui.onboarding.PasscodeActionHandlerImpl" />
+120-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:29:17-99
+121            <meta-data
+121-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:41:13-43:104
+122                android:name="validation_action_handler"
+122-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:42:17-57
+123                android:value="com.sap.mdk.client.ui.onboarding.PasscodeValidationActionHandlerImpl" />
+123-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:43:17-101
+124        </activity>
+125        <activity
+125-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:29:9-31:69
+126            android:name="com.sap.cloud.mobile.onboarding.fingerprint.EnableFingerprintActivity"
+126-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:30:13-97
+127            android:theme="@style/Onboarding.Default.Light.Theme" />
+127-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:31:13-66
+128        <activity
+128-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:32:9-34:69
+129            android:name="com.sap.cloud.mobile.onboarding.passcode.SetPasscodeActivity"
+129-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:33:13-88
+130            android:configChanges="keyboardHidden|orientation|screenSize"
+130-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:47:13-74
+131            android:parentActivityName="com.sap.mdk.client.ui.onboarding.WelcomeScreenActivity"
+131-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:48:13-96
+132            android:theme="@style/Onboarding.Default.Light.Theme" >
+132-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:34:13-66
+133            <meta-data
+133-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:27:13-29:102
+134                android:name="action_handler"
+134-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:28:17-46
+135                android:value="com.sap.mdk.client.ui.onboarding.PasscodeActionHandlerImpl" />
+135-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:29:17-99
+136            <meta-data
+136-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:41:13-43:104
+137                android:name="validation_action_handler"
+137-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:42:17-57
+138                android:value="com.sap.mdk.client.ui.onboarding.MDKPasscodeValidationActionHandler" />
+138-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:43:17-101
+139            <meta-data
+139-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:55:13-57:69
+140                android:name="android.support.PARENT_ACTIVITY"
+140-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:56:17-63
+141                android:value=".onboarding.WelcomeScreenActivity" />
+141-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:57:17-66
+142        </activity>
+143        <activity
+143-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:35:9-37:69
+144            android:name="com.sap.cloud.mobile.onboarding.passcode.EnterPasscodeActivity"
+144-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:36:13-90
+145            android:configChanges="keyboardHidden|orientation|screenSize"
+145-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:61:13-74
+146            android:theme="@style/Onboarding.Default.Light.Theme" >
+146-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:37:13-66
+147            <meta-data
+147-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:27:13-29:102
+148                android:name="action_handler"
+148-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:28:17-46
+149                android:value="com.sap.mdk.client.ui.onboarding.PasscodeActionHandlerImpl" />
+149-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:29:17-99
+150        </activity>
+151        <activity
+151-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:38:9-40:69
+152            android:name="com.sap.cloud.mobile.onboarding.passcode.ConfirmPasscodeActivity"
+152-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:39:13-92
+153            android:configChanges="keyboardHidden|orientation|screenSize"
+153-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:68:13-74
+154            android:parentActivityName="com.sap.mdk.client.ui.onboarding.WelcomeScreenActivity"
+154-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:69:13-96
+155            android:theme="@style/Onboarding.Default.Light.Theme" >
+155-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:40:13-66
+156            <meta-data
+156-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:27:13-29:102
+157                android:name="action_handler"
+157-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:28:17-46
+158                android:value="com.sap.mdk.client.ui.onboarding.PasscodeActionHandlerImpl" />
+158-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:29:17-99
+159        </activity>
+160        <activity
+160-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:41:9-43:69
+161            android:name="com.sap.cloud.mobile.onboarding.fingerprint.FingerprintErrorActivity"
+161-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:42:13-96
+162            android:parentActivityName="com.sap.mdk.client.ui.onboarding.WelcomeScreenActivity"
+162-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:84:13-96
+163            android:theme="@style/Onboarding.Default.Light.Theme" >
+163-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:43:13-66
+164            <meta-data
+164-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:27:13-29:102
+165                android:name="action_handler"
+165-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:28:17-46
+166                android:value="com.sap.mdk.client.ui.onboarding.FingerprintActionHandlerImpl" />
+166-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:29:17-99
+167        </activity>
+168        <activity
+168-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:44:9-46:69
+169            android:name="com.sap.cloud.mobile.onboarding.fingerprint.FingerprintActivity"
+169-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:45:13-91
+170            android:configChanges="keyboardHidden|orientation|screenSize"
+170-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:76:13-74
+171            android:parentActivityName="com.sap.mdk.client.ui.onboarding.WelcomeScreenActivity"
+171-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:77:13-96
+172            android:theme="@style/Onboarding.Default.Light.Theme" >
+172-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:46:13-66
+173            <meta-data
+173-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:27:13-29:102
+174                android:name="action_handler"
+174-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:28:17-46
+175                android:value="com.sap.mdk.client.ui.onboarding.FingerprintActionHandlerImpl" />
+175-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:29:17-99
+176        </activity>
+177        <activity
+177-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:47:9-50:20
+178            android:name="com.sap.cloud.mobile.onboarding.qrcodereader.QRCodeConfirmActivity"
+178-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:48:13-94
+179            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+179-->[com.sap.cloud.android:onboarding:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1cc6b0e74d24b8567a7ad5c8b053a357/onboarding-3.1.4/AndroidManifest.xml:49:13-69
+180        </activity>
+181        <activity
+181-->[com.sap.cloud.android:fiori:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8e499c9c04fa9767278c117119432e67/fiori-3.1.4/AndroidManifest.xml:12:9-14:49
+182            android:name="com.sap.cloud.mobile.fiori.formcell.TextViewFormCellFilterActivity"
+182-->[com.sap.cloud.android:fiori:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8e499c9c04fa9767278c117119432e67/fiori-3.1.4/AndroidManifest.xml:13:13-94
+183            android:theme="@style/FioriTheme" />
+183-->[com.sap.cloud.android:fiori:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8e499c9c04fa9767278c117119432e67/fiori-3.1.4/AndroidManifest.xml:14:13-46
+184
+185        <meta-data
+185-->[com.sap.cloud.android:fiori:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8e499c9c04fa9767278c117119432e67/fiori-3.1.4/AndroidManifest.xml:16:9-18:36
+186            android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+186-->[com.sap.cloud.android:fiori:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8e499c9c04fa9767278c117119432e67/fiori-3.1.4/AndroidManifest.xml:17:13-70
+187            android:value="text" />
+187-->[com.sap.cloud.android:fiori:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8e499c9c04fa9767278c117119432e67/fiori-3.1.4/AndroidManifest.xml:18:13-33
+188
+189        <activity
+189-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:18:9-29:20
+190            android:name="com.sap.cloud.mobile.foundation.authentication.OtpResponseActivity"
+190-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:19:13-94
+191            android:exported="true" >
+191-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:20:13-36
+192            <intent-filter>
+192-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:21:13-28:29
+193                <action android:name="android.intent.action.VIEW" />
+193-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:41:9-61
+193-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:41:17-58
+194
+195                <category android:name="android.intent.category.DEFAULT" />
+195-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:42:9-68
+195-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:42:19-65
+196                <category android:name="android.intent.category.BROWSABLE" />
+196-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:43:9-70
+196-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:43:19-67
+197
+198                <data android:scheme="hayduk.armadores.xcallbackurl" />
+198-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:45:9-44
+198-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:45:15-41
+199            </intent-filter>
+200        </activity>
+201        <activity
+201-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:30:9-36:58
+202            android:name="com.sap.cloud.mobile.foundation.authentication.OAuth2AuthorizationActivity"
+202-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:31:13-102
+203            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|screenLayout|locale"
+203-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:32:13-122
+204            android:exported="false"
+204-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:33:13-37
+205            android:launchMode="singleTask"
+205-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:34:13-44
+206            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+206-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:35:13-72
+207            android:windowSoftInputMode="adjustResize" />
+207-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:36:13-55
+208        <activity
+208-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:37:9-48:20
+209            android:name="com.sap.cloud.mobile.foundation.authentication.OAuth2RedirectActivity"
+209-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:38:13-97
+210            android:exported="true" >
+210-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:39:13-36
+211            <intent-filter>
+211-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:40:13-47:29
+212                <action android:name="android.intent.action.VIEW" />
+212-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:41:9-61
+212-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:41:17-58
+213
+214                <category android:name="android.intent.category.DEFAULT" />
+214-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:42:9-68
+214-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:42:19-65
+215                <category android:name="android.intent.category.BROWSABLE" />
+215-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:43:9-70
+215-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:43:19-67
+216
+217                <data android:scheme="hayduk.armadores" />
+217-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:45:9-44
+217-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:45:15-41
+218            </intent-filter>
+219        </activity>
+220        <activity
+220-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:49:9-54:58
+221            android:name="com.sap.cloud.mobile.foundation.authentication.WebViewActivity"
+221-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:50:13-90
+222            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|screenLayout|locale"
+222-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:51:13-122
+223            android:exported="false"
+223-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:52:13-37
+224            android:theme="@style/WebView.Theme"
+224-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:53:13-49
+225            android:windowSoftInputMode="adjustResize" />
+225-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:54:13-55
+226        <activity
+226-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:55:9-61:20
+227            android:name="com.sap.cloud.mobile.foundation.authentication.BasicAuthActivity"
+227-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:56:13-92
+228            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|screenLayout|locale"
+228-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:57:13-122
+229            android:exported="false"
+229-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:58:13-37
+230            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+230-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:59:13-72
+231            android:windowSoftInputMode="adjustResize" >
+231-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:60:13-55
+232        </activity>
+233
+234        <service android:name="com.sap.cloud.mobile.foundation.remotenotification.SAPFirebaseMessagingService" >
+234-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:63:9-67:19
+234-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:63:18-111
+235            <intent-filter>
+235-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:64:5-66:21
+236                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+236-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:65:7-67
+236-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:65:15-65
+237            </intent-filter>
+238        </service>
+239
+240        <receiver android:name="com.sap.cloud.mobile.foundation.remotenotification.PushNotificationActionReceiver" >
+240-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:69:9-73:20
+240-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:69:19-115
+241            <intent-filter>
+241-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:70:13-72:29
+242                <action android:name="CANCEL" />
+242-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:71:17-49
+242-->[com.sap.cloud.android:foundation:3.1.4] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/0b64a9a4bd7b8984da27ede795cfed0b/foundation-3.1.4/AndroidManifest.xml:71:25-46
+243            </intent-filter>
+244        </receiver>
+245        <!--
+246             FirebaseMessagingService performs security checks at runtime,
+247             but set to not exported to explicitly avoid allowing another app to call it.
+248        -->
+249        <service
+249-->[com.google.firebase:firebase-messaging:20.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1f4d2e263c98a8374369bf9ec05a02d4/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:28:9-34:19
+250            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+250-->[com.google.firebase:firebase-messaging:20.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1f4d2e263c98a8374369bf9ec05a02d4/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:29:13-82
+251            android:exported="false" >
+251-->[com.google.firebase:firebase-messaging:20.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1f4d2e263c98a8374369bf9ec05a02d4/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:30:13-37
+252            <intent-filter android:priority="-500" >
+252-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:64:5-66:21
+253                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+253-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:65:7-67
+253-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:65:15-65
+254            </intent-filter>
+255        </service>
+256        <service
+256-->[com.google.firebase:firebase-messaging:20.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1f4d2e263c98a8374369bf9ec05a02d4/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:35:9-41:19
+257            android:name="com.google.firebase.components.ComponentDiscoveryService"
+257-->[com.google.firebase:firebase-messaging:20.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1f4d2e263c98a8374369bf9ec05a02d4/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:36:13-84
+258            android:directBootAware="true"
+258-->[com.google.firebase:firebase-common:19.3.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1c0934cafc91216f55580cde9e737e31/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+259            android:exported="false" >
+259-->[com.google.firebase:firebase-messaging:20.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1f4d2e263c98a8374369bf9ec05a02d4/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:37:13-37
+260            <meta-data
+260-->[com.google.firebase:firebase-messaging:20.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1f4d2e263c98a8374369bf9ec05a02d4/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:38:13-40:85
+261                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+261-->[com.google.firebase:firebase-messaging:20.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1f4d2e263c98a8374369bf9ec05a02d4/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:39:17-119
+262                android:value="com.google.firebase.components.ComponentRegistrar" />
+262-->[com.google.firebase:firebase-messaging:20.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1f4d2e263c98a8374369bf9ec05a02d4/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:40:17-82
+263            <meta-data
+263-->[com.google.firebase:firebase-ml-vision:24.0.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/5f33b60c21670963b18f7950ad791a48/firebase-ml-vision-24.0.1/AndroidManifest.xml:12:13-14:85
+264                android:name="com.google.firebase.components:com.google.firebase.ml.vision.VisionRegistrar"
+264-->[com.google.firebase:firebase-ml-vision:24.0.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/5f33b60c21670963b18f7950ad791a48/firebase-ml-vision-24.0.1/AndroidManifest.xml:13:17-108
+265                android:value="com.google.firebase.components.ComponentRegistrar" />
+265-->[com.google.firebase:firebase-ml-vision:24.0.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/5f33b60c21670963b18f7950ad791a48/firebase-ml-vision-24.0.1/AndroidManifest.xml:14:17-82
+266            <meta-data
+266-->[com.google.firebase:firebase-ml-common:22.0.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/5e6b4291736763468f3dc88af41bb6e7/firebase-ml-common-22.0.1/AndroidManifest.xml:11:13-13:85
+267                android:name="com.google.firebase.components:com.google.firebase.ml.common.CommonComponentRegistrar"
+267-->[com.google.firebase:firebase-ml-common:22.0.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/5e6b4291736763468f3dc88af41bb6e7/firebase-ml-common-22.0.1/AndroidManifest.xml:12:17-117
+268                android:value="com.google.firebase.components.ComponentRegistrar" />
+268-->[com.google.firebase:firebase-ml-common:22.0.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/5e6b4291736763468f3dc88af41bb6e7/firebase-ml-common-22.0.1/AndroidManifest.xml:13:17-82
+269            <meta-data
+269-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/a6be520c06abde76d1374137c0425bf3/play-services-measurement-api-17.2.1/AndroidManifest.xml:30:13-32:85
+270                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+270-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/a6be520c06abde76d1374137c0425bf3/play-services-measurement-api-17.2.1/AndroidManifest.xml:31:17-139
+271                android:value="com.google.firebase.components.ComponentRegistrar" />
+271-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/a6be520c06abde76d1374137c0425bf3/play-services-measurement-api-17.2.1/AndroidManifest.xml:32:17-82
+272            <meta-data
+272-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+273                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+273-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+274                android:value="com.google.firebase.components.ComponentRegistrar" />
+274-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+275            <meta-data
+275-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/912fafb2092b536dac088915435e137c/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+276                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+276-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/912fafb2092b536dac088915435e137c/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+277                android:value="com.google.firebase.components.ComponentRegistrar" />
+277-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/912fafb2092b536dac088915435e137c/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+278        </service>
+279
+280        <meta-data
+280-->[com.github.bumptech.glide:okhttp3-integration:4.10.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/6f55619822ccc6d05807969841c02f7e/okhttp3-integration-4.10.0/AndroidManifest.xml:11:9-13:43
+281            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+281-->[com.github.bumptech.glide:okhttp3-integration:4.10.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/6f55619822ccc6d05807969841c02f7e/okhttp3-integration-4.10.0/AndroidManifest.xml:12:13-84
+282            android:value="GlideModule" />
+282-->[com.github.bumptech.glide:okhttp3-integration:4.10.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/6f55619822ccc6d05807969841c02f7e/okhttp3-integration-4.10.0/AndroidManifest.xml:13:13-40
+283
+284        <activity
+284-->[androidx.biometric:biometric:1.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/4df512d39a5d33fdc01df6bf6aa0f699/biometric-1.0.0/AndroidManifest.xml:28:9-31:67
+285            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
+285-->[androidx.biometric:biometric:1.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/4df512d39a5d33fdc01df6bf6aa0f699/biometric-1.0.0/AndroidManifest.xml:29:13-78
+286            android:exported="true"
+286-->[androidx.biometric:biometric:1.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/4df512d39a5d33fdc01df6bf6aa0f699/biometric-1.0.0/AndroidManifest.xml:30:13-36
+287            android:theme="@style/DeviceCredentialHandlerTheme" />
+287-->[androidx.biometric:biometric:1.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/4df512d39a5d33fdc01df6bf6aa0f699/biometric-1.0.0/AndroidManifest.xml:31:13-64
+288        <activity
+288-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:20:9-22:110
+289            android:name="com.sap.mdk.client.ui.onboarding.WelcomeScreenActivity"
+289-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:21:13-82
+290            android:configChanges="keyboardHidden|orientation|screenSize|locale|layoutDirection|fontScale" />
+290-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:22:13-107
+291        <activity
+291-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:23:9-30:20
+292            android:name="com.sap.mdk.client.ui.onboarding.MDKLaunchScreenActivity"
+292-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:24:13-84
+293            android:configChanges="keyboardHidden|orientation|screenSize"
+293-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:25:13-74
+294            android:theme="@style/Onboarding.Default.Light.Theme" >
+294-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:26:13-66
+295            <meta-data
+295-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:27:13-29:102
+296                android:name="action_handler"
+296-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:28:17-46
+297                android:value="com.sap.mdk.client.ui.onboarding.MDKWelcomeScreenActionHandlerImpl" />
+297-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:29:17-99
+298        </activity>
+299        <activity
+299-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:31:9-34:61
+300            android:name="com.sap.mdk.client.ui.onboarding.MDKChangePasscodeActivity"
+300-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:32:13-86
+301            android:configChanges="keyboardHidden|orientation|screenSize"
+301-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:33:13-74
+302            android:theme="@style/FioriTheme.NoActionBar" />
+302-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:34:13-58
+303        <activity
+303-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:89:9-92:61
+304            android:name="com.sap.mdk.client.ui.onboarding.PasscodeScreenActivity"
+304-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:90:13-83
+305            android:configChanges="keyboardHidden|orientation|screenSize"
+305-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:91:13-74
+306            android:theme="@style/FioriTheme.NoActionBar" />
+306-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:92:13-58
+307        <activity
+307-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:93:9-96:69
+308            android:name="com.sap.mdk.client.ui.onboarding.RetrieveCPmsSettingsActivity"
+308-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:94:13-89
+309            android:configChanges="keyboardHidden|orientation|screenSize"
+309-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:95:13-74
+310            android:theme="@style/Onboarding.Default.Light.Theme" />
+310-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:96:13-66
+311        <activity android:name="com.sap.mdk.client.ui.opendocument.OpenDocumentActivity" />
+311-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:97:9-92
+311-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:97:19-89
+312        <activity android:name="com.sap.mdk.client.ui.versioninfo.VersionInfoActivity" >
+312-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:98:9-104:20
+312-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:98:19-87
+313            <intent-filter>
+313-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:99:13-103:29
+314                <action android:name="android.intent.action.APPLICATION_PREFERENCES" />
+314-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:100:17-88
+314-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:100:25-85
+315
+316                <category android:name="android.intent.category.DEFAULT" />
+316-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:42:9-68
+316-->/Users/lrojasar/Downloads/MDKCLNT00P_1-80005972/MDKClient_SDK/Armadores DEV/platforms/android/app/src/main/AndroidManifest.xml:42:19-65
+317            </intent-filter>
+318        </activity>
+319        <activity
+319-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:105:9-109:20
+320            android:name="com.sap.mdk.client.ui.fiori.barcodescanner.BarcodeScannerActivity"
+320-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:106:13-93
+321            android:configChanges="keyboardHidden|orientation|screenSize"
+321-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:107:13-74
+322            android:theme="@style/Theme.AppCompat.Translucent" >
+322-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:108:13-63
+323        </activity>
+324        <activity
+324-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:110:9-114:20
+325            android:name="com.sap.mdk.client.ui.fiori.barcodescanner.CheckCameraActivity"
+325-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:111:13-90
+326            android:configChanges="keyboardHidden|orientation|screenSize"
+326-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:112:13-74
+327            android:theme="@style/Theme.AppCompat.Translucent" >
+327-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:113:13-63
+328        </activity>
+329        <activity
+329-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:135:9-138:49
+330            android:name="com.sap.mdk.client.ui.fiori.formCell.activities.MDKStringListPickerFormCellActivity"
+330-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:136:13-111
+331            android:configChanges="keyboardHidden|orientation|screenSize"
+331-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:137:13-74
+332            android:theme="@style/FioriTheme" />
+332-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:138:13-46
+333        <activity
+333-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:139:9-142:49
+334            android:name="com.sap.mdk.client.ui.fiori.formCell.activities.MDKObjectCellListPickerFormCellActivity"
+334-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:140:13-115
+335            android:configChanges="keyboardHidden|orientation|screenSize"
+335-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:141:13-74
+336            android:theme="@style/FioriTheme" />
+336-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:142:13-46
+337        <activity
+337-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:143:9-147:20
+338            android:name="com.sap.mdk.client.ui.fiori.formCell.activities.MDKSignatureCaptureFormCellActivity"
+338-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:144:13-111
+339            android:configChanges="keyboardHidden|orientation|screenSize"
+339-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:145:13-74
+340            android:theme="@style/MDKSignatureCaptureDialog" >
+340-->[:cloud_mobile_ui-release:] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1a340f3e1838417507bfb98229101e2e/cloud_mobile_ui-release/AndroidManifest.xml:146:13-61
+341        </activity>
+342
+343        <provider
+343-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/a0fa8fd0788ee94594cd7546b6b1ed31/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+344            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+344-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/a0fa8fd0788ee94594cd7546b6b1ed31/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+345            android:authorities="hayduk.armadores.lifecycle-process"
+345-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/a0fa8fd0788ee94594cd7546b6b1ed31/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+346            android:exported="false"
+346-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/a0fa8fd0788ee94594cd7546b6b1ed31/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+347            android:multiprocess="true" />
+347-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/a0fa8fd0788ee94594cd7546b6b1ed31/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+348        <provider
+348-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:30:9-36:35
+349            android:name="androidx.work.impl.WorkManagerInitializer"
+349-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:31:13-69
+350            android:authorities="hayduk.armadores.workmanager-init"
+350-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:32:13-68
+351            android:directBootAware="false"
+351-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:33:13-44
+352            android:exported="false"
+352-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:34:13-37
+353            android:multiprocess="true" />
+353-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:35:13-40
+354
+355        <service
+355-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:38:9-43:35
+356            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+356-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:39:13-88
+357            android:directBootAware="false"
+357-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:40:13-44
+358            android:enabled="@bool/enable_system_alarm_service_default"
+358-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:41:13-72
+359            android:exported="false" />
+359-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:42:13-37
+360        <service
+360-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:44:9-50:35
+361            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+361-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:45:13-84
+362            android:directBootAware="false"
+362-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:46:13-44
+363            android:enabled="@bool/enable_system_job_service_default"
+363-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:47:13-70
+364            android:exported="true"
+364-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:48:13-36
+365            android:permission="android.permission.BIND_JOB_SERVICE" />
+365-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:49:13-69
+366
+367        <receiver
+367-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:52:9-57:35
+368            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+368-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:53:13-88
+369            android:directBootAware="false"
+369-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:54:13-44
+370            android:enabled="true"
+370-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:55:13-35
+371            android:exported="false" />
+371-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:56:13-37
+372        <receiver
+372-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:58:9-68:20
+373            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+373-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:59:13-106
+374            android:directBootAware="false"
+374-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:60:13-44
+375            android:enabled="false"
+375-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:61:13-36
+376            android:exported="false" >
+376-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:62:13-37
+377            <intent-filter>
+377-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:64:13-67:29
+378                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+378-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:65:17-87
+378-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:65:25-84
+379                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+379-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:66:17-90
+379-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:66:25-87
+380            </intent-filter>
+381        </receiver>
+382        <receiver
+382-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:69:9-79:20
+383            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+383-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:70:13-104
+384            android:directBootAware="false"
+384-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:71:13-44
+385            android:enabled="false"
+385-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:72:13-36
+386            android:exported="false" >
+386-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:73:13-37
+387            <intent-filter>
+387-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:75:13-78:29
+388                <action android:name="android.intent.action.BATTERY_OKAY" />
+388-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:76:17-77
+388-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:76:25-74
+389                <action android:name="android.intent.action.BATTERY_LOW" />
+389-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:77:17-76
+389-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:77:25-73
+390            </intent-filter>
+391        </receiver>
+392        <receiver
+392-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:80:9-90:20
+393            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+393-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:81:13-104
+394            android:directBootAware="false"
+394-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:82:13-44
+395            android:enabled="false"
+395-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:83:13-36
+396            android:exported="false" >
+396-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:84:13-37
+397            <intent-filter>
+397-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:86:13-89:29
+398                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+398-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:87:17-83
+398-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:87:25-80
+399                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+399-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:88:17-82
+399-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:88:25-79
+400            </intent-filter>
+401        </receiver>
+402        <receiver
+402-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:91:9-100:20
+403            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+403-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:92:13-103
+404            android:directBootAware="false"
+404-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:93:13-44
+405            android:enabled="false"
+405-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:94:13-36
+406            android:exported="false" >
+406-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:95:13-37
+407            <intent-filter>
+407-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:97:13-99:29
+408                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+408-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:98:17-79
+408-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:98:25-76
+409            </intent-filter>
+410        </receiver>
+411        <receiver
+411-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:101:9-112:20
+412            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+412-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:102:13-88
+413            android:directBootAware="false"
+413-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:103:13-44
+414            android:enabled="false"
+414-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:104:13-36
+415            android:exported="false" >
+415-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:105:13-37
+416            <intent-filter>
+416-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:107:13-111:29
+417                <action android:name="android.intent.action.BOOT_COMPLETED" />
+417-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:108:17-79
+417-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:108:25-76
+418                <action android:name="android.intent.action.TIME_SET" />
+418-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:109:17-73
+418-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:109:25-70
+419                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+419-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:110:17-81
+419-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:110:25-78
+420            </intent-filter>
+421        </receiver>
+422        <receiver
+422-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:113:9-122:20
+423            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+423-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:114:13-99
+424            android:directBootAware="false"
+424-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:115:13-44
+425            android:enabled="@bool/enable_system_alarm_service_default"
+425-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:116:13-72
+426            android:exported="false" >
+426-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:117:13-37
+427            <intent-filter>
+427-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:119:13-121:29
+428                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+428-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:120:17-98
+428-->[androidx.work:work-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/9fbecaeab1385d366eafbadea58fe38c/work-runtime-2.2.0/AndroidManifest.xml:120:25-95
+429            </intent-filter>
+430        </receiver>
+431        <receiver
+431-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+432            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+432-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+433            android:exported="true"
+433-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+434            android:permission="com.google.android.c2dm.permission.SEND" >
+434-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+435            <intent-filter>
+435-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+436                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+436-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+436-->[com.google.firebase:firebase-iid:20.0.2] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/d591badf076e13dc5ca596ae2a5ae861/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+437            </intent-filter>
+438        </receiver>
+439
+440        <activity
+440-->[com.google.android.gms:play-services-base:17.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/40140f149807b36af75cec5927e1bc60/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+441            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+441-->[com.google.android.gms:play-services-base:17.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/40140f149807b36af75cec5927e1bc60/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+442            android:exported="false"
+442-->[com.google.android.gms:play-services-base:17.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/40140f149807b36af75cec5927e1bc60/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+443            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+443-->[com.google.android.gms:play-services-base:17.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/40140f149807b36af75cec5927e1bc60/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+444
+445        <provider
+445-->[com.google.firebase:firebase-common:19.3.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1c0934cafc91216f55580cde9e737e31/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+446            android:name="com.google.firebase.provider.FirebaseInitProvider"
+446-->[com.google.firebase:firebase-common:19.3.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1c0934cafc91216f55580cde9e737e31/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+447            android:authorities="hayduk.armadores.firebaseinitprovider"
+447-->[com.google.firebase:firebase-common:19.3.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1c0934cafc91216f55580cde9e737e31/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+448            android:exported="false"
+448-->[com.google.firebase:firebase-common:19.3.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1c0934cafc91216f55580cde9e737e31/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+449            android:initOrder="100" />
+449-->[com.google.firebase:firebase-common:19.3.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/1c0934cafc91216f55580cde9e737e31/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+450
+451        <receiver
+451-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:29:9-33:20
+452            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+452-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:30:13-85
+453            android:enabled="true"
+453-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:31:13-35
+454            android:exported="false" >
+454-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:32:13-37
+455        </receiver>
+456        <receiver
+456-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:34:9-42:20
+457            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+457-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:35:13-100
+458            android:enabled="true"
+458-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:36:13-35
+459            android:exported="true"
+459-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:37:13-36
+460            android:permission="android.permission.INSTALL_PACKAGES" >
+460-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:38:13-69
+461            <intent-filter>
+461-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:39:13-41:29
+462                <action android:name="com.android.vending.INSTALL_REFERRER" />
+462-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:40:17-79
+462-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:40:25-76
+463            </intent-filter>
+464        </receiver>
+465
+466        <service
+466-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:44:9-47:40
+467            android:name="com.google.android.gms.measurement.AppMeasurementService"
+467-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:45:13-84
+468            android:enabled="true"
+468-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:46:13-35
+469            android:exported="false" />
+469-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:47:13-37
+470        <service
+470-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:48:9-52:72
+471            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+471-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:49:13-87
+472            android:enabled="true"
+472-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:50:13-35
+473            android:exported="false"
+473-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:51:13-37
+474            android:permission="android.permission.BIND_JOB_SERVICE" />
+474-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/2357ae61767b981a26c1ba03c956cf3b/play-services-measurement-17.2.1/AndroidManifest.xml:52:13-69
+475
+476        <meta-data
+476-->[com.google.android.gms:play-services-basement:17.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8c482d842a6a8216de0568b66f32787a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+477            android:name="com.google.android.gms.version"
+477-->[com.google.android.gms:play-services-basement:17.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8c482d842a6a8216de0568b66f32787a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+478            android:value="@integer/google_play_services_version" />
+478-->[com.google.android.gms:play-services-basement:17.0.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8c482d842a6a8216de0568b66f32787a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+479
+480        <service
+480-->[androidx.room:room-runtime:2.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/82d8c71d07e43c8d75bfb695fa8f6e70/room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+481            android:name="androidx.room.MultiInstanceInvalidationService"
+481-->[androidx.room:room-runtime:2.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/82d8c71d07e43c8d75bfb695fa8f6e70/room-runtime-2.1.0/AndroidManifest.xml:26:13-74
+482            android:exported="false" />
+482-->[androidx.room:room-runtime:2.1.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/82d8c71d07e43c8d75bfb695fa8f6e70/room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+483        <service
+483-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8619554a69be95d701a7632b936d666d/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+484            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+484-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8619554a69be95d701a7632b936d666d/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+485            android:exported="false" >
+485-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8619554a69be95d701a7632b936d666d/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+486            <meta-data
+486-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8619554a69be95d701a7632b936d666d/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+487                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+487-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8619554a69be95d701a7632b936d666d/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+488                android:value="cct" />
+488-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/8619554a69be95d701a7632b936d666d/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+489        </service>
+490        <service
+490-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/caf6fbb19f0985c002c70ecfe7fe2c0b/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+491            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+491-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/caf6fbb19f0985c002c70ecfe7fe2c0b/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+492            android:exported="false"
+492-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/caf6fbb19f0985c002c70ecfe7fe2c0b/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+493            android:permission="android.permission.BIND_JOB_SERVICE" >
+493-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/caf6fbb19f0985c002c70ecfe7fe2c0b/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+494        </service>
+495
+496        <receiver
+496-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/caf6fbb19f0985c002c70ecfe7fe2c0b/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+497            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+497-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/caf6fbb19f0985c002c70ecfe7fe2c0b/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+498            android:exported="false" />
+498-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/lrojasar/.gradle/caches/transforms-2/files-2.1/caf6fbb19f0985c002c70ecfe7fe2c0b/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+499    </application>
+500
+501</manifest>

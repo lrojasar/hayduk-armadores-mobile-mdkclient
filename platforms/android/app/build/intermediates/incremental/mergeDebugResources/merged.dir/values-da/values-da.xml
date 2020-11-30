@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="attachment_long_press_options">
+        <item name="remove" translatable="true">"Fjern vedhæftet fil"</item>
+    </string-array>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Find hjem"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Gå op"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Flere valgmuligheder"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Udfør"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"FRA"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"TIL"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"slet"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"mellemrum"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Søg…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Ryd forespørgsel"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string name="abc_searchview_description_scan" translatable="true">"Scan søgning"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Indsend forespørgsel"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"Område med hjælpemeddelelse"</string>
+    <string name="action_cell_icon_desc">"Handlingsikon"</string>
+    <string name="activation_action_next">"Næste"</string>
+    <string name="activation_action_scan">"Scan"</string>
+    <string name="activation_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="activation_detail_label">"Hvis du har modtaget en velkomst-e-mail, skal du følge aktiveringslinket i e-mailen. Ellers skal du indtaste din e-mailadresse eller scanne QR-koden for at starte onboarding."</string>
+    <string name="activation_headline_label">"Aktivering"</string>
+    <string name="activation_subheadline_label">"Eller"</string>
+    <string name="activationscreen_discovery_button">"Start"</string>
+    <string name="activationscreen_discovery_title">"Brug din e-mail"</string>
+    <string name="activationscreen_email_hint">"Din e-mail"</string>
+    <string name="activationscreen_instruction"/>
+    <string name="activationscreen_instruction_barcode">"Scan den sikre QR-kode for at starte aktiveringsprocessen."</string>
+    <string name="activationscreen_instruction_choose_an_option">"Indtast din e-mailadresse for at starte aktiveringsprocessen.\n\nDu kan også scanne QR-koden."</string>
+    <string name="activationscreen_instruction_discovery_service">"Indtast din e-mailadresse for at starte aktiveringsprocessen."</string>
+    <string name="activationscreen_instruction_mail">"Tjek din indbakke. Klik på aktiveringslinket i den e-mail, du lige har modtaget fra os, for at logge på."</string>
+    <string name="activationscreen_instruction_mail_email">"Tjek din indbakke. Klik på aktiveringslinket i den e-mail, du lige har modtaget fra os, for at logge på.\n\nVi sendte e-mailen til:\n"<b>"%s"</b></string>
+    <string name="activationscreen_qrcode_title">"Scan QR-koden"</string>
+    <string name="activationscreen_scan_button">"Scan QR-koden"</string>
+    <string name="activationscreen_title">"Aktivering"</string>
+    <string name="activationscreen_title_mail">"Vi har sendt dig en e-mail"</string>
+    <string name="add_photo">"Tilføj foto"</string>
+    <string name="attachment_action_icon_desc" translatable="true">"Ikon for handlingen for vedhæftet fil"</string>
+    <string name="attachment_action_message" translatable="true">"Vedhæft fra"</string>
+    <string name="attachment_action_title_desc" translatable="true">"Navn på handlingen for vedhæftet fil"</string>
+    <string name="attachment_add_btn_txt" translatable="true">"Tilføj"</string>
+    <string name="attachment_default_key" translatable="true">"Vedhæftede filer (%1$d)"</string>
+    <string name="attachment_item_content_desc" translatable="true">"Element til den vedhæftede fil"</string>
+    <string name="attachment_item_detail_title" translatable="true">"Navn og andre oplysninger"</string>
+    <string name="attachment_item_fail_dialog_bottom_title" translatable="true">"OK"</string>
+    <string name="attachment_item_fail_message" translatable="true">"Åbning af vedhæftet fil mislykkedes"</string>
+    <string name="attachment_item_icon_desc" translatable="true">"Ikon for vedhæftet fil"</string>
+    <string name="attachment_item_open_message" translatable="true">"Åbner vedhæftet fil"</string>
+    <string name="attachment_remove_icon_desc" translatable="true">"Fjern vedhæftet fil"</string>
+    <string name="attempts">"Du har 1 forsøg tilbage"</string>
+    <string name="attempts_left_message">"Du har {0,number,#} forsøg tilbage"</string>
+    <string name="authentication_failed_key">"Onboarding mislykkedes."</string>
+    <string name="authentication_required">"Godkendelse kræves"</string>
+    <string name="auto_focus" translatable="true">"Automatisk fokus"</string>
+    <string name="barcode_error" translatable="true">"Fejl ved læsning af stregkode: %1$s"</string>
+    <string name="barcode_failure" translatable="true">"Stregkode ikke registreret"</string>
+    <string name="barcode_header" translatable="true">"Klik på Læs stregkode for at læse en stregkode"</string>
+    <string name="barcode_success" translatable="true">"Stregkoden er læst"</string>
+    <string name="basic_auth_instruction">"Autentifikation kræves"</string>
+    <string name="basic_auth_message">"Serveren %1$s kræver brugernavn og adgangskode."</string>
+    <string name="basic_auth_password">"Adgangskode"</string>
+    <string name="basic_auth_title">"Pålogning"</string>
+    <string name="basic_auth_user_name">"Brugernavn"</string>
+    <string name="cancel">"Annuller"</string>
+    <string name="cancel_button">@android:string/cancel</string>
+    <string name="cancel_onboarding_action_cancel">"Nej"</string>
+    <string name="cancel_onboarding_action_ok">"Ja"</string>
+    <string name="cancel_onboarding_msg">"Er du sikker på, at du vil afbryde onboarding-processen?"</string>
+    <string name="clear">"Nulstil"</string>
+    <string name="collapse" translatable="true">"Skjul"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivér"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Du skal aktivere Google Play-tjenester, for at <ns1:g id="APP_NAME">%1$s</ns1:g> kan fungere."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivér Google Play-tjenester"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installer"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Du skal installere Google Play-tjenester, før <ns1:g id="APP_NAME">%1$s</ns1:g> kan køre på din enhed."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Hent Google Play-tjenester"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play-tjenesters tilgængelighed"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fejl i Google Play-tjenester"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> har problemer med Google Play-tjenester. Prøv igen."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Opdater"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan ikke køre, medmindre du opdaterer Google Play-tjenester."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Opdater Google Play-tjenester"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Åbn på telefonen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Log ind"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Log ind med Google"</string>
+    <string name="confirm_biometric_description_label">"Log på med biometrik.\nEller du kan anvende en adgangskode til at logge på."</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"Brug adgangskode"</string>
+    <string name="confirm_fingerprint_detail_label">"Rør ved sensoren for at logge på med dit fingeraftryk.\nDu kan også logge på med en adgangskode."</string>
+    <string name="confirm_fingerprint_headline_label">"Log på"</string>
+    <string name="confirm_fingerprint_try_password_button">"Brug adgangskode"</string>
+    <string name="confirm_no">"Nej"</string>
+    <string name="confirm_yes">"Ja"</string>
+    <string name="consent_button_confirm">"TILLAD"</string>
+    <string name="consent_button_reject">"AFVIS"</string>
+    <string name="consent_footer_back">"FOREGÅENDE"</string>
+    <string name="consent_footer_next">"NÆSTE"</string>
+    <string name="consent_footer_x_of_y">"Trin %d af %d"</string>
+    <string name="consent_header_skip_button">"SPRING OVER"</string>
+    <string name="consent_title_text">"SAMTYKKE"</string>
+    <string name="contact_cell_info_action_ok">"OK"</string>
+    <string name="contact_cell_info_action_title">"Info"</string>
+    <string name="content_body">"Udførlig tekst om, hvordan denne app er omfattet af databeskyttelse, og hvorfor det er vigtigt for brugeren at aktivere denne funktionalitet."</string>
+    <string name="content_learn_more">"Få mere at vide om sikkerhed"</string>
+    <string name="content_title">"Samtykke"</string>
+    <string name="continue_with_same_string">"Anvend aktuel applikation"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"Ukendt fejl"</string>
+    <string name="detector_not_operational">"Stregkodedetektor er ikke operativ pga. manglende Google Play Services-afhængigheder. Kamera vises ikke."</string>
+    <string name="dialog_action_retry">"Forsøg igen"</string>
+    <string name="done">"Udført"</string>
+    <string name="duration_picker_form_cell_duration_text_format" translatable="true">"%d timer %d minutter"</string>
+    <string name="enable_fingerprint_alert_cancel_text">"Ikke nu"</string>
+    <string name="enable_fingerprint_alert_message">"Hvis du vil bruge fingeraftryk, skal du registrere mindst et af dine fingeraftryk i Indstillinger"</string>
+    <string name="enable_fingerprint_alert_settings_text">"Gå til Indstillinger"</string>
+    <string name="enable_fingerprint_alert_title">"Registrer dit fingeraftryk"</string>
+    <string name="enable_fingerprint_button">"Aktiver fingeraftryk"</string>
+    <string name="enable_fingerprint_detail_label">"Brug dit fingeraftryk for at få hurtigere og nemmere adgang til din konto."</string>
+    <string name="enable_fingerprint_error_message_device_is_not_secure">"Enheden er ikke sikker"</string>
+    <string name="enable_fingerprint_error_message_no_fingerprint_added">"Registrer mindst ét fingeraftryk i Indstillinger"</string>
+    <string name="enable_fingerprint_headline_label">"Brug dit fingeraftryk"</string>
+    <string name="enter_credentials_message">"Du har nået det tilladte antal forsøg på at indtaste adgangskoden. Indtast dine legitimationsoplysninger for at logge på og nulstille adgangskoden."</string>
+    <string name="eula_button_confirm">"Acceptér"</string>
+    <string name="eula_button_reject">"Afvis"</string>
+    <string name="eula_title_text">"EULA"</string>
+    <string name="exit_search" translatable="true">"Afslut søgning"</string>
+    <string name="expand" translatable="true">"Udvid"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avanceret"</string>
+    <string name="expandable_menu">"Pil angiver, at elementet kan udvides"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Diverse"</string>
+    <string name="file_provider">"com.sap.mobile.platform.SnowblindClient.fileprovider"</string>
+    <string name="filter_actionbar_title" translatable="true">"Filtrer efter"</string>
+    <string name="filter_all_items" translatable="true">"ALLE"</string>
+    <string name="filter_apply_filter" translatable="true">"Anvend"</string>
+    <string name="filter_confirm_discard" translatable="true">"Forkast"</string>
+    <string name="filter_confirm_message" translatable="true">"Vil du forkaste de nye filtre, du har angivet?"</string>
+    <string name="filter_confirm_title" translatable="true">"Nye filtre ikke anvendt"</string>
+    <string name="filter_reset_all" translatable="true">"Nulstil alle"</string>
+    <string name="filter_selected_items" translatable="true">"VALGTE"</string>
+    <string name="fingerprint_authenticate_error_detail_label">"Du skal godkende brugen af fingeraftryk for at bruge appen. Du skal vente 30 sekunder for at kunne bruge sensoren igen."</string>
+    <string name="fingerprint_authenticate_error_headline_label">"Godkendelsesfejl"</string>
+    <string name="fingerprint_authenticate_error_reset_button">"Nulstil klient"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"Sæt finger på fingeraftrykslæser"</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"Hardwaren til fingeraftryk er ikke tilgængelig."</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"Denne enhed har ingen fingeraftrykslæser"</string>
+    <string name="fingerprint_error_label">"Ikke genkendt"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"Der var for mange forsøg Prøv igen senere."</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"Der er ikke registreret nogen fingeraftryk."</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"Fingeraftrykshandlingen blev annulleret af brugeren."</string>
+    <string name="fingerprint_general_error_label">"Der opstod et problem under godkendelse"</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"Ikke genkendt"</string>
+    <string name="gb_size_unit">"GB"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"Godkendelsen er annulleret af brugeren."</string>
+    <string name="init_odata_downloaded_data_subtext_format">"Downloader data… %1$,.2f%2$s"</string>
+    <string name="init_odata_downloaded_file_subtext_format">"Downloader fil… %1$,.2f%2$s"</string>
+    <string name="init_odata_initial_communication">"Opretter forbindelse…"</string>
+    <string name="init_odata_initializing">"Opretter forbindelse…"</string>
+    <string name="init_odata_opened">"Afsluttet"</string>
+    <string name="init_odata_opening">"Åbner…"</string>
+    <string name="init_odata_prepare_download_data">"Venter på data fra server…"</string>
+    <string name="init_odata_prepare_download_file">"Venter på fil fra server…"</string>
+    <string name="init_odata_sending_store">"Uploader…"</string>
+    <string name="init_odata_uploading">"Uploader…"</string>
+    <string name="kb_size_unit">"KB"</string>
+    <string name="launchscreen_button_demo">"Prøv demoen"</string>
+    <string name="launchscreen_button_primary">"Kom godt i gang"</string>
+    <string name="launchscreen_description"/>
+    <string name="launchscreen_footnote">"Se vores &lt;a href=%1$s>servicebetingelser&lt;/a> og &lt;a href=%2$s>politik om beskyttelse af personlige oplysninger&lt;/a>"</string>
+    <string name="launchscreen_headline"/>
+    <string name="launchscreen_title"/>
+    <string name="loading" translatable="true">"Indlæser..."</string>
+    <string name="log_in">"Log på"</string>
+    <string name="low_storage">"begrænset lagerplads"</string>
+    <string name="low_storage_error" translatable="true">"Ansigtsdetektorafhængigheder kan ikke downloades på grund af begrænset lagerplads på enheden"</string>
+    <string name="map_add_button">"Tilføj"</string>
+    <string name="map_branch_button">"Gå til"</string>
+    <string name="map_cluster_close">"Lukker clusterpanelet"</string>
+    <string name="map_directions">"Retninger"</string>
+    <string name="map_edit_add_point_button">"Tilføj punkt"</string>
+    <string name="map_edit_annotation_type">"Annotationstype"</string>
+    <string name="map_edit_annotations">"Rediger annotationer"</string>
+    <string name="map_edit_cancel_button">"Annuller"</string>
+    <string name="map_edit_cancel_edit_confirm_button">"Afslut"</string>
+    <string name="map_edit_cancel_edit_decline_button">"Fortsæt redigering"</string>
+    <string name="map_edit_cancel_edit_message">"Er du sikker på, at du vil afslutte korteditoren?"</string>
+    <string name="map_edit_cancel_edit_title">"Afslut korteditoren?"</string>
+    <string name="map_edit_clear_all_button">"Slet alle"</string>
+    <string name="map_edit_clear_points_confirm_button">"Slet alle"</string>
+    <string name="map_edit_clear_points_message">"Slet alle punkter?"</string>
+    <string name="map_edit_close_button">"Luk"</string>
+    <string name="map_edit_label_address">"Adresse"</string>
+    <string name="map_edit_save_button">"Gem"</string>
+    <string name="map_edit_switch_confirm_button">"Skift"</string>
+    <string name="map_edit_switch_to_point_message">"De punkter, du har tilføjet, slettes. Er du sikker på, at du vil skifte?"</string>
+    <string name="map_edit_switch_to_point_title">"Skift til et punkt?"</string>
+    <string name="map_edit_switch_to_polygon_message">"De punkter, du har tilføjet, ændres ikke. Du kan fortsætte med at oprette objektet."</string>
+    <string name="map_edit_switch_to_polygon_title">"Skift til et polygon?"</string>
+    <string name="map_edit_switch_to_polyline_message">"De punkter, du har tilføjet, ændres ikke. Du kan fortsætte med at oprette objektet."</string>
+    <string name="map_edit_switch_to_polyline_title">"Skift til en polylinje?"</string>
+    <string name="map_edit_type_point">"Punkt"</string>
+    <string name="map_edit_type_polygon">"Polygon"</string>
+    <string name="map_edit_type_polyline">"Polylinje"</string>
+    <string name="map_legend">"Forklaring"</string>
+    <string name="map_legend_button">"Knappen Forklaring"</string>
+    <string name="map_legend_item">"Forklaringselement"</string>
+    <string name="map_legend_title">"Forklaringstitel"</string>
+    <string name="map_list_title">"%1$d objekter"</string>
+    <string name="map_location_button">"Knappen Placering"</string>
+    <string name="map_point_delete_confirm_button">"Slet"</string>
+    <string name="map_point_delete_message">"Er du sikker på, at du vil slette dette punkt?"</string>
+    <string name="map_preview_close">"Lukker forhåndsvisningspanelet"</string>
+    <string name="map_priority_high">"Høj"</string>
+    <string name="map_priority_low">"Lav"</string>
+    <string name="map_priority_medium">"Middel"</string>
+    <string name="map_priority_very_high">"Meget høj"</string>
+    <string name="map_redo_button">"Annuller fortryd"</string>
+    <string name="map_remove_button">"Fjern"</string>
+    <string name="map_search_cancel">"Annuller"</string>
+    <string name="map_search_enter_an_address">"Indtast en adresse"</string>
+    <string name="map_search_error_message">"Der opstod en fejl under søgning efter lokation."</string>
+    <string name="map_search_error_title">"Søgefejl"</string>
+    <string name="map_search_location_search_title">"Vælg aktuel lokation"</string>
+    <string name="map_search_ok">"OK"</string>
+    <string name="map_search_your_location">"Aktuel lokation"</string>
+    <string name="map_settings_button">"Knappen Indstillinger"</string>
+    <string name="map_settings_title">"Indstillinger"</string>
+    <string name="map_show_hide_button">"Knappen Vis/skjul"</string>
+    <string name="map_toolbar">"Værktøjslinje"</string>
+    <string name="map_undo_button">"Fortryd"</string>
+    <string name="map_zoom_button">"Knappen Zoom omfang"</string>
+    <string name="max_attempts_reached_message">"Nulstil adgangskoden"</string>
+    <string name="mb_size_unit">"MB"</string>
+    <string name="network_unreachable_key">"Netværk ikke tilgængeligt. Forsøg igen senere."</string>
+    <string name="new_activity_on_click_sign">"Venstre pil angiver, at en ny aktivitet oprettes ved at klikke på oversigten"</string>
+    <string name="no_camera_permission" translatable="true">"Denne applikation kan ikke køre, da den ikke har kameratilladelse. Applikationen afsluttes."</string>
+    <string name="null_policy_cancel_button_alert_dialog">"Annuller"</string>
+    <string name="null_policy_desc_alert_dialog">"Ingen adgangskodepolitik er tilgængelig nu."</string>
+    <string name="null_policy_header_alert_dialog">"Fejl ved download"</string>
+    <string name="null_policy_retry_button_alert_dialog">"Prøv igen"</string>
+    <string name="object_header_page_1" translatable="true">"Side 1"</string>
+    <string name="object_header_page_2" translatable="true">"Side 2"</string>
+    <string name="object_header_page_3" translatable="true">"Side 3"</string>
+    <string name="ok_button">"android:string/ok"</string>
+    <string name="ok_button_label">"OK"</string>
+    <string name="onboarding_eula_title">"Slutbrugerlicensaftale"</string>
+    <string name="onboarding_passcode_fingerprint_reset">"Anvend app-kode"</string>
+    <string name="onboarding_passcode_max_attempts_reached">"App-kode skal nulstilles"</string>
+    <string name="onboarding_passcode_reset_app">"Nulstil applikation"</string>
+    <string name="onboarding_retrieve_cpms_settings">"Indlæser…"</string>
+    <string name="onboarding_retrieve_cpms_settings_failed">"Hentning af indstillinger mislykkedes. Anvender standarder"</string>
+    <string name="one_attempt_left_message">"Du har 1 forsøg tilbage"</string>
+    <string name="open_document_image_description">"Dokumentbillede"</string>
+    <string name="passcode_change_instruction_text">"Indtast din nuværende adgangskode."</string>
+    <string name="passcode_change_title">"Indtast adgangskode"</string>
+    <string name="passcode_create_digits_label">"Cifre (0-9)"</string>
+    <string name="passcode_create_done_button_text">"Næste"</string>
+    <string name="passcode_create_group_label">"Medtag følgende:"</string>
+    <string name="passcode_create_instruction_text">"Du åbner appen ved at angive en adgangskode på mindst {0,number,#} tegn."</string>
+    <string name="passcode_create_lowercase_label">"Små bogstaver (a-z)"</string>
+    <string name="passcode_create_skip_button_text">"Ikke nu"</string>
+    <string name="passcode_create_symbols_label">"Symboler (!@#...)"</string>
+    <string name="passcode_create_title">"Opret adgangskode"</string>
+    <string name="passcode_create_uppercase_label">"Store bogstaver (A-Z)"</string>
+    <string name="passcode_default_confirm_button_cancel_text">"Annuller"</string>
+    <string name="passcode_default_confirm_done_button_text">"Færdig"</string>
+    <string name="passcode_default_confirm_instruction_text">"Bekræft den adgangskode, du har oprettet"</string>
+    <string name="passcode_default_confirm_mismatch_text">"Adgangskoden var forkert, prøv igen"</string>
+    <string name="passcode_default_confirm_title">"Bekræft adgangskode"</string>
+    <string name="passcode_default_skip_label_confirm">"Tilbage"</string>
+    <string name="passcode_enter_button_text">"Log på"</string>
+    <string name="passcode_enter_instruction_text">"Indtast din adgangskode for at åbne appen"</string>
+    <string name="passcode_enter_title">"Indtast adgangskode"</string>
+    <string name="passcode_error_message_text">"Fejlmeddelelse"</string>
+    <string name="passcode_reset_button_text">"Nulstil klient"</string>
+    <string name="passcode_skip_hint">"Spring adgangskodeproces over"</string>
+    <string name="passcode_skip_label">"Annuller"</string>
+    <string name="passcode_use_default">"Brug standard"</string>
+    <string name="password">"Adgangskode"</string>
+    <string name="permission_camera_rationale" translatable="true">"Adgang til kameraet kræves til detektering"</string>
+    <string name="popover_image_description">"Popover-billede"</string>
+    <string name="progress_indicator_full_format">"%1$s (%2$s)"</string>
+    <string name="push_error">"Fejl ved push"</string>
+    <string name="push_invalid_push_format">"Pushmeddelelse modtaget, men den kunne ikke behandles, da formatet er ugyldigt."</string>
+    <string name="push_message">"Pushmeddelelse modtaget"</string>
+    <string name="push_text">"Underretning"</string>
+    <string name="push_token_upload_failed_detail">"Pushfunktionen virker ikke, da pushtoken ikke kunne uploades til SAP-serveren. Du modtager ikke pushmeddelelser."</string>
+    <string name="qr_confirm_continue_title">"Fortsæt"</string>
+    <string name="qr_confirm_detailed_msg_label">"Nu omdirigeres du til:"</string>
+    <string name="qr_confirm_failure_detailed_message">"Registrering mislykkedes. Prøv med en anden sti eller metode til registrering."</string>
+    <string name="qr_confirm_failure_title">"Mislykkedes"</string>
+    <string name="qr_confirm_redirecturl_label"/>
+    <string name="qr_reader_photolibrary_contentdescription">"fotobibliotek"</string>
+    <string name="qr_scan_succeeded_label">"Scanning udført"</string>
+    <string name="qr_validation_failure_detailed_message">"Registrering mislykkedes. Prøv med en anden sti eller metode til registrering."</string>
+    <string name="qr_validation_failure_title">"Mislykkedes"</string>
+    <string name="read_barcode" translatable="true">"Læs stregkode"</string>
+    <string name="reset_button_label_alert_dialog">"Nulstil klient"</string>
+    <string name="reset_client">"Nulstil klient"</string>
+    <string name="reset_client_cong_msg">"Dette vil nulstille MDK-klienten. Er du sikker?"</string>
+    <string name="reset_client_info_action_cancel">"Annuller"</string>
+    <string name="reset_client_info_action_ok">"Nulstil"</string>
+    <string name="reset_hint">"Tryk på denne knap, hvis du ikke kan huske adgangskoden"</string>
+    <string name="results">"RESULTATER(%1$d)"</string>
+    <string name="retry_passcode_message">"Forkert adgangskode. Prøv igen."</string>
+    <string name="sap_logo">"SAP-logo"</string>
+    <string name="scan_new_qr_code_string">"Scan ny QR-kode"</string>
+    <string name="scanning_started">"Scanner..."</string>
+    <string name="search_hint" translatable="true">"Søg"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Søg"</string>
+    <string name="select" translatable="true">"Vælg"</string>
+    <string name="select_file">"Vælg fil"</string>
+    <string name="select_option_string">"Vælg en valgmulighed"</string>
+    <string name="select_picture">"Vælg billede"</string>
+    <string name="signature_captured">"Signaturen er registreret"</string>
+    <string name="skip_for_now_button">"Spring over nu"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="take_photo">"Tag foto"</string>
+    <string name="timeline_empty_description">"Hvis du opretter en opgave, vises den i tidsplanen."</string>
+    <string name="timeline_empty_headline">"Intet forfalder på dette tidspunkt"</string>
+    <string name="timeline_preview_content_description">"Billede for hændelsen"</string>
+    <string name="timeline_preview_header">"TIDSPLAN"</string>
+    <string name="timeline_preview_multiday">"%1$s (dag %2$d/%3$d)"</string>
+    <string name="timeline_preview_see_all">"SE ALLE (%1$d)"</string>
+    <string name="title_activity_main" translatable="true">"Stregkodelæsereksempel"</string>
+    <string name="use_flash" translatable="true">"Brug blitz"</string>
+    <string name="username">"Brugernavn"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"FRA"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"TIL"</string>
+    <string name="verify_passcode_done_button">"Verificer"</string>
+    <string name="verify_passcode_fingerprint_detail_label">"Rør ved sensoren for at verificere med dit fingeraftryk \nEller du kan anvende en kode til at verificere"</string>
+    <string name="verify_passcode_fingerprint_headline">"Verificer"</string>
+    <string name="verify_passcode_instruction">"Indtast din kode for at verificere den"</string>
+    <string name="welcome_action_demo">"Prøv demoen"</string>
+    <string name="welcome_action_scan">"Scan"</string>
+    <string name="welcome_action_start">"Start"</string>
+    <string name="welcome_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="welcome_demo_label">"Vil du udforske?"</string>
+    <string name="welcome_detail_label">"Følg de instruktioner, du har modtaget i velkomst-e-mailen, for at starte aktiveringsprocessen."</string>
+    <string name="welcome_detailed_label_configured_instruction">"Hold kontrollen med administrationen af dine daglige opgaver, og samarbejd nemt på projekter."</string>
+    <string name="welcome_detailed_label_discoveryservice_instruction">"Indtast din e-mailadresse for at starte aktiveringsprocessen."</string>
+    <string name="welcome_detailed_label_scan_instruction">"Scan den sikre QR-kode for at starte aktiveringsprocessen."</string>
+    <string name="welcome_detailed_label_welcome_instruction">"Følg de instruktioner, du har modtaget i velkomst-e-mailen, for at starte aktiveringsprocessen."</string>
+    <string name="welcome_email_hint">"e-mail"</string>
+    <string name="welcome_headline_label">"Tak fordi du downloadede"</string>
+</resources>

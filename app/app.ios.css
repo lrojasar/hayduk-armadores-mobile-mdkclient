@@ -1,0 +1,211 @@
+
+/* These are the client's default styles for built-in controls in iOS */
+
+/*
+This style will apply to all Pages in the application.
+This style is exposed.
+*/
+PageWrapper {
+    background-color: white;
+}
+
+/*
+This style applies to all the Pages in the application. It is not exposed.
+*/
+StackLayout {
+    text-align: center;
+}
+
+/* 
+This style will apply to all ActionBars in the application. In iOS,
+this is the NavigationBar. This style is exposed.
+*/
+ActionBar {
+    color: #CAE4FB;
+    background-color: #354A5F;
+    font-family: "system";
+}
+
+/**
+This style will apply to all ActionBars title field. 
+This style is exposed.
+*/
+ActionBarTitle {
+    color: white;
+    font-size: 17;
+    font-family: "system";
+    font-weight: 600;
+}
+
+/*
+This style will apply to all clickable toolbar items in the application.
+This style is exposed.
+*/
+ToolBar {
+    color: #0A6ED1;
+    font-family: "system";
+    font-size: 17;
+    border-top-color: #A7A7AA;
+    border-width: 1;
+}
+
+/*
+This style will apply to all non-clickable toolbar items (labels) by default.
+*/
+ToolBarLabelStyle {
+    color: #3F3A3A;
+    font-family: "system";
+    font-size: 11;
+}
+
+/* 
+This style applies to all the "Button" objects in the application 
+Unfortunately, that includes our Button control as well as the 
+Button used by NativeScript in the alerts, so we use the NonDialogButton
+style class bellow to further customize our button controls.
+*/
+Button {
+    height: 50;
+    background-color: #5D88AF;
+    border-radius: 8;
+    margin: 10;
+    padding: 10;
+    margin-left: 30;
+    margin-right: 30;
+    align-self: 'stretch';
+    font-family: "system";
+    font-size: 18;
+    text-align: center;
+    border-width: 1;
+    border-style: solid;
+    border-color: #5D88AF;
+}
+
+/* 
+This can't be included in the Button style or else the alert
+messages Buttons will have a light text that is impossible to see.
+*/
+.non-dialog-button {
+    color: #FAFAFA;
+}
+
+.sap-icons {
+    font-family: "SAP-icons";
+    font-weight: 900;
+    font-size: 24;
+}
+
+/* --- Gonners --- */
+
+/* TODO: Remove with Label control */
+.list-view-row {
+    padding: 15;
+    text-align: left;
+    font-size: 20;
+}
+
+/* TODO: Remove with TextEntry control */
+TextField {
+    background-color: #FAFAFA;
+    border-width: 1;
+    border-style: solid;
+    border-color: #C7C7CC;
+    border-radius: 4;
+}
+
+TabStrip {
+    /* default background-color of UIToolbar */
+    background-color: #F7F6F6;
+    selected-item-color: #0A6ED1;
+    un-selected-item-color: #6A6D70;
+}
+.drawerContent{
+    background-color: #ffffff;
+}
+.sidedrawer-header{
+    height: auto;
+    padding: 15;
+    border-bottom-width:0.5;
+    border-bottom-color: rgb(104, 103, 103);
+}
+.sidedrawer-header.ltr{
+    text-align: left;
+}
+.sidedrawer-header.rtl{
+    text-align: right;
+}
+.sidedrawer-header-icon{
+    width: 20%;
+    margin-bottom: 20;
+}
+.sidedrawer-header-icon.ltr{
+    horizontal-align: left;
+}
+.sidedrawer-header-icon.rtl{
+    horizontal-align: right;
+}
+.sidedrawer-header-headline{
+    font-size: 20;
+    font-weight: bold;
+}
+.sidedrawer-header-subheadline{
+    color: rgb(104, 103, 103);
+    font-size: 16;
+    font-weight: 500;
+}
+.sidedrawer-section{
+    padding-bottom: 10;
+}
+.sidedrawer-section-separator{
+    border-bottom-width:0.5;
+    border-bottom-color:rgb(104, 103, 103);
+}
+.sidedrawer-section-caption{
+    padding-top: 5;
+    padding-bottom: 5;
+    height:40;
+    font-size:16;
+    font-weight: 500;
+    color: rgb(104, 103, 103);
+}
+.sidedrawer-section-caption.ltr{
+    padding-left: 15;
+    text-align: left;
+}
+.sidedrawer-section-caption.rtl{
+    padding-right: 15;
+    text-align: right;
+}
+.sidedrawer-list-item{
+    color: black;
+    padding-left: 20;
+    padding-right: 10;
+}
+.sidedrawer-list-item-active{
+    padding-left: 20;
+    padding-right: 10;
+    color: white;
+    background-color: #0A6ED1;
+}
+.sidedrawer-list-item-onpress{
+    background-color: rgb(235, 231, 231);
+    color: black;
+    padding-left: 20;
+    padding-right: 10;
+}
+.sidedrawer-list-item-icon{
+    height:24;
+    width: 10%;
+    margin-right: 20;
+}
+.sidedrawer-list-item-title{
+    font-size:16;
+    height:40;
+    font-weight: 600;
+}
+.sidedrawer-list-item-title.ltr{
+    text-align: left;
+}
+.sidedrawer-list-item-title.rtl{
+    text-align: right;
+}

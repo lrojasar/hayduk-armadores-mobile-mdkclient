@@ -1,0 +1,42 @@
+[
+    {
+        "name": "@nativescript-rtl/ui",
+        "directory": "../../node_modules/@nativescript-rtl/ui"
+    },
+    {
+        "name": "@nativescript/core",
+        "directory": "../../node_modules/@nativescript/core"
+    },
+    {
+        "name": "@nstudio/nativescript-pulltorefresh",
+        "directory": "../../node_modules/@nstudio/nativescript-pulltorefresh"
+    },
+    {
+        "name": "mdk-sap",
+        "directory": "../../node_modules/mdk-sap"
+    },
+    {
+        "name": "nativescript-ui-sidedrawer",
+        "directory": "../../node_modules/nativescript-ui-sidedrawer"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "../../node_modules/tns-core-modules"
+    },
+    {
+        "name": "toolbar-plugin",
+        "directory": "../../node_modules/toolbar-plugin"
+    },
+    {
+        "name": "zip-plugin",
+        "directory": "../../node_modules/zip-plugin"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "../../node_modules/tns-core-modules-widgets"
+    },
+    {
+        "name": "nativescript-ui-core",
+        "directory": "../../node_modules/nativescript-ui-core"
+    }
+]

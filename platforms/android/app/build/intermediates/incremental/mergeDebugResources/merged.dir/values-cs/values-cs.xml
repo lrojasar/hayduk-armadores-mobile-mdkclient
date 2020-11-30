@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="attachment_long_press_options">
+        <item name="remove" translatable="true">"Odebrat přílohu"</item>
+    </string-array>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"VYP"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ZAP"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"mezerník"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Dotaz pro vyhledávání"</string>
+    <string name="abc_searchview_description_scan" translatable="true">"Hledat naskenovaný soubor"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Sdílet s"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Sdílet s aplikací <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"Oblast pro zprávu nápovědy"</string>
+    <string name="action_cell_icon_desc">"Ikona akce"</string>
+    <string name="activation_action_next">"Další"</string>
+    <string name="activation_action_scan">"Skenování"</string>
+    <string name="activation_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="activation_detail_label">"Jestliže jste obdrželi uvítací e-mail, použijte v něm uvedený odkaz. V opačném případě začněte zadáním vaší e-mailové adresy nebo naskenováním QR kódu."</string>
+    <string name="activation_headline_label">"Aktivace"</string>
+    <string name="activation_subheadline_label">"Nebo"</string>
+    <string name="activationscreen_discovery_button">"Spustit"</string>
+    <string name="activationscreen_discovery_title">"Použijte váš e-mail"</string>
+    <string name="activationscreen_email_hint">"Váš e-mail"</string>
+    <string name="activationscreen_instruction"/>
+    <string name="activationscreen_instruction_barcode">"Spusťte aktivační proces naskenováním QR kódu."</string>
+    <string name="activationscreen_instruction_choose_an_option">"Pro spuštění aktivačního procesu zadejte vaši e-mailovou adresu.\n\nAlternativně můžete použít skenování QR kódu."</string>
+    <string name="activationscreen_instruction_discovery_service">"Spusťte aktivační proces zadáním vaší e-mailové adresy."</string>
+    <string name="activationscreen_instruction_mail">"Zkontrolujte váš e-mail a klikněte na odkaz na aktivaci, který jsme vám právě odeslali pro přihlášení."</string>
+    <string name="activationscreen_instruction_mail_email">"Zkontrolujte váš e-mail a klikněte na odkaz na aktivaci, který jsme právě odeslali pro přihlášení.\nOdeslali jsme ho na:\n"<b>"%s"</b></string>
+    <string name="activationscreen_qrcode_title">"Použijte skenování QR kódu"</string>
+    <string name="activationscreen_scan_button">"Skenování QR kódu"</string>
+    <string name="activationscreen_title">"Aktivace"</string>
+    <string name="activationscreen_title_mail">"Odeslali jsme vám e-mail"</string>
+    <string name="add_photo">"Přidat fotografii"</string>
+    <string name="attachment_action_icon_desc" translatable="true">"Ikona pro akci přílohy"</string>
+    <string name="attachment_action_message" translatable="true">"Připojit z"</string>
+    <string name="attachment_action_title_desc" translatable="true">"Název akce přílohy"</string>
+    <string name="attachment_add_btn_txt" translatable="true">"Přidat"</string>
+    <string name="attachment_default_key" translatable="true">"Přílohy (%1$d)"</string>
+    <string name="attachment_item_content_desc" translatable="true">"Položka přílohy"</string>
+    <string name="attachment_item_detail_title" translatable="true">"Název a jiné detaily"</string>
+    <string name="attachment_item_fail_dialog_bottom_title" translatable="true">"OK"</string>
+    <string name="attachment_item_fail_message" translatable="true">"Otevírání přílohy se nezdařilo"</string>
+    <string name="attachment_item_icon_desc" translatable="true">"Ikona přílohy"</string>
+    <string name="attachment_item_open_message" translatable="true">"Otevírání přílohy"</string>
+    <string name="attachment_remove_icon_desc" translatable="true">"Odebrat přílohu"</string>
+    <string name="attempts">"Zbývá vám 1 pokus"</string>
+    <string name="attempts_left_message">"Zbývá vám {0,number,#} pokusů"</string>
+    <string name="authentication_failed_key">"Nezdařilo se připojit!"</string>
+    <string name="authentication_required">"Autentizace vyžadována"</string>
+    <string name="auto_focus" translatable="true">"Automatický fokus"</string>
+    <string name="barcode_error" translatable="true">"Chyba při čtení čárového kódu: %1$s"</string>
+    <string name="barcode_failure" translatable="true">"Žádný čárový kód nezachycen"</string>
+    <string name="barcode_header" translatable="true">"Pro načtení čárového kódu klikněte na Číst čárový kód"</string>
+    <string name="barcode_success" translatable="true">"Čárový kód úspěšně načten"</string>
+    <string name="basic_auth_instruction">"Autentizace vyžadována"</string>
+    <string name="basic_auth_message">"Server %1$s vyžaduje uživatelské jméno a heslo."</string>
+    <string name="basic_auth_password">"Heslo"</string>
+    <string name="basic_auth_title">"Přihlásit se"</string>
+    <string name="basic_auth_user_name">"Uživatelské jméno"</string>
+    <string name="cancel">"Zrušit"</string>
+    <string name="cancel_button">@android:string/cancel</string>
+    <string name="cancel_onboarding_action_cancel">"Ne"</string>
+    <string name="cancel_onboarding_action_ok">"Ano"</string>
+    <string name="cancel_onboarding_msg">"Opravdu chcete zrušit proces zavádění?"</string>
+    <string name="clear">"Vymazat"</string>
+    <string name="collapse" translatable="true">"Sbalit"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Povolit"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktivovat služby Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivace služeb Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalovat"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v zařízení nemáte."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Instalace služeb Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Dostupnost služeb Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Chyba služeb Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> má potíže se službami Google Play. Zkuste to prosím znovu."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizovat"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktualizovat služby Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aktualizace služeb Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které jsou právě aktualizovány."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otevřít v telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Přihlásit se"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Přihlásit se k účtu Google"</string>
+    <string name="confirm_biometric_description_label">"Přihlásit pomocí biometriky.\nNebo můžete pro přihlášení použít bezpečnostní kód."</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"Použít heslo"</string>
+    <string name="confirm_fingerprint_detail_label">"Pro přihlášení otiskem prstu se dotkněte snímače.\nAlternativně můžete pro přihlášení použít přístupový kód."</string>
+    <string name="confirm_fingerprint_headline_label">"Přihlásit se"</string>
+    <string name="confirm_fingerprint_try_password_button">"Použít přístupový kód"</string>
+    <string name="confirm_no">"Ne"</string>
+    <string name="confirm_yes">"Ano"</string>
+    <string name="consent_button_confirm">"POVOLIT"</string>
+    <string name="consent_button_reject">"ODEPŘÍT"</string>
+    <string name="consent_footer_back">"PŘEDCHOZÍ"</string>
+    <string name="consent_footer_next">"DALŠÍ"</string>
+    <string name="consent_footer_x_of_y">"Krok %d z %d"</string>
+    <string name="consent_header_skip_button">"PŘESKOČIT"</string>
+    <string name="consent_title_text">"SOUHLAS"</string>
+    <string name="contact_cell_info_action_ok">"OK"</string>
+    <string name="contact_cell_info_action_title">"Informace"</string>
+    <string name="content_body">"Detailní text o tom, jak se ochrana dat týká této aplikace a proč je pro uživatele důležité tuto funkčnost aktivovat."</string>
+    <string name="content_learn_more">"Dozvědět se více o zabezpečení"</string>
+    <string name="content_title">"Souhlas"</string>
+    <string name="continue_with_same_string">"Použít aktuální aplikaci"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"Neznámá chyba"</string>
+    <string name="detector_not_operational">"Detektor čárového kódu není funkční kvůli chybějícím závislostem služeb Google Play. Kamera se nezobrazí."</string>
+    <string name="dialog_action_retry">"Opakovat pokus"</string>
+    <string name="done">"Hotovo"</string>
+    <string name="duration_picker_form_cell_duration_text_format" translatable="true">"%d h %d min"</string>
+    <string name="enable_fingerprint_alert_cancel_text">"Nyní ne"</string>
+    <string name="enable_fingerprint_alert_message">"abyste mohli používat váš otisk prstu. Musíte registrovat alespoň jeden váš otisk prstu v nastaveních"</string>
+    <string name="enable_fingerprint_alert_settings_text">"Přejít k nastavením"</string>
+    <string name="enable_fingerprint_alert_title">"Registrujte váš otisk prstu,"</string>
+    <string name="enable_fingerprint_button">"Aktivovat otisk prstu"</string>
+    <string name="enable_fingerprint_detail_label">"Pro rychlejší a snazší přístup k vašemu účtu použijte váš otisk prstu."</string>
+    <string name="enable_fingerprint_error_message_device_is_not_secure">"Zařízení není bezpečné"</string>
+    <string name="enable_fingerprint_error_message_no_fingerprint_added">"Registrujte alespoň jeden otisk prstu v nastaveních"</string>
+    <string name="enable_fingerprint_headline_label">"Použijte váš otisk prstu"</string>
+    <string name="enter_credentials_message">"Dosáhli jste maximálního počtu pokusů o přístupový kód. Pro přihlášení zadejte vaše přihlašovací údaje a resetujte přístupový kód."</string>
+    <string name="eula_button_confirm">"Souhlasím"</string>
+    <string name="eula_button_reject">"Nesouhlasím"</string>
+    <string name="eula_title_text">"Licenční smlouva s koncovým uživatelem"</string>
+    <string name="exit_search" translatable="true">"Konec hledání"</string>
+    <string name="expand" translatable="true">"Rozbalit"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Rozšířená nastavení"</string>
+    <string name="expandable_menu">"Šipku zavádějící položku lze rozbalit"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Různé"</string>
+    <string name="file_provider">"com.sap.mobile.platform.SnowblindClient.fileprovider"</string>
+    <string name="filter_actionbar_title" translatable="true">"Filtrovat podle"</string>
+    <string name="filter_all_items" translatable="true">"VŠE"</string>
+    <string name="filter_apply_filter" translatable="true">"Použít"</string>
+    <string name="filter_confirm_discard" translatable="true">"Zrušit"</string>
+    <string name="filter_confirm_message" translatable="true">"Chcete zrušit vámi nastavené nové filtry?"</string>
+    <string name="filter_confirm_title" translatable="true">"Nové filtry nepoužity"</string>
+    <string name="filter_reset_all" translatable="true">"Resetovat vše"</string>
+    <string name="filter_selected_items" translatable="true">"VYBRANÉ"</string>
+    <string name="fingerprint_authenticate_error_detail_label">"Autentizujte používání aplikace pomocí otisku prstu. Musíte počkat 30 sekund, než budete moci použít snímač znovu."</string>
+    <string name="fingerprint_authenticate_error_headline_label">"Chyba autentizace"</string>
+    <string name="fingerprint_authenticate_error_reset_button">"Resetovat klienta"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"Dotkněte se snímače otisků prstů"</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"Není k dispozici hardware ke snímání otisků prstů."</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"Toto zařízení nemá snímač otisků prstů"</string>
+    <string name="fingerprint_error_label">"Nerozpoznáno"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"Příliš mnoho pokusů. Zkuste to později."</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"Nejsou zaregistrovány žádné otisky prstů."</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"Uživatel operaci s otiskem prstu zrušil."</string>
+    <string name="fingerprint_general_error_label">"Při autentizaci se vyskytl problém"</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"Nerozpoznáno"</string>
+    <string name="gb_size_unit">"GB"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"Ověření bylo zrušeno uživatelem."</string>
+    <string name="init_odata_downloaded_data_subtext_format">"Download data… %1$,.2f%2$s"</string>
+    <string name="init_odata_downloaded_file_subtext_format">"Download souboru… %1$,.2f%2$s"</string>
+    <string name="init_odata_initial_communication">"Připojování…"</string>
+    <string name="init_odata_initializing">"Připojování…"</string>
+    <string name="init_odata_opened">"Dokončeno"</string>
+    <string name="init_odata_opening">"Otevírání…"</string>
+    <string name="init_odata_prepare_download_data">"Čekání na data ze serveru…"</string>
+    <string name="init_odata_prepare_download_file">"Čekání na soubor ze serveru…"</string>
+    <string name="init_odata_sending_store">"Probíhá upload…"</string>
+    <string name="init_odata_uploading">"Probíhá upload…"</string>
+    <string name="kb_size_unit">"KB"</string>
+    <string name="launchscreen_button_demo">"Vyzkoušet demo"</string>
+    <string name="launchscreen_button_primary">"Začínáme"</string>
+    <string name="launchscreen_description"/>
+    <string name="launchscreen_footnote">"Zobrazit naše &lt;a href=%1$s>Podmínky služby&lt;/a> &amp; &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/a>"</string>
+    <string name="launchscreen_headline"/>
+    <string name="launchscreen_title"/>
+    <string name="loading" translatable="true">"Načítání..."</string>
+    <string name="log_in">"Přihlásit"</string>
+    <string name="low_storage">"nedostatek místa v úložišti"</string>
+    <string name="low_storage_error" translatable="true">"Závislosti detektoru tváře nelze stáhnout kvůli nedostatku místa v úložišti zařízení"</string>
+    <string name="map_add_button">"Přidat"</string>
+    <string name="map_branch_button">"Pobočka"</string>
+    <string name="map_cluster_close">"Zavře panel clusterů"</string>
+    <string name="map_directions">"Směry"</string>
+    <string name="map_edit_add_point_button">"Přidat bod"</string>
+    <string name="map_edit_annotation_type">"Typ anotace"</string>
+    <string name="map_edit_annotations">"Upravit anotace"</string>
+    <string name="map_edit_cancel_button">"Zrušit"</string>
+    <string name="map_edit_cancel_edit_confirm_button">"Konec"</string>
+    <string name="map_edit_cancel_edit_decline_button">"Pokračovat v úpravách"</string>
+    <string name="map_edit_cancel_edit_message">"Opravdu chcete ukončit editor mapy?"</string>
+    <string name="map_edit_cancel_edit_title">"Ukončit editor mapy?"</string>
+    <string name="map_edit_clear_all_button">"Vymazat vše"</string>
+    <string name="map_edit_clear_points_confirm_button">"Vymazat vše"</string>
+    <string name="map_edit_clear_points_message">"Vymazat všechny body?"</string>
+    <string name="map_edit_close_button">"Zavřít"</string>
+    <string name="map_edit_label_address">"Adresa"</string>
+    <string name="map_edit_save_button">"Uložit"</string>
+    <string name="map_edit_switch_confirm_button">"Přepnout"</string>
+    <string name="map_edit_switch_to_point_message">"Body, které jste přidali, budou odstraněny. Opravdu chcete přepnout?"</string>
+    <string name="map_edit_switch_to_point_title">"Přepnout na bod?"</string>
+    <string name="map_edit_switch_to_polygon_message">"Přidané body se nezmění. Můžete pokračovat v tvorbě objektu."</string>
+    <string name="map_edit_switch_to_polygon_title">"Přepnout na polygon?"</string>
+    <string name="map_edit_switch_to_polyline_message">"Přidané body se nezmění. Můžete pokračovat v tvorbě objektu."</string>
+    <string name="map_edit_switch_to_polyline_title">"Přepnout na lomenou čáru?"</string>
+    <string name="map_edit_type_point">"Bod"</string>
+    <string name="map_edit_type_polygon">"Polygon"</string>
+    <string name="map_edit_type_polyline">"Lomená čára"</string>
+    <string name="map_legend">"Legenda"</string>
+    <string name="map_legend_button">"Tlačítko Legenda"</string>
+    <string name="map_legend_item">"Položka legendy"</string>
+    <string name="map_legend_title">"Titulek legendy"</string>
+    <string name="map_list_title">"%1$d Objekt\\"</string>
+    <string name="map_location_button">"Tlačítko Umístění"</string>
+    <string name="map_point_delete_confirm_button">"Odstranit"</string>
+    <string name="map_point_delete_message">"Opravdu chcete odstranit tento bod?"</string>
+    <string name="map_preview_close">"Zavře panel náhledu"</string>
+    <string name="map_priority_high">"Vysoká"</string>
+    <string name="map_priority_low">"Nízká"</string>
+    <string name="map_priority_medium">"Střední"</string>
+    <string name="map_priority_very_high">"Velmi vysoká"</string>
+    <string name="map_redo_button">"Provést znovu"</string>
+    <string name="map_remove_button">"Odebrat"</string>
+    <string name="map_search_cancel">"Zrušit"</string>
+    <string name="map_search_enter_an_address">"Zadat adresu"</string>
+    <string name="map_search_error_message">"Při hledání umístění došlo k chybě."</string>
+    <string name="map_search_error_title">"Chyba hledání"</string>
+    <string name="map_search_location_search_title">"Vybrat aktuální umístění"</string>
+    <string name="map_search_ok">"OK"</string>
+    <string name="map_search_your_location">"Aktuální poloha"</string>
+    <string name="map_settings_button">"Tlačítko Nastavení"</string>
+    <string name="map_settings_title">"Nastavení"</string>
+    <string name="map_show_hide_button">"Tlačítko Zobrazit/Skrýt"</string>
+    <string name="map_toolbar">"Nástrojová lišta"</string>
+    <string name="map_undo_button">"Vrátit zpět"</string>
+    <string name="map_zoom_button">"Tlačítko Rozsahy lupy"</string>
+    <string name="max_attempts_reached_message">"Je třeba resetovat přístupový kód"</string>
+    <string name="mb_size_unit">"MB"</string>
+    <string name="network_unreachable_key">"Síť není k dispozici. Zkuste to znovu později."</string>
+    <string name="new_activity_on_click_sign">"Šipka vlevo zavádějící novou činnost bude vytvořena při kliknutí na pohled"</string>
+    <string name="no_camera_permission" translatable="true">"Tuto aplikaci nelze spustit, protože nemá oprávnění pro kameru. Aplikace bude nyní ukončena."</string>
+    <string name="null_policy_cancel_button_alert_dialog">"Zrušit"</string>
+    <string name="null_policy_desc_alert_dialog">"Žádná strategie přístupového kódu není nyní k dispozici."</string>
+    <string name="null_policy_header_alert_dialog">"Chyba stažení"</string>
+    <string name="null_policy_retry_button_alert_dialog">"Opakovat"</string>
+    <string name="object_header_page_1" translatable="true">"Stránka 1"</string>
+    <string name="object_header_page_2" translatable="true">"Stránka 2"</string>
+    <string name="object_header_page_3" translatable="true">"Stránka 3"</string>
+    <string name="ok_button">"android:řetězec/ok"</string>
+    <string name="ok_button_label">"OK"</string>
+    <string name="onboarding_eula_title">"Licenční dohoda s koncovým uživatelem"</string>
+    <string name="onboarding_passcode_fingerprint_reset">"Použít heslo"</string>
+    <string name="onboarding_passcode_max_attempts_reached">"Vyžadován reset hesla"</string>
+    <string name="onboarding_passcode_reset_app">"Resetovat aplikaci"</string>
+    <string name="onboarding_retrieve_cpms_settings">"Zavádění…"</string>
+    <string name="onboarding_retrieve_cpms_settings_failed">"Obnovení nastavení se nezdařilo. Použití standardů"</string>
+    <string name="one_attempt_left_message">"Zbývá vám 1 pokus"</string>
+    <string name="open_document_image_description">"Obrázek dokumentu"</string>
+    <string name="passcode_change_instruction_text">"Zadejte váš současný přístupový kód."</string>
+    <string name="passcode_change_title">"Zadat přístupový kód"</string>
+    <string name="passcode_create_digits_label">"Číslice (0-9)"</string>
+    <string name="passcode_create_done_button_text">"Další"</string>
+    <string name="passcode_create_group_label">"Použijte následující:"</string>
+    <string name="passcode_create_instruction_text">"Pro odblokování aplikace nastavte přístupový kód, který je dlouhý alespoň {0,number,#} znaků."</string>
+    <string name="passcode_create_lowercase_label">"Malá písmena (a-z)"</string>
+    <string name="passcode_create_skip_button_text">"Nyní ne"</string>
+    <string name="passcode_create_symbols_label">"Symboly (!@#...)"</string>
+    <string name="passcode_create_title">"Vytvořit kód"</string>
+    <string name="passcode_create_uppercase_label">"Velká písmena (A-Z)"</string>
+    <string name="passcode_default_confirm_button_cancel_text">"Zrušit"</string>
+    <string name="passcode_default_confirm_done_button_text">"Hotovo"</string>
+    <string name="passcode_default_confirm_instruction_text">"Potvrďte přístupový kód, který jste vytvořili"</string>
+    <string name="passcode_default_confirm_mismatch_text">"Přístupový kód neodpovídá, pokuste se znovu"</string>
+    <string name="passcode_default_confirm_title">"Ověřit přístupový kód"</string>
+    <string name="passcode_default_skip_label_confirm">"Zpět"</string>
+    <string name="passcode_enter_button_text">"Přihlásit"</string>
+    <string name="passcode_enter_instruction_text">"Pro odblokování aplikace zadejte váš přístupový kód"</string>
+    <string name="passcode_enter_title">"Zadat přístupový kód"</string>
+    <string name="passcode_error_message_text">"Chybová zpráva"</string>
+    <string name="passcode_reset_button_text">"Resetovat klienta"</string>
+    <string name="passcode_skip_hint">"Přeskočit proces přístupového kódu"</string>
+    <string name="passcode_skip_label">"Zrušit"</string>
+    <string name="passcode_use_default">"Použít standardní"</string>
+    <string name="password">"Heslo"</string>
+    <string name="permission_camera_rationale" translatable="true">"Pro detekci je zapotřebí přístup ke kameře"</string>
+    <string name="popover_image_description">"Obrázek překryvného okna"</string>
+    <string name="progress_indicator_full_format">"%1$s (%2$s)"</string>
+    <string name="push_error">"Chyba push"</string>
+    <string name="push_invalid_push_format">"Zpráva push obdržena, ale její formát byl neplatný, takže ji nebylo možné zpracovat."</string>
+    <string name="push_message">"Obdržena zpráva push"</string>
+    <string name="push_text">"Oznámení"</string>
+    <string name="push_token_upload_failed_detail">"Token push nebylo možné odeslat na server SAP, funkce push nebude fungovat. Neobdržíte zprávy push."</string>
+    <string name="qr_confirm_continue_title">"Pokračovat"</string>
+    <string name="qr_confirm_detailed_msg_label">"Nyní budete přesměrováni na:"</string>
+    <string name="qr_confirm_failure_detailed_message">"Registrace se nezdařila. Zkuste jinou cestu nebo metodu registrace."</string>
+    <string name="qr_confirm_failure_title">"Selhání"</string>
+    <string name="qr_confirm_redirecturl_label"/>
+    <string name="qr_reader_photolibrary_contentdescription">"knihovna fotografií"</string>
+    <string name="qr_scan_succeeded_label">"Skenování úspěšné!"</string>
+    <string name="qr_validation_failure_detailed_message">"Registrace se nezdařila. Zkuste jinou cestu nebo metodu registrace."</string>
+    <string name="qr_validation_failure_title">"Selhání"</string>
+    <string name="read_barcode" translatable="true">"Číst čárový kód"</string>
+    <string name="reset_button_label_alert_dialog">"Resetovat klienta"</string>
+    <string name="reset_client">"Resetovat klienta"</string>
+    <string name="reset_client_cong_msg">"Tímto bude resetován klient MDK. Jste si jisti?"</string>
+    <string name="reset_client_info_action_cancel">"Zrušit"</string>
+    <string name="reset_client_info_action_ok">"Resetovat"</string>
+    <string name="reset_hint">"Pokud si nepamatujete váš přístupový kód, použijte toto tlačítko"</string>
+    <string name="results">"VÝSLEDKY(%1$d)"</string>
+    <string name="retry_passcode_message">"Nesprávný přístupový kód. Zkuste to znovu"</string>
+    <string name="sap_logo">"Logo SAP"</string>
+    <string name="scan_new_qr_code_string">"Skenovat nový QR kód"</string>
+    <string name="scanning_started">"Skenování..."</string>
+    <string name="search_hint" translatable="true">"Hledat"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Hledat"</string>
+    <string name="select" translatable="true">"Vybrat"</string>
+    <string name="select_file">"Vybrat soubor"</string>
+    <string name="select_option_string">"Vyberte nějakou možnost"</string>
+    <string name="select_picture">"Vybrat obrázek"</string>
+    <string name="signature_captured">"Podpis je pořízen"</string>
+    <string name="skip_for_now_button">"Nyní přeskočit"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="take_photo">"Pořídit fotografii"</string>
+    <string name="timeline_empty_description">"Vytvořte úlohu a ta se zobrazí na časové ose."</string>
+    <string name="timeline_empty_headline">"Momentálně není žádný termín"</string>
+    <string name="timeline_preview_content_description">"Obrázek pro událost"</string>
+    <string name="timeline_preview_header">"ČASOVÁ OSA"</string>
+    <string name="timeline_preview_multiday">"%1$s (den %2$d/%3$d)"</string>
+    <string name="timeline_preview_see_all">"VIZ VŠE (%1$d)"</string>
+    <string name="title_activity_main" translatable="true">"Vzor čtecího zařízení čárového kódu"</string>
+    <string name="use_flash" translatable="true">"Použít Flash"</string>
+    <string name="username">"Uživatelské jméno"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"VYP"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ZAP"</string>
+    <string name="verify_passcode_done_button">"Ověřit"</string>
+    <string name="verify_passcode_fingerprint_detail_label">"Dotkněte se snímače pro ověření pomocí otisku prstu\nNebo můžete pro ověření použít přístupový kód"</string>
+    <string name="verify_passcode_fingerprint_headline">"Ověřit"</string>
+    <string name="verify_passcode_instruction">"Pro ověření zadejte váš přístupový kód"</string>
+    <string name="welcome_action_demo">"Vyzkoušet demo"</string>
+    <string name="welcome_action_scan">"Skenování"</string>
+    <string name="welcome_action_start">"Spustit"</string>
+    <string name="welcome_default_qr_reader">"com.sap.cloud.mobile.onboarding.qrcodereader.google.QRCodeReaderActivity"</string>
+    <string name="welcome_demo_label">"Chcete prozkoumat?"</string>
+    <string name="welcome_detail_label">"Spusťte aktivační proces podle pokynů uvedených v uvítacím e-mailu."</string>
+    <string name="welcome_detailed_label_configured_instruction">"Udržujte si přehled o vašich každodenních úkolech a usnadněte si spolupráci na projektech."</string>
+    <string name="welcome_detailed_label_discoveryservice_instruction">"Spusťte aktivační proces zadáním vaší e-mailové adresy."</string>
+    <string name="welcome_detailed_label_scan_instruction">"Spusťte aktivační proces naskenováním QR kódu."</string>
+    <string name="welcome_detailed_label_welcome_instruction">"Spusťte aktivační proces podle pokynů uvedených v uvítacím e-mailu."</string>
+    <string name="welcome_email_hint">"e-mail"</string>
+    <string name="welcome_headline_label">"Děkujeme vám za stažení"</string>
+</resources>

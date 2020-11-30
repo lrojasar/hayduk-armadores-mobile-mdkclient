@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="attachment_clear_color">#91C8F6</color>
+    <color name="attachment_icon_color">#D3D7D9</color>
+    <color name="camera_frame_border_color">#59000000</color>
+    <color name="chip_background_color_disabled_selected">#0D91C8F6</color>
+    <color name="chip_background_color_disabled_unselected">#08FFFFFF</color>
+    <color name="chip_background_color_enabled_selected">#1F91C8F6</color>
+    <color name="chip_background_color_enabled_unselected">#14FFFFFF</color>
+    <color name="chip_outlined_background_color_disabled_selected">#91C8F6</color>
+    <color name="chip_outlined_background_color_disabled_unselected">#001C2228</color>
+    <color name="chip_outlined_background_color_enabled_selected">#1491C8F6</color>
+    <color name="chip_outlined_background_color_enabled_unselected">#001C2228</color>
+    <color name="chip_outlined_border_color_disabled_selected">#6691C8F6</color>
+    <color name="chip_outlined_border_color_disabled_unselected">#668696A9</color>
+    <color name="chip_outlined_border_color_enabled_selected">#8091C8F6</color>
+    <color name="chip_outlined_border_color_enabled_unselected">#8696A9</color>
+    <color name="chip_outlined_ripple_color_focused">#1FFFFFFF</color>
+    <color name="chip_outlined_ripple_color_unfocused">#2991C8F6</color>
+    <color name="chip_ripple_color_focused">#1FFFFFFF</color>
+    <color name="chip_ripple_color_unfocused">#2991C8F6</color>
+    <color name="chip_text_color_disabled_selected">#FF487ca8</color>
+    <color name="chip_text_color_disabled_unselected">#FF8696A9</color>
+    <color name="chip_text_color_enabled_selected">#91C8F6</color>
+    <color name="chip_text_color_enabled_unselected">#D3D7D9</color>
+    <color name="colorPrimarySurface">@color/colorSurface</color>
+    <color name="colorSurface">#1C2228</color>
+    <color name="contact_person_color">#D3D7D9</color>
+    <color name="divider_color">#668696A9</color>
+    <color name="drag_layout_drag_background">#2f3d49</color>
+    <color name="drag_layout_drag_shadow">#70000000</color>
+    <color name="floating_action_button_icon_color">#FAFAFA</color>
+    <color name="handle_horizontal_color">#3DFFFFFF</color>
+    <color name="hierarchy_cell_selected">#91C8F6</color>
+    <color name="hierarchy_column_shadow">#1F000000</color>
+    <color name="map_disabled_button">#AAAAAA</color>
+    <color name="map_edit_color">#FF0070B1</color>
+    <color name="map_edit_poly_fill_color">#190070B1</color>
+    <color name="map_points_selected_row">#344B5F</color>
+    <color name="maps_default_fill_color">#1900a796</color>
+    <color name="maps_default_marker_color">#354A5F</color>
+    <color name="maps_default_stroke_color">#FF00a796</color>
+    <color name="maps_legend_background_color">#1C2228</color>
+    <color name="maps_marker_color_1">#FFC847</color>
+    <color name="maps_marker_color_10">#B0BCC5</color>
+    <color name="maps_marker_color_2">#E7A1A1</color>
+    <color name="maps_marker_color_3">#F37AA2</color>
+    <color name="maps_marker_color_4">#E269C9</color>
+    <color name="maps_marker_color_5">#8CA7D5</color>
+    <color name="maps_marker_color_6">#6BD3FF</color>
+    <color name="maps_marker_color_7">#7FC6C6</color>
+    <color name="maps_marker_color_8">#B2E484</color>
+    <color name="maps_marker_color_9">#B995E0</color>
+    <color name="maps_point_list_body_text_color">#D3D7D9</color>
+    <color name="maps_point_list_subtitle_text_color">#FAFAFA</color>
+    <color name="maps_toolbar_disabled">#88346187</color>
+    <color name="maps_toolbar_ripple_non_sticky">#1EFFFFFF</color>
+    <color name="maps_toolbar_ripple_sticky">#2991C8F6</color>
+    <color name="maps_toolbar_selected">#1F91C8F6</color>
+    <color name="onboarding_background">#1C2228 </color>
+    <color name="onboarding_background_alpha">#E61C2228</color>
+    <color name="onboarding_blue_250">#91C8F6</color>
+    <color name="onboarding_blue_300">#91C8F6</color>
+    <color name="onboarding_button_raised_background_disabled">#6691C8F6</color>
+    <color name="onboarding_button_raised_text_disabled">#1C2228</color>
+    <color name="read_only_text_color">#D3D7D9</color>
+    <color name="sap_chart_title_divider_color">#668696A9</color>
+    <color name="sap_linechart_default_grid_color">#668696A9</color>
+    <color name="sap_raised_button_ripple_color">#a3d1f7</color>
+    <color name="sap_raised_button_text_color">#1C2228</color>
+    <color name="sap_ui_attachment_grid_caption_color">#FFFFFF</color>
+    <color name="sap_ui_background_color">#1C2228</color>
+    <color name="sap_ui_base_color">#1C2228</color>
+    <color name="sap_ui_base_text">#FAFAFA</color>
+    <color name="sap_ui_button_emphasized_border_color">#91C8F6</color>
+    <color name="sap_ui_button_emphasized_border_color_30">#4c91C8F6</color>
+    <color name="sap_ui_button_normal">#91C8F6</color>
+    <color name="sap_ui_button_reject_border_color">#3B0000</color>
+    <color name="sap_ui_button_text_color">#91C8F6</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_1">#FFC847</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_10">#B0BCC5</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_11">#2F6497</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_2">#E7A1A1</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_3">#F37AA2</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_4">#E269C9</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_5">#8CA7D5</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_6">#6BD3FF</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_7">#7FC6C6</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_8">#B2E484</color>
+    <color name="sap_ui_chart_palette_qualitative_hue_9">#B995E0</color>
+    <color name="sap_ui_collection_view_default_color">#7FC6C6</color>
+    <color name="sap_ui_contact_placeholder_color_1">#FFC847</color>
+    <color name="sap_ui_contact_placeholder_color_10">#B0BCC5</color>
+    <color name="sap_ui_contact_placeholder_color_2">#E7A1A1</color>
+    <color name="sap_ui_contact_placeholder_color_3">#F37AA2</color>
+    <color name="sap_ui_contact_placeholder_color_4">#E269C9</color>
+    <color name="sap_ui_contact_placeholder_color_5">#8CA7D5</color>
+    <color name="sap_ui_contact_placeholder_color_6">#6BD3FF</color>
+    <color name="sap_ui_contact_placeholder_color_7">#7FC6C6</color>
+    <color name="sap_ui_contact_placeholder_color_8">#B2E484</color>
+    <color name="sap_ui_contact_placeholder_color_9">#B995E0</color>
+    <color name="sap_ui_content_label_color">#D3D7D9</color>
+    <color name="sap_ui_content_non_interactive_icon_color">#D3D7D9</color>
+    <color name="sap_ui_critical_text">#FABD64</color>
+    <color name="sap_ui_field_active_border_color">#91C8F6</color>
+    <color name="sap_ui_field_border_color">#8696A9</color>
+    <color name="sap_ui_field_text_color">#FAFAFA</color>
+    <color name="sap_ui_flat_button_ripple_color">#2a3641</color>
+    <color name="sap_ui_flat_button_text_color">#91C8F6</color>
+    <color name="sap_ui_formcell_hint_color">#B8BEC1</color>
+    <color name="sap_ui_formcell_key">#91C8F6</color>
+    <color name="sap_ui_formcell_key_unfocused">#D3D7D9</color>
+    <color name="sap_ui_link">#91C8F6</color>
+    <color name="sap_ui_link_disabled">#7F91C8F6</color>
+    <color name="sap_ui_list_background">#1C2228</color>
+    <color name="sap_ui_list_background_87">#de1c2228</color>
+    <color name="sap_ui_list_border_color">#668696A9</color>
+    <color name="sap_ui_list_header_background">#2D3640</color>
+    <color name="sap_ui_list_picker_deselect">#1FFFFFFF</color>
+    <color name="sap_ui_list_picker_select">#2991C8F6</color>
+    <color name="sap_ui_negative_text">#FF8888</color>
+    <color name="sap_ui_neutral_text">#D3D7D9</color>
+    <color name="sap_ui_page_footer_background">#1C2228</color>
+    <color name="sap_ui_positive_text">#ABE2AB</color>
+    <color name="sap_ui_simple_formcell_action_button">#91C8F6</color>
+    <color name="sap_ui_slider_background_tint">#91C8F6</color>
+    <color name="sap_ui_switch_thumb_color_off">#a7aaad</color>
+    <color name="sap_ui_switch_thumb_color_on">#91C8F6</color>
+    <color name="sap_ui_switch_track_color">#6191C8F6</color>
+    <color name="sap_ui_switch_track_color_off">#61FFFFFF</color>
+    <color name="sap_ui_thumb_color">#91C8F6</color>
+    <color name="sap_ui_watermark_text">#8696A9</color>
+    <color name="search_icon_color">#D3D7D9</color>
+    <color name="search_input_background_color">#1C2228</color>
+    <color name="search_on_action_bar_color">#D3D7D9</color>
+    <color name="search_text_color">#D3D7D9</color>
+    <color name="selectedColor">#2991C8F6</color>
+    <color name="snackbar_action_text">#6A6D70</color>
+    <color name="snackbar_label_text">#FFFFFF</color>
+    <color name="suggestion_list_color">#1C2228</color>
+    <color name="timeline_line">#668696A9</color>
+    <color name="timeline_past_attribute">#80D6D7D9</color>
+    <color name="timeline_past_cardview_background">#8029313A</color>
+    <color name="timeline_past_description">#80D6D7D9</color>
+    <color name="timeline_past_headline">#80FAFAFA</color>
+    <color name="timeline_past_node">#808696A9</color>
+    <color name="timeline_past_timestamp">#808696A9</color>
+    <color name="timeline_timestamp_header">#D6D7D9</color>
+    <color name="timeline_today_circle">#91C8F6</color>
+    <color name="timeline_upcoming_cardview_background">#29313A</color>
+    <color name="timeline_upcoming_description">#D6D7D9</color>
+    <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="Theme.AppCompat.Dialog.Alert"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="Theme.AppCompat.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="Theme.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="Theme.MaterialComponents.DayNight" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="Theme.MaterialComponents.BottomSheetDialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="Theme.MaterialComponents.Dialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="Theme.MaterialComponents.Dialog.Alert"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="Theme.MaterialComponents.Dialog.Alert.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="Theme.MaterialComponents.Dialog.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="Theme.MaterialComponents.Dialog.FixedSize"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="Theme.MaterialComponents.Dialog.FixedSize.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="Theme.MaterialComponents.Dialog.MinWidth"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="Theme.MaterialComponents.Dialog.MinWidth.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="Theme.MaterialComponents.DialogWhenLarge"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="Theme.MaterialComponents.NoActionBar"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="Theme.MaterialComponents.NoActionBar.Bridge"/>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="ThemeOverlay.AppCompat.Dark"/>
+    <style name="ThemeOverlay.MaterialComponents.DayNight.BottomSheetDialog" parent="ThemeOverlay.MaterialComponents.BottomSheetDialog"/>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="Widget.MaterialComponents.ActionBar.Surface"/>
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="Widget.MaterialComponents.AppBarLayout.Surface"/>
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="Widget.MaterialComponents.BottomAppBar"/>
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="Widget.MaterialComponents.BottomNavigationView"/>
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="Widget.MaterialComponents.TabLayout"/>
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="Widget.MaterialComponents.Toolbar.Surface"/>
+</resources>
